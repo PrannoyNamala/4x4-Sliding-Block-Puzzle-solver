@@ -1,0 +1,274 @@
+The input state is Parent node : None 
+State: 
+1234
+5608
+9a7c
+debf  
+Goal State Found. The parent is 9 
+The 0th index of nodes_list is 
+ Parent node : None 
+State: 
+1234
+5608
+9a7c
+debf  
+The 1th index of nodes_list is 
+ Parent node : 0 
+State: 
+1204
+5638
+9a7c
+debf  
+The 2th index of nodes_list is 
+ Parent node : 0 
+State: 
+1234
+5678
+9a0c
+debf  
+The 3th index of nodes_list is 
+ Parent node : 0 
+State: 
+1234
+5068
+9a7c
+debf  
+The 4th index of nodes_list is 
+ Parent node : 0 
+State: 
+1234
+5680
+9a7c
+debf  
+The 5th index of nodes_list is 
+ Parent node : 1 
+State: 
+1234
+5608
+9a7c
+debf  
+The 6th index of nodes_list is 
+ Parent node : 1 
+State: 
+1024
+5638
+9a7c
+debf  
+The 7th index of nodes_list is 
+ Parent node : 1 
+State: 
+1240
+5638
+9a7c
+debf  
+The 8th index of nodes_list is 
+ Parent node : 2 
+State: 
+1234
+5608
+9a7c
+debf  
+The 9th index of nodes_list is 
+ Parent node : 2 
+State: 
+1234
+5678
+9abc
+de0f  
+The 10th index of nodes_list is 
+ Parent node : 2 
+State: 
+1234
+5678
+90ac
+debf  
+The 11th index of nodes_list is 
+ Parent node : 2 
+State: 
+1234
+5678
+9ac0
+debf  
+The 12th index of nodes_list is 
+ Parent node : 3 
+State: 
+1034
+5268
+9a7c
+debf  
+The 13th index of nodes_list is 
+ Parent node : 3 
+State: 
+1234
+5a68
+907c
+debf  
+The 14th index of nodes_list is 
+ Parent node : 3 
+State: 
+1234
+0568
+9a7c
+debf  
+The 15th index of nodes_list is 
+ Parent node : 3 
+State: 
+1234
+5608
+9a7c
+debf  
+The 16th index of nodes_list is 
+ Parent node : 4 
+State: 
+1230
+5684
+9a7c
+debf  
+The 17th index of nodes_list is 
+ Parent node : 4 
+State: 
+1234
+568c
+9a70
+debf  
+The 18th index of nodes_list is 
+ Parent node : 4 
+State: 
+1234
+5608
+9a7c
+debf  
+The 19th index of nodes_list is 
+ Parent node : 5 
+State: 
+1204
+5638
+9a7c
+debf  
+The 20th index of nodes_list is 
+ Parent node : 5 
+State: 
+1234
+5678
+9a0c
+debf  
+The 21th index of nodes_list is 
+ Parent node : 5 
+State: 
+1234
+5068
+9a7c
+debf  
+The 22th index of nodes_list is 
+ Parent node : 5 
+State: 
+1234
+5680
+9a7c
+debf  
+The 23th index of nodes_list is 
+ Parent node : 6 
+State: 
+1624
+5038
+9a7c
+debf  
+The 24th index of nodes_list is 
+ Parent node : 6 
+State: 
+0124
+5638
+9a7c
+debf  
+The 25th index of nodes_list is 
+ Parent node : 6 
+State: 
+1204
+5638
+9a7c
+debf  
+The 26th index of nodes_list is 
+ Parent node : 7 
+State: 
+1248
+5630
+9a7c
+debf  
+The 27th index of nodes_list is 
+ Parent node : 7 
+State: 
+1204
+5638
+9a7c
+debf  
+The 28th index of nodes_list is 
+ Parent node : 8 
+State: 
+1204
+5638
+9a7c
+debf  
+The 29th index of nodes_list is 
+ Parent node : 8 
+State: 
+1234
+5678
+9a0c
+debf  
+The 30th index of nodes_list is 
+ Parent node : 8 
+State: 
+1234
+5068
+9a7c
+debf  
+The 31th index of nodes_list is 
+ Parent node : 8 
+State: 
+1234
+5680
+9a7c
+debf  
+The 32th index of nodes_list is 
+ Parent node : 9 
+State: 
+1234
+5678
+9a0c
+debf  
+The 33th index of nodes_list is 
+ Parent node : 9 
+State: 
+1234
+5678
+9abc
+d0ef  
+The 34th index of nodes_list is 
+ Parent node : 9 
+State: 
+1234
+5678
+9abc
+def0  
+Path to Goal is below:
+Parent node : None 
+State: 
+1234
+5608
+9a7c
+debf Parent node : 0 
+State: 
+1234
+5678
+9a0c
+debf Parent node : 2 
+State: 
+1234
+5678
+9abc
+de0f Parent node : 9 
+State: 
+1234
+5678
+9abc
+def0 

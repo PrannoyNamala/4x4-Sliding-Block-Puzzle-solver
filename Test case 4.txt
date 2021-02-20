@@ -1,0 +1,14028 @@
+The input state is Parent node : None 
+State: 
+5123
+0674
+9ab8
+defc  
+Goal State Found. The parent is 617 
+The 0th index of nodes_list is 
+ Parent node : None 
+State: 
+5123
+0674
+9ab8
+defc  
+The 1th index of nodes_list is 
+ Parent node : 0 
+State: 
+0123
+5674
+9ab8
+defc  
+The 2th index of nodes_list is 
+ Parent node : 0 
+State: 
+5123
+9674
+0ab8
+defc  
+The 3th index of nodes_list is 
+ Parent node : 0 
+State: 
+5123
+6074
+9ab8
+defc  
+The 4th index of nodes_list is 
+ Parent node : 1 
+State: 
+5123
+0674
+9ab8
+defc  
+The 5th index of nodes_list is 
+ Parent node : 1 
+State: 
+1023
+5674
+9ab8
+defc  
+The 6th index of nodes_list is 
+ Parent node : 2 
+State: 
+5123
+0674
+9ab8
+defc  
+The 7th index of nodes_list is 
+ Parent node : 2 
+State: 
+5123
+9674
+dab8
+0efc  
+The 8th index of nodes_list is 
+ Parent node : 2 
+State: 
+5123
+9674
+a0b8
+defc  
+The 9th index of nodes_list is 
+ Parent node : 3 
+State: 
+5023
+6174
+9ab8
+defc  
+The 10th index of nodes_list is 
+ Parent node : 3 
+State: 
+5123
+6a74
+90b8
+defc  
+The 11th index of nodes_list is 
+ Parent node : 3 
+State: 
+5123
+0674
+9ab8
+defc  
+The 12th index of nodes_list is 
+ Parent node : 3 
+State: 
+5123
+6704
+9ab8
+defc  
+The 13th index of nodes_list is 
+ Parent node : 4 
+State: 
+0123
+5674
+9ab8
+defc  
+The 14th index of nodes_list is 
+ Parent node : 4 
+State: 
+5123
+9674
+0ab8
+defc  
+The 15th index of nodes_list is 
+ Parent node : 4 
+State: 
+5123
+6074
+9ab8
+defc  
+The 16th index of nodes_list is 
+ Parent node : 5 
+State: 
+1623
+5074
+9ab8
+defc  
+The 17th index of nodes_list is 
+ Parent node : 5 
+State: 
+0123
+5674
+9ab8
+defc  
+The 18th index of nodes_list is 
+ Parent node : 5 
+State: 
+1203
+5674
+9ab8
+defc  
+The 19th index of nodes_list is 
+ Parent node : 6 
+State: 
+0123
+5674
+9ab8
+defc  
+The 20th index of nodes_list is 
+ Parent node : 6 
+State: 
+5123
+9674
+0ab8
+defc  
+The 21th index of nodes_list is 
+ Parent node : 6 
+State: 
+5123
+6074
+9ab8
+defc  
+The 22th index of nodes_list is 
+ Parent node : 7 
+State: 
+5123
+9674
+0ab8
+defc  
+The 23th index of nodes_list is 
+ Parent node : 7 
+State: 
+5123
+9674
+dab8
+e0fc  
+The 24th index of nodes_list is 
+ Parent node : 8 
+State: 
+5123
+9074
+a6b8
+defc  
+The 25th index of nodes_list is 
+ Parent node : 8 
+State: 
+5123
+9674
+aeb8
+d0fc  
+The 26th index of nodes_list is 
+ Parent node : 8 
+State: 
+5123
+9674
+0ab8
+defc  
+The 27th index of nodes_list is 
+ Parent node : 8 
+State: 
+5123
+9674
+ab08
+defc  
+The 28th index of nodes_list is 
+ Parent node : 9 
+State: 
+5123
+6074
+9ab8
+defc  
+The 29th index of nodes_list is 
+ Parent node : 9 
+State: 
+0523
+6174
+9ab8
+defc  
+The 30th index of nodes_list is 
+ Parent node : 9 
+State: 
+5203
+6174
+9ab8
+defc  
+The 31th index of nodes_list is 
+ Parent node : 10 
+State: 
+5123
+6074
+9ab8
+defc  
+The 32th index of nodes_list is 
+ Parent node : 10 
+State: 
+5123
+6a74
+9eb8
+d0fc  
+The 33th index of nodes_list is 
+ Parent node : 10 
+State: 
+5123
+6a74
+09b8
+defc  
+The 34th index of nodes_list is 
+ Parent node : 10 
+State: 
+5123
+6a74
+9b08
+defc  
+The 35th index of nodes_list is 
+ Parent node : 11 
+State: 
+0123
+5674
+9ab8
+defc  
+The 36th index of nodes_list is 
+ Parent node : 11 
+State: 
+5123
+9674
+0ab8
+defc  
+The 37th index of nodes_list is 
+ Parent node : 11 
+State: 
+5123
+6074
+9ab8
+defc  
+The 38th index of nodes_list is 
+ Parent node : 12 
+State: 
+5103
+6724
+9ab8
+defc  
+The 39th index of nodes_list is 
+ Parent node : 12 
+State: 
+5123
+67b4
+9a08
+defc  
+The 40th index of nodes_list is 
+ Parent node : 12 
+State: 
+5123
+6074
+9ab8
+defc  
+The 41th index of nodes_list is 
+ Parent node : 12 
+State: 
+5123
+6740
+9ab8
+defc  
+The 42th index of nodes_list is 
+ Parent node : 13 
+State: 
+5123
+0674
+9ab8
+defc  
+The 43th index of nodes_list is 
+ Parent node : 13 
+State: 
+1023
+5674
+9ab8
+defc  
+The 44th index of nodes_list is 
+ Parent node : 14 
+State: 
+5123
+0674
+9ab8
+defc  
+The 45th index of nodes_list is 
+ Parent node : 14 
+State: 
+5123
+9674
+dab8
+0efc  
+The 46th index of nodes_list is 
+ Parent node : 14 
+State: 
+5123
+9674
+a0b8
+defc  
+The 47th index of nodes_list is 
+ Parent node : 15 
+State: 
+5023
+6174
+9ab8
+defc  
+The 48th index of nodes_list is 
+ Parent node : 15 
+State: 
+5123
+6a74
+90b8
+defc  
+The 49th index of nodes_list is 
+ Parent node : 15 
+State: 
+5123
+0674
+9ab8
+defc  
+The 50th index of nodes_list is 
+ Parent node : 15 
+State: 
+5123
+6704
+9ab8
+defc  
+The 51th index of nodes_list is 
+ Parent node : 16 
+State: 
+1023
+5674
+9ab8
+defc  
+The 52th index of nodes_list is 
+ Parent node : 16 
+State: 
+1623
+5a74
+90b8
+defc  
+The 53th index of nodes_list is 
+ Parent node : 16 
+State: 
+1623
+0574
+9ab8
+defc  
+The 54th index of nodes_list is 
+ Parent node : 16 
+State: 
+1623
+5704
+9ab8
+defc  
+The 55th index of nodes_list is 
+ Parent node : 17 
+State: 
+5123
+0674
+9ab8
+defc  
+The 56th index of nodes_list is 
+ Parent node : 17 
+State: 
+1023
+5674
+9ab8
+defc  
+The 57th index of nodes_list is 
+ Parent node : 18 
+State: 
+1273
+5604
+9ab8
+defc  
+The 58th index of nodes_list is 
+ Parent node : 18 
+State: 
+1023
+5674
+9ab8
+defc  
+The 59th index of nodes_list is 
+ Parent node : 18 
+State: 
+1230
+5674
+9ab8
+defc  
+The 60th index of nodes_list is 
+ Parent node : 19 
+State: 
+5123
+0674
+9ab8
+defc  
+The 61th index of nodes_list is 
+ Parent node : 19 
+State: 
+1023
+5674
+9ab8
+defc  
+The 62th index of nodes_list is 
+ Parent node : 20 
+State: 
+5123
+0674
+9ab8
+defc  
+The 63th index of nodes_list is 
+ Parent node : 20 
+State: 
+5123
+9674
+dab8
+0efc  
+The 64th index of nodes_list is 
+ Parent node : 20 
+State: 
+5123
+9674
+a0b8
+defc  
+The 65th index of nodes_list is 
+ Parent node : 21 
+State: 
+5023
+6174
+9ab8
+defc  
+The 66th index of nodes_list is 
+ Parent node : 21 
+State: 
+5123
+6a74
+90b8
+defc  
+The 67th index of nodes_list is 
+ Parent node : 21 
+State: 
+5123
+0674
+9ab8
+defc  
+The 68th index of nodes_list is 
+ Parent node : 21 
+State: 
+5123
+6704
+9ab8
+defc  
+The 69th index of nodes_list is 
+ Parent node : 22 
+State: 
+5123
+0674
+9ab8
+defc  
+The 70th index of nodes_list is 
+ Parent node : 22 
+State: 
+5123
+9674
+dab8
+0efc  
+The 71th index of nodes_list is 
+ Parent node : 22 
+State: 
+5123
+9674
+a0b8
+defc  
+The 72th index of nodes_list is 
+ Parent node : 23 
+State: 
+5123
+9674
+d0b8
+eafc  
+The 73th index of nodes_list is 
+ Parent node : 23 
+State: 
+5123
+9674
+dab8
+0efc  
+The 74th index of nodes_list is 
+ Parent node : 23 
+State: 
+5123
+9674
+dab8
+ef0c  
+The 75th index of nodes_list is 
+ Parent node : 24 
+State: 
+5023
+9174
+a6b8
+defc  
+The 76th index of nodes_list is 
+ Parent node : 24 
+State: 
+5123
+9674
+a0b8
+defc  
+The 77th index of nodes_list is 
+ Parent node : 24 
+State: 
+5123
+0974
+a6b8
+defc  
+The 78th index of nodes_list is 
+ Parent node : 24 
+State: 
+5123
+9704
+a6b8
+defc  
+The 79th index of nodes_list is 
+ Parent node : 25 
+State: 
+5123
+9674
+a0b8
+defc  
+The 80th index of nodes_list is 
+ Parent node : 25 
+State: 
+5123
+9674
+aeb8
+0dfc  
+The 81th index of nodes_list is 
+ Parent node : 25 
+State: 
+5123
+9674
+aeb8
+df0c  
+The 82th index of nodes_list is 
+ Parent node : 26 
+State: 
+5123
+0674
+9ab8
+defc  
+The 83th index of nodes_list is 
+ Parent node : 26 
+State: 
+5123
+9674
+dab8
+0efc  
+The 84th index of nodes_list is 
+ Parent node : 26 
+State: 
+5123
+9674
+a0b8
+defc  
+The 85th index of nodes_list is 
+ Parent node : 27 
+State: 
+5123
+9604
+ab78
+defc  
+The 86th index of nodes_list is 
+ Parent node : 27 
+State: 
+5123
+9674
+abf8
+de0c  
+The 87th index of nodes_list is 
+ Parent node : 27 
+State: 
+5123
+9674
+a0b8
+defc  
+The 88th index of nodes_list is 
+ Parent node : 27 
+State: 
+5123
+9674
+ab80
+defc  
+The 89th index of nodes_list is 
+ Parent node : 28 
+State: 
+5023
+6174
+9ab8
+defc  
+The 90th index of nodes_list is 
+ Parent node : 28 
+State: 
+5123
+6a74
+90b8
+defc  
+The 91th index of nodes_list is 
+ Parent node : 28 
+State: 
+5123
+0674
+9ab8
+defc  
+The 92th index of nodes_list is 
+ Parent node : 28 
+State: 
+5123
+6704
+9ab8
+defc  
+The 93th index of nodes_list is 
+ Parent node : 29 
+State: 
+6523
+0174
+9ab8
+defc  
+The 94th index of nodes_list is 
+ Parent node : 29 
+State: 
+5023
+6174
+9ab8
+defc  
+The 95th index of nodes_list is 
+ Parent node : 30 
+State: 
+5273
+6104
+9ab8
+defc  
+The 96th index of nodes_list is 
+ Parent node : 30 
+State: 
+5023
+6174
+9ab8
+defc  
+The 97th index of nodes_list is 
+ Parent node : 30 
+State: 
+5230
+6174
+9ab8
+defc  
+The 98th index of nodes_list is 
+ Parent node : 31 
+State: 
+5023
+6174
+9ab8
+defc  
+The 99th index of nodes_list is 
+ Parent node : 31 
+State: 
+5123
+6a74
+90b8
+defc  
+The 100th index of nodes_list is 
+ Parent node : 31 
+State: 
+5123
+0674
+9ab8
+defc  
+The 101th index of nodes_list is 
+ Parent node : 31 
+State: 
+5123
+6704
+9ab8
+defc  
+The 102th index of nodes_list is 
+ Parent node : 32 
+State: 
+5123
+6a74
+90b8
+defc  
+The 103th index of nodes_list is 
+ Parent node : 32 
+State: 
+5123
+6a74
+9eb8
+0dfc  
+The 104th index of nodes_list is 
+ Parent node : 32 
+State: 
+5123
+6a74
+9eb8
+df0c  
+The 105th index of nodes_list is 
+ Parent node : 33 
+State: 
+5123
+0a74
+69b8
+defc  
+The 106th index of nodes_list is 
+ Parent node : 33 
+State: 
+5123
+6a74
+d9b8
+0efc  
+The 107th index of nodes_list is 
+ Parent node : 33 
+State: 
+5123
+6a74
+90b8
+defc  
+The 108th index of nodes_list is 
+ Parent node : 34 
+State: 
+5123
+6a04
+9b78
+defc  
+The 109th index of nodes_list is 
+ Parent node : 34 
+State: 
+5123
+6a74
+9bf8
+de0c  
+The 110th index of nodes_list is 
+ Parent node : 34 
+State: 
+5123
+6a74
+90b8
+defc  
+The 111th index of nodes_list is 
+ Parent node : 34 
+State: 
+5123
+6a74
+9b80
+defc  
+The 112th index of nodes_list is 
+ Parent node : 35 
+State: 
+5123
+0674
+9ab8
+defc  
+The 113th index of nodes_list is 
+ Parent node : 35 
+State: 
+1023
+5674
+9ab8
+defc  
+The 114th index of nodes_list is 
+ Parent node : 36 
+State: 
+5123
+0674
+9ab8
+defc  
+The 115th index of nodes_list is 
+ Parent node : 36 
+State: 
+5123
+9674
+dab8
+0efc  
+The 116th index of nodes_list is 
+ Parent node : 36 
+State: 
+5123
+9674
+a0b8
+defc  
+The 117th index of nodes_list is 
+ Parent node : 37 
+State: 
+5023
+6174
+9ab8
+defc  
+The 118th index of nodes_list is 
+ Parent node : 37 
+State: 
+5123
+6a74
+90b8
+defc  
+The 119th index of nodes_list is 
+ Parent node : 37 
+State: 
+5123
+0674
+9ab8
+defc  
+The 120th index of nodes_list is 
+ Parent node : 37 
+State: 
+5123
+6704
+9ab8
+defc  
+The 121th index of nodes_list is 
+ Parent node : 38 
+State: 
+5123
+6704
+9ab8
+defc  
+The 122th index of nodes_list is 
+ Parent node : 38 
+State: 
+5013
+6724
+9ab8
+defc  
+The 123th index of nodes_list is 
+ Parent node : 38 
+State: 
+5130
+6724
+9ab8
+defc  
+The 124th index of nodes_list is 
+ Parent node : 39 
+State: 
+5123
+6704
+9ab8
+defc  
+The 125th index of nodes_list is 
+ Parent node : 39 
+State: 
+5123
+67b4
+9af8
+de0c  
+The 126th index of nodes_list is 
+ Parent node : 39 
+State: 
+5123
+67b4
+90a8
+defc  
+The 127th index of nodes_list is 
+ Parent node : 39 
+State: 
+5123
+67b4
+9a80
+defc  
+The 128th index of nodes_list is 
+ Parent node : 40 
+State: 
+5023
+6174
+9ab8
+defc  
+The 129th index of nodes_list is 
+ Parent node : 40 
+State: 
+5123
+6a74
+90b8
+defc  
+The 130th index of nodes_list is 
+ Parent node : 40 
+State: 
+5123
+0674
+9ab8
+defc  
+The 131th index of nodes_list is 
+ Parent node : 40 
+State: 
+5123
+6704
+9ab8
+defc  
+The 132th index of nodes_list is 
+ Parent node : 41 
+State: 
+5120
+6743
+9ab8
+defc  
+The 133th index of nodes_list is 
+ Parent node : 41 
+State: 
+5123
+6748
+9ab0
+defc  
+The 134th index of nodes_list is 
+ Parent node : 41 
+State: 
+5123
+6704
+9ab8
+defc  
+The 135th index of nodes_list is 
+ Parent node : 42 
+State: 
+0123
+5674
+9ab8
+defc  
+The 136th index of nodes_list is 
+ Parent node : 42 
+State: 
+5123
+9674
+0ab8
+defc  
+The 137th index of nodes_list is 
+ Parent node : 42 
+State: 
+5123
+6074
+9ab8
+defc  
+The 138th index of nodes_list is 
+ Parent node : 43 
+State: 
+1623
+5074
+9ab8
+defc  
+The 139th index of nodes_list is 
+ Parent node : 43 
+State: 
+0123
+5674
+9ab8
+defc  
+The 140th index of nodes_list is 
+ Parent node : 43 
+State: 
+1203
+5674
+9ab8
+defc  
+The 141th index of nodes_list is 
+ Parent node : 44 
+State: 
+0123
+5674
+9ab8
+defc  
+The 142th index of nodes_list is 
+ Parent node : 44 
+State: 
+5123
+9674
+0ab8
+defc  
+The 143th index of nodes_list is 
+ Parent node : 44 
+State: 
+5123
+6074
+9ab8
+defc  
+The 144th index of nodes_list is 
+ Parent node : 45 
+State: 
+5123
+9674
+0ab8
+defc  
+The 145th index of nodes_list is 
+ Parent node : 45 
+State: 
+5123
+9674
+dab8
+e0fc  
+The 146th index of nodes_list is 
+ Parent node : 46 
+State: 
+5123
+9074
+a6b8
+defc  
+The 147th index of nodes_list is 
+ Parent node : 46 
+State: 
+5123
+9674
+aeb8
+d0fc  
+The 148th index of nodes_list is 
+ Parent node : 46 
+State: 
+5123
+9674
+0ab8
+defc  
+The 149th index of nodes_list is 
+ Parent node : 46 
+State: 
+5123
+9674
+ab08
+defc  
+The 150th index of nodes_list is 
+ Parent node : 47 
+State: 
+5123
+6074
+9ab8
+defc  
+The 151th index of nodes_list is 
+ Parent node : 47 
+State: 
+0523
+6174
+9ab8
+defc  
+The 152th index of nodes_list is 
+ Parent node : 47 
+State: 
+5203
+6174
+9ab8
+defc  
+The 153th index of nodes_list is 
+ Parent node : 48 
+State: 
+5123
+6074
+9ab8
+defc  
+The 154th index of nodes_list is 
+ Parent node : 48 
+State: 
+5123
+6a74
+9eb8
+d0fc  
+The 155th index of nodes_list is 
+ Parent node : 48 
+State: 
+5123
+6a74
+09b8
+defc  
+The 156th index of nodes_list is 
+ Parent node : 48 
+State: 
+5123
+6a74
+9b08
+defc  
+The 157th index of nodes_list is 
+ Parent node : 49 
+State: 
+0123
+5674
+9ab8
+defc  
+The 158th index of nodes_list is 
+ Parent node : 49 
+State: 
+5123
+9674
+0ab8
+defc  
+The 159th index of nodes_list is 
+ Parent node : 49 
+State: 
+5123
+6074
+9ab8
+defc  
+The 160th index of nodes_list is 
+ Parent node : 50 
+State: 
+5103
+6724
+9ab8
+defc  
+The 161th index of nodes_list is 
+ Parent node : 50 
+State: 
+5123
+67b4
+9a08
+defc  
+The 162th index of nodes_list is 
+ Parent node : 50 
+State: 
+5123
+6074
+9ab8
+defc  
+The 163th index of nodes_list is 
+ Parent node : 50 
+State: 
+5123
+6740
+9ab8
+defc  
+The 164th index of nodes_list is 
+ Parent node : 51 
+State: 
+1623
+5074
+9ab8
+defc  
+The 165th index of nodes_list is 
+ Parent node : 51 
+State: 
+0123
+5674
+9ab8
+defc  
+The 166th index of nodes_list is 
+ Parent node : 51 
+State: 
+1203
+5674
+9ab8
+defc  
+The 167th index of nodes_list is 
+ Parent node : 52 
+State: 
+1623
+5074
+9ab8
+defc  
+The 168th index of nodes_list is 
+ Parent node : 52 
+State: 
+1623
+5a74
+9eb8
+d0fc  
+The 169th index of nodes_list is 
+ Parent node : 52 
+State: 
+1623
+5a74
+09b8
+defc  
+The 170th index of nodes_list is 
+ Parent node : 52 
+State: 
+1623
+5a74
+9b08
+defc  
+The 171th index of nodes_list is 
+ Parent node : 53 
+State: 
+0623
+1574
+9ab8
+defc  
+The 172th index of nodes_list is 
+ Parent node : 53 
+State: 
+1623
+9574
+0ab8
+defc  
+The 173th index of nodes_list is 
+ Parent node : 53 
+State: 
+1623
+5074
+9ab8
+defc  
+The 174th index of nodes_list is 
+ Parent node : 54 
+State: 
+1603
+5724
+9ab8
+defc  
+The 175th index of nodes_list is 
+ Parent node : 54 
+State: 
+1623
+57b4
+9a08
+defc  
+The 176th index of nodes_list is 
+ Parent node : 54 
+State: 
+1623
+5074
+9ab8
+defc  
+The 177th index of nodes_list is 
+ Parent node : 54 
+State: 
+1623
+5740
+9ab8
+defc  
+The 178th index of nodes_list is 
+ Parent node : 55 
+State: 
+0123
+5674
+9ab8
+defc  
+The 179th index of nodes_list is 
+ Parent node : 55 
+State: 
+5123
+9674
+0ab8
+defc  
+The 180th index of nodes_list is 
+ Parent node : 55 
+State: 
+5123
+6074
+9ab8
+defc  
+The 181th index of nodes_list is 
+ Parent node : 56 
+State: 
+1623
+5074
+9ab8
+defc  
+The 182th index of nodes_list is 
+ Parent node : 56 
+State: 
+0123
+5674
+9ab8
+defc  
+The 183th index of nodes_list is 
+ Parent node : 56 
+State: 
+1203
+5674
+9ab8
+defc  
+The 184th index of nodes_list is 
+ Parent node : 57 
+State: 
+1203
+5674
+9ab8
+defc  
+The 185th index of nodes_list is 
+ Parent node : 57 
+State: 
+1273
+56b4
+9a08
+defc  
+The 186th index of nodes_list is 
+ Parent node : 57 
+State: 
+1273
+5064
+9ab8
+defc  
+The 187th index of nodes_list is 
+ Parent node : 57 
+State: 
+1273
+5640
+9ab8
+defc  
+The 188th index of nodes_list is 
+ Parent node : 58 
+State: 
+1623
+5074
+9ab8
+defc  
+The 189th index of nodes_list is 
+ Parent node : 58 
+State: 
+0123
+5674
+9ab8
+defc  
+The 190th index of nodes_list is 
+ Parent node : 58 
+State: 
+1203
+5674
+9ab8
+defc  
+The 191th index of nodes_list is 
+ Parent node : 59 
+State: 
+1234
+5670
+9ab8
+defc  
+The 192th index of nodes_list is 
+ Parent node : 59 
+State: 
+1203
+5674
+9ab8
+defc  
+The 193th index of nodes_list is 
+ Parent node : 60 
+State: 
+0123
+5674
+9ab8
+defc  
+The 194th index of nodes_list is 
+ Parent node : 60 
+State: 
+5123
+9674
+0ab8
+defc  
+The 195th index of nodes_list is 
+ Parent node : 60 
+State: 
+5123
+6074
+9ab8
+defc  
+The 196th index of nodes_list is 
+ Parent node : 61 
+State: 
+1623
+5074
+9ab8
+defc  
+The 197th index of nodes_list is 
+ Parent node : 61 
+State: 
+0123
+5674
+9ab8
+defc  
+The 198th index of nodes_list is 
+ Parent node : 61 
+State: 
+1203
+5674
+9ab8
+defc  
+The 199th index of nodes_list is 
+ Parent node : 62 
+State: 
+0123
+5674
+9ab8
+defc  
+The 200th index of nodes_list is 
+ Parent node : 62 
+State: 
+5123
+9674
+0ab8
+defc  
+The 201th index of nodes_list is 
+ Parent node : 62 
+State: 
+5123
+6074
+9ab8
+defc  
+The 202th index of nodes_list is 
+ Parent node : 63 
+State: 
+5123
+9674
+0ab8
+defc  
+The 203th index of nodes_list is 
+ Parent node : 63 
+State: 
+5123
+9674
+dab8
+e0fc  
+The 204th index of nodes_list is 
+ Parent node : 64 
+State: 
+5123
+9074
+a6b8
+defc  
+The 205th index of nodes_list is 
+ Parent node : 64 
+State: 
+5123
+9674
+aeb8
+d0fc  
+The 206th index of nodes_list is 
+ Parent node : 64 
+State: 
+5123
+9674
+0ab8
+defc  
+The 207th index of nodes_list is 
+ Parent node : 64 
+State: 
+5123
+9674
+ab08
+defc  
+The 208th index of nodes_list is 
+ Parent node : 65 
+State: 
+5123
+6074
+9ab8
+defc  
+The 209th index of nodes_list is 
+ Parent node : 65 
+State: 
+0523
+6174
+9ab8
+defc  
+The 210th index of nodes_list is 
+ Parent node : 65 
+State: 
+5203
+6174
+9ab8
+defc  
+The 211th index of nodes_list is 
+ Parent node : 66 
+State: 
+5123
+6074
+9ab8
+defc  
+The 212th index of nodes_list is 
+ Parent node : 66 
+State: 
+5123
+6a74
+9eb8
+d0fc  
+The 213th index of nodes_list is 
+ Parent node : 66 
+State: 
+5123
+6a74
+09b8
+defc  
+The 214th index of nodes_list is 
+ Parent node : 66 
+State: 
+5123
+6a74
+9b08
+defc  
+The 215th index of nodes_list is 
+ Parent node : 67 
+State: 
+0123
+5674
+9ab8
+defc  
+The 216th index of nodes_list is 
+ Parent node : 67 
+State: 
+5123
+9674
+0ab8
+defc  
+The 217th index of nodes_list is 
+ Parent node : 67 
+State: 
+5123
+6074
+9ab8
+defc  
+The 218th index of nodes_list is 
+ Parent node : 68 
+State: 
+5103
+6724
+9ab8
+defc  
+The 219th index of nodes_list is 
+ Parent node : 68 
+State: 
+5123
+67b4
+9a08
+defc  
+The 220th index of nodes_list is 
+ Parent node : 68 
+State: 
+5123
+6074
+9ab8
+defc  
+The 221th index of nodes_list is 
+ Parent node : 68 
+State: 
+5123
+6740
+9ab8
+defc  
+The 222th index of nodes_list is 
+ Parent node : 69 
+State: 
+0123
+5674
+9ab8
+defc  
+The 223th index of nodes_list is 
+ Parent node : 69 
+State: 
+5123
+9674
+0ab8
+defc  
+The 224th index of nodes_list is 
+ Parent node : 69 
+State: 
+5123
+6074
+9ab8
+defc  
+The 225th index of nodes_list is 
+ Parent node : 70 
+State: 
+5123
+9674
+0ab8
+defc  
+The 226th index of nodes_list is 
+ Parent node : 70 
+State: 
+5123
+9674
+dab8
+e0fc  
+The 227th index of nodes_list is 
+ Parent node : 71 
+State: 
+5123
+9074
+a6b8
+defc  
+The 228th index of nodes_list is 
+ Parent node : 71 
+State: 
+5123
+9674
+aeb8
+d0fc  
+The 229th index of nodes_list is 
+ Parent node : 71 
+State: 
+5123
+9674
+0ab8
+defc  
+The 230th index of nodes_list is 
+ Parent node : 71 
+State: 
+5123
+9674
+ab08
+defc  
+The 231th index of nodes_list is 
+ Parent node : 72 
+State: 
+5123
+9074
+d6b8
+eafc  
+The 232th index of nodes_list is 
+ Parent node : 72 
+State: 
+5123
+9674
+dab8
+e0fc  
+The 233th index of nodes_list is 
+ Parent node : 72 
+State: 
+5123
+9674
+0db8
+eafc  
+The 234th index of nodes_list is 
+ Parent node : 72 
+State: 
+5123
+9674
+db08
+eafc  
+The 235th index of nodes_list is 
+ Parent node : 73 
+State: 
+5123
+9674
+0ab8
+defc  
+The 236th index of nodes_list is 
+ Parent node : 73 
+State: 
+5123
+9674
+dab8
+e0fc  
+The 237th index of nodes_list is 
+ Parent node : 74 
+State: 
+5123
+9674
+da08
+efbc  
+The 238th index of nodes_list is 
+ Parent node : 74 
+State: 
+5123
+9674
+dab8
+e0fc  
+The 239th index of nodes_list is 
+ Parent node : 74 
+State: 
+5123
+9674
+dab8
+efc0  
+The 240th index of nodes_list is 
+ Parent node : 75 
+State: 
+5123
+9074
+a6b8
+defc  
+The 241th index of nodes_list is 
+ Parent node : 75 
+State: 
+0523
+9174
+a6b8
+defc  
+The 242th index of nodes_list is 
+ Parent node : 75 
+State: 
+5203
+9174
+a6b8
+defc  
+The 243th index of nodes_list is 
+ Parent node : 76 
+State: 
+5123
+9074
+a6b8
+defc  
+The 244th index of nodes_list is 
+ Parent node : 76 
+State: 
+5123
+9674
+aeb8
+d0fc  
+The 245th index of nodes_list is 
+ Parent node : 76 
+State: 
+5123
+9674
+0ab8
+defc  
+The 246th index of nodes_list is 
+ Parent node : 76 
+State: 
+5123
+9674
+ab08
+defc  
+The 247th index of nodes_list is 
+ Parent node : 77 
+State: 
+0123
+5974
+a6b8
+defc  
+The 248th index of nodes_list is 
+ Parent node : 77 
+State: 
+5123
+a974
+06b8
+defc  
+The 249th index of nodes_list is 
+ Parent node : 77 
+State: 
+5123
+9074
+a6b8
+defc  
+The 250th index of nodes_list is 
+ Parent node : 78 
+State: 
+5103
+9724
+a6b8
+defc  
+The 251th index of nodes_list is 
+ Parent node : 78 
+State: 
+5123
+97b4
+a608
+defc  
+The 252th index of nodes_list is 
+ Parent node : 78 
+State: 
+5123
+9074
+a6b8
+defc  
+The 253th index of nodes_list is 
+ Parent node : 78 
+State: 
+5123
+9740
+a6b8
+defc  
+The 254th index of nodes_list is 
+ Parent node : 79 
+State: 
+5123
+9074
+a6b8
+defc  
+The 255th index of nodes_list is 
+ Parent node : 79 
+State: 
+5123
+9674
+aeb8
+d0fc  
+The 256th index of nodes_list is 
+ Parent node : 79 
+State: 
+5123
+9674
+0ab8
+defc  
+The 257th index of nodes_list is 
+ Parent node : 79 
+State: 
+5123
+9674
+ab08
+defc  
+The 258th index of nodes_list is 
+ Parent node : 80 
+State: 
+5123
+9674
+0eb8
+adfc  
+The 259th index of nodes_list is 
+ Parent node : 80 
+State: 
+5123
+9674
+aeb8
+d0fc  
+The 260th index of nodes_list is 
+ Parent node : 81 
+State: 
+5123
+9674
+ae08
+dfbc  
+The 261th index of nodes_list is 
+ Parent node : 81 
+State: 
+5123
+9674
+aeb8
+d0fc  
+The 262th index of nodes_list is 
+ Parent node : 81 
+State: 
+5123
+9674
+aeb8
+dfc0  
+The 263th index of nodes_list is 
+ Parent node : 82 
+State: 
+0123
+5674
+9ab8
+defc  
+The 264th index of nodes_list is 
+ Parent node : 82 
+State: 
+5123
+9674
+0ab8
+defc  
+The 265th index of nodes_list is 
+ Parent node : 82 
+State: 
+5123
+6074
+9ab8
+defc  
+The 266th index of nodes_list is 
+ Parent node : 83 
+State: 
+5123
+9674
+0ab8
+defc  
+The 267th index of nodes_list is 
+ Parent node : 83 
+State: 
+5123
+9674
+dab8
+e0fc  
+The 268th index of nodes_list is 
+ Parent node : 84 
+State: 
+5123
+9074
+a6b8
+defc  
+The 269th index of nodes_list is 
+ Parent node : 84 
+State: 
+5123
+9674
+aeb8
+d0fc  
+The 270th index of nodes_list is 
+ Parent node : 84 
+State: 
+5123
+9674
+0ab8
+defc  
+The 271th index of nodes_list is 
+ Parent node : 84 
+State: 
+5123
+9674
+ab08
+defc  
+The 272th index of nodes_list is 
+ Parent node : 85 
+State: 
+5103
+9624
+ab78
+defc  
+The 273th index of nodes_list is 
+ Parent node : 85 
+State: 
+5123
+9674
+ab08
+defc  
+The 274th index of nodes_list is 
+ Parent node : 85 
+State: 
+5123
+9064
+ab78
+defc  
+The 275th index of nodes_list is 
+ Parent node : 85 
+State: 
+5123
+9640
+ab78
+defc  
+The 276th index of nodes_list is 
+ Parent node : 86 
+State: 
+5123
+9674
+ab08
+defc  
+The 277th index of nodes_list is 
+ Parent node : 86 
+State: 
+5123
+9674
+abf8
+d0ec  
+The 278th index of nodes_list is 
+ Parent node : 86 
+State: 
+5123
+9674
+abf8
+dec0  
+The 279th index of nodes_list is 
+ Parent node : 87 
+State: 
+5123
+9074
+a6b8
+defc  
+The 280th index of nodes_list is 
+ Parent node : 87 
+State: 
+5123
+9674
+aeb8
+d0fc  
+The 281th index of nodes_list is 
+ Parent node : 87 
+State: 
+5123
+9674
+0ab8
+defc  
+The 282th index of nodes_list is 
+ Parent node : 87 
+State: 
+5123
+9674
+ab08
+defc  
+The 283th index of nodes_list is 
+ Parent node : 88 
+State: 
+5123
+9670
+ab84
+defc  
+The 284th index of nodes_list is 
+ Parent node : 88 
+State: 
+5123
+9674
+ab8c
+def0  
+The 285th index of nodes_list is 
+ Parent node : 88 
+State: 
+5123
+9674
+ab08
+defc  
+The 286th index of nodes_list is 
+ Parent node : 89 
+State: 
+5123
+6074
+9ab8
+defc  
+The 287th index of nodes_list is 
+ Parent node : 89 
+State: 
+0523
+6174
+9ab8
+defc  
+The 288th index of nodes_list is 
+ Parent node : 89 
+State: 
+5203
+6174
+9ab8
+defc  
+The 289th index of nodes_list is 
+ Parent node : 90 
+State: 
+5123
+6074
+9ab8
+defc  
+The 290th index of nodes_list is 
+ Parent node : 90 
+State: 
+5123
+6a74
+9eb8
+d0fc  
+The 291th index of nodes_list is 
+ Parent node : 90 
+State: 
+5123
+6a74
+09b8
+defc  
+The 292th index of nodes_list is 
+ Parent node : 90 
+State: 
+5123
+6a74
+9b08
+defc  
+The 293th index of nodes_list is 
+ Parent node : 91 
+State: 
+0123
+5674
+9ab8
+defc  
+The 294th index of nodes_list is 
+ Parent node : 91 
+State: 
+5123
+9674
+0ab8
+defc  
+The 295th index of nodes_list is 
+ Parent node : 91 
+State: 
+5123
+6074
+9ab8
+defc  
+The 296th index of nodes_list is 
+ Parent node : 92 
+State: 
+5103
+6724
+9ab8
+defc  
+The 297th index of nodes_list is 
+ Parent node : 92 
+State: 
+5123
+67b4
+9a08
+defc  
+The 298th index of nodes_list is 
+ Parent node : 92 
+State: 
+5123
+6074
+9ab8
+defc  
+The 299th index of nodes_list is 
+ Parent node : 92 
+State: 
+5123
+6740
+9ab8
+defc  
+The 300th index of nodes_list is 
+ Parent node : 93 
+State: 
+0523
+6174
+9ab8
+defc  
+The 301th index of nodes_list is 
+ Parent node : 93 
+State: 
+6523
+9174
+0ab8
+defc  
+The 302th index of nodes_list is 
+ Parent node : 93 
+State: 
+6523
+1074
+9ab8
+defc  
+The 303th index of nodes_list is 
+ Parent node : 94 
+State: 
+5123
+6074
+9ab8
+defc  
+The 304th index of nodes_list is 
+ Parent node : 94 
+State: 
+0523
+6174
+9ab8
+defc  
+The 305th index of nodes_list is 
+ Parent node : 94 
+State: 
+5203
+6174
+9ab8
+defc  
+The 306th index of nodes_list is 
+ Parent node : 95 
+State: 
+5203
+6174
+9ab8
+defc  
+The 307th index of nodes_list is 
+ Parent node : 95 
+State: 
+5273
+61b4
+9a08
+defc  
+The 308th index of nodes_list is 
+ Parent node : 95 
+State: 
+5273
+6014
+9ab8
+defc  
+The 309th index of nodes_list is 
+ Parent node : 95 
+State: 
+5273
+6140
+9ab8
+defc  
+The 310th index of nodes_list is 
+ Parent node : 96 
+State: 
+5123
+6074
+9ab8
+defc  
+The 311th index of nodes_list is 
+ Parent node : 96 
+State: 
+0523
+6174
+9ab8
+defc  
+The 312th index of nodes_list is 
+ Parent node : 96 
+State: 
+5203
+6174
+9ab8
+defc  
+The 313th index of nodes_list is 
+ Parent node : 97 
+State: 
+5234
+6170
+9ab8
+defc  
+The 314th index of nodes_list is 
+ Parent node : 97 
+State: 
+5203
+6174
+9ab8
+defc  
+The 315th index of nodes_list is 
+ Parent node : 98 
+State: 
+5123
+6074
+9ab8
+defc  
+The 316th index of nodes_list is 
+ Parent node : 98 
+State: 
+0523
+6174
+9ab8
+defc  
+The 317th index of nodes_list is 
+ Parent node : 98 
+State: 
+5203
+6174
+9ab8
+defc  
+The 318th index of nodes_list is 
+ Parent node : 99 
+State: 
+5123
+6074
+9ab8
+defc  
+The 319th index of nodes_list is 
+ Parent node : 99 
+State: 
+5123
+6a74
+9eb8
+d0fc  
+The 320th index of nodes_list is 
+ Parent node : 99 
+State: 
+5123
+6a74
+09b8
+defc  
+The 321th index of nodes_list is 
+ Parent node : 99 
+State: 
+5123
+6a74
+9b08
+defc  
+The 322th index of nodes_list is 
+ Parent node : 100 
+State: 
+0123
+5674
+9ab8
+defc  
+The 323th index of nodes_list is 
+ Parent node : 100 
+State: 
+5123
+9674
+0ab8
+defc  
+The 324th index of nodes_list is 
+ Parent node : 100 
+State: 
+5123
+6074
+9ab8
+defc  
+The 325th index of nodes_list is 
+ Parent node : 101 
+State: 
+5103
+6724
+9ab8
+defc  
+The 326th index of nodes_list is 
+ Parent node : 101 
+State: 
+5123
+67b4
+9a08
+defc  
+The 327th index of nodes_list is 
+ Parent node : 101 
+State: 
+5123
+6074
+9ab8
+defc  
+The 328th index of nodes_list is 
+ Parent node : 101 
+State: 
+5123
+6740
+9ab8
+defc  
+The 329th index of nodes_list is 
+ Parent node : 102 
+State: 
+5123
+6074
+9ab8
+defc  
+The 330th index of nodes_list is 
+ Parent node : 102 
+State: 
+5123
+6a74
+9eb8
+d0fc  
+The 331th index of nodes_list is 
+ Parent node : 102 
+State: 
+5123
+6a74
+09b8
+defc  
+The 332th index of nodes_list is 
+ Parent node : 102 
+State: 
+5123
+6a74
+9b08
+defc  
+The 333th index of nodes_list is 
+ Parent node : 103 
+State: 
+5123
+6a74
+0eb8
+9dfc  
+The 334th index of nodes_list is 
+ Parent node : 103 
+State: 
+5123
+6a74
+9eb8
+d0fc  
+The 335th index of nodes_list is 
+ Parent node : 104 
+State: 
+5123
+6a74
+9e08
+dfbc  
+The 336th index of nodes_list is 
+ Parent node : 104 
+State: 
+5123
+6a74
+9eb8
+d0fc  
+The 337th index of nodes_list is 
+ Parent node : 104 
+State: 
+5123
+6a74
+9eb8
+dfc0  
+The 338th index of nodes_list is 
+ Parent node : 105 
+State: 
+0123
+5a74
+69b8
+defc  
+The 339th index of nodes_list is 
+ Parent node : 105 
+State: 
+5123
+6a74
+09b8
+defc  
+The 340th index of nodes_list is 
+ Parent node : 105 
+State: 
+5123
+a074
+69b8
+defc  
+The 341th index of nodes_list is 
+ Parent node : 106 
+State: 
+5123
+6a74
+09b8
+defc  
+The 342th index of nodes_list is 
+ Parent node : 106 
+State: 
+5123
+6a74
+d9b8
+e0fc  
+The 343th index of nodes_list is 
+ Parent node : 107 
+State: 
+5123
+6074
+9ab8
+defc  
+The 344th index of nodes_list is 
+ Parent node : 107 
+State: 
+5123
+6a74
+9eb8
+d0fc  
+The 345th index of nodes_list is 
+ Parent node : 107 
+State: 
+5123
+6a74
+09b8
+defc  
+The 346th index of nodes_list is 
+ Parent node : 107 
+State: 
+5123
+6a74
+9b08
+defc  
+The 347th index of nodes_list is 
+ Parent node : 108 
+State: 
+5103
+6a24
+9b78
+defc  
+The 348th index of nodes_list is 
+ Parent node : 108 
+State: 
+5123
+6a74
+9b08
+defc  
+The 349th index of nodes_list is 
+ Parent node : 108 
+State: 
+5123
+60a4
+9b78
+defc  
+The 350th index of nodes_list is 
+ Parent node : 108 
+State: 
+5123
+6a40
+9b78
+defc  
+The 351th index of nodes_list is 
+ Parent node : 109 
+State: 
+5123
+6a74
+9b08
+defc  
+The 352th index of nodes_list is 
+ Parent node : 109 
+State: 
+5123
+6a74
+9bf8
+d0ec  
+The 353th index of nodes_list is 
+ Parent node : 109 
+State: 
+5123
+6a74
+9bf8
+dec0  
+The 354th index of nodes_list is 
+ Parent node : 110 
+State: 
+5123
+6074
+9ab8
+defc  
+The 355th index of nodes_list is 
+ Parent node : 110 
+State: 
+5123
+6a74
+9eb8
+d0fc  
+The 356th index of nodes_list is 
+ Parent node : 110 
+State: 
+5123
+6a74
+09b8
+defc  
+The 357th index of nodes_list is 
+ Parent node : 110 
+State: 
+5123
+6a74
+9b08
+defc  
+The 358th index of nodes_list is 
+ Parent node : 111 
+State: 
+5123
+6a70
+9b84
+defc  
+The 359th index of nodes_list is 
+ Parent node : 111 
+State: 
+5123
+6a74
+9b8c
+def0  
+The 360th index of nodes_list is 
+ Parent node : 111 
+State: 
+5123
+6a74
+9b08
+defc  
+The 361th index of nodes_list is 
+ Parent node : 112 
+State: 
+0123
+5674
+9ab8
+defc  
+The 362th index of nodes_list is 
+ Parent node : 112 
+State: 
+5123
+9674
+0ab8
+defc  
+The 363th index of nodes_list is 
+ Parent node : 112 
+State: 
+5123
+6074
+9ab8
+defc  
+The 364th index of nodes_list is 
+ Parent node : 113 
+State: 
+1623
+5074
+9ab8
+defc  
+The 365th index of nodes_list is 
+ Parent node : 113 
+State: 
+0123
+5674
+9ab8
+defc  
+The 366th index of nodes_list is 
+ Parent node : 113 
+State: 
+1203
+5674
+9ab8
+defc  
+The 367th index of nodes_list is 
+ Parent node : 114 
+State: 
+0123
+5674
+9ab8
+defc  
+The 368th index of nodes_list is 
+ Parent node : 114 
+State: 
+5123
+9674
+0ab8
+defc  
+The 369th index of nodes_list is 
+ Parent node : 114 
+State: 
+5123
+6074
+9ab8
+defc  
+The 370th index of nodes_list is 
+ Parent node : 115 
+State: 
+5123
+9674
+0ab8
+defc  
+The 371th index of nodes_list is 
+ Parent node : 115 
+State: 
+5123
+9674
+dab8
+e0fc  
+The 372th index of nodes_list is 
+ Parent node : 116 
+State: 
+5123
+9074
+a6b8
+defc  
+The 373th index of nodes_list is 
+ Parent node : 116 
+State: 
+5123
+9674
+aeb8
+d0fc  
+The 374th index of nodes_list is 
+ Parent node : 116 
+State: 
+5123
+9674
+0ab8
+defc  
+The 375th index of nodes_list is 
+ Parent node : 116 
+State: 
+5123
+9674
+ab08
+defc  
+The 376th index of nodes_list is 
+ Parent node : 117 
+State: 
+5123
+6074
+9ab8
+defc  
+The 377th index of nodes_list is 
+ Parent node : 117 
+State: 
+0523
+6174
+9ab8
+defc  
+The 378th index of nodes_list is 
+ Parent node : 117 
+State: 
+5203
+6174
+9ab8
+defc  
+The 379th index of nodes_list is 
+ Parent node : 118 
+State: 
+5123
+6074
+9ab8
+defc  
+The 380th index of nodes_list is 
+ Parent node : 118 
+State: 
+5123
+6a74
+9eb8
+d0fc  
+The 381th index of nodes_list is 
+ Parent node : 118 
+State: 
+5123
+6a74
+09b8
+defc  
+The 382th index of nodes_list is 
+ Parent node : 118 
+State: 
+5123
+6a74
+9b08
+defc  
+The 383th index of nodes_list is 
+ Parent node : 119 
+State: 
+0123
+5674
+9ab8
+defc  
+The 384th index of nodes_list is 
+ Parent node : 119 
+State: 
+5123
+9674
+0ab8
+defc  
+The 385th index of nodes_list is 
+ Parent node : 119 
+State: 
+5123
+6074
+9ab8
+defc  
+The 386th index of nodes_list is 
+ Parent node : 120 
+State: 
+5103
+6724
+9ab8
+defc  
+The 387th index of nodes_list is 
+ Parent node : 120 
+State: 
+5123
+67b4
+9a08
+defc  
+The 388th index of nodes_list is 
+ Parent node : 120 
+State: 
+5123
+6074
+9ab8
+defc  
+The 389th index of nodes_list is 
+ Parent node : 120 
+State: 
+5123
+6740
+9ab8
+defc  
+The 390th index of nodes_list is 
+ Parent node : 121 
+State: 
+5103
+6724
+9ab8
+defc  
+The 391th index of nodes_list is 
+ Parent node : 121 
+State: 
+5123
+67b4
+9a08
+defc  
+The 392th index of nodes_list is 
+ Parent node : 121 
+State: 
+5123
+6074
+9ab8
+defc  
+The 393th index of nodes_list is 
+ Parent node : 121 
+State: 
+5123
+6740
+9ab8
+defc  
+The 394th index of nodes_list is 
+ Parent node : 122 
+State: 
+5713
+6024
+9ab8
+defc  
+The 395th index of nodes_list is 
+ Parent node : 122 
+State: 
+0513
+6724
+9ab8
+defc  
+The 396th index of nodes_list is 
+ Parent node : 122 
+State: 
+5103
+6724
+9ab8
+defc  
+The 397th index of nodes_list is 
+ Parent node : 123 
+State: 
+5134
+6720
+9ab8
+defc  
+The 398th index of nodes_list is 
+ Parent node : 123 
+State: 
+5103
+6724
+9ab8
+defc  
+The 399th index of nodes_list is 
+ Parent node : 124 
+State: 
+5103
+6724
+9ab8
+defc  
+The 400th index of nodes_list is 
+ Parent node : 124 
+State: 
+5123
+67b4
+9a08
+defc  
+The 401th index of nodes_list is 
+ Parent node : 124 
+State: 
+5123
+6074
+9ab8
+defc  
+The 402th index of nodes_list is 
+ Parent node : 124 
+State: 
+5123
+6740
+9ab8
+defc  
+The 403th index of nodes_list is 
+ Parent node : 125 
+State: 
+5123
+67b4
+9a08
+defc  
+The 404th index of nodes_list is 
+ Parent node : 125 
+State: 
+5123
+67b4
+9af8
+d0ec  
+The 405th index of nodes_list is 
+ Parent node : 125 
+State: 
+5123
+67b4
+9af8
+dec0  
+The 406th index of nodes_list is 
+ Parent node : 126 
+State: 
+5123
+60b4
+97a8
+defc  
+The 407th index of nodes_list is 
+ Parent node : 126 
+State: 
+5123
+67b4
+9ea8
+d0fc  
+The 408th index of nodes_list is 
+ Parent node : 126 
+State: 
+5123
+67b4
+09a8
+defc  
+The 409th index of nodes_list is 
+ Parent node : 126 
+State: 
+5123
+67b4
+9a08
+defc  
+The 410th index of nodes_list is 
+ Parent node : 127 
+State: 
+5123
+67b0
+9a84
+defc  
+The 411th index of nodes_list is 
+ Parent node : 127 
+State: 
+5123
+67b4
+9a8c
+def0  
+The 412th index of nodes_list is 
+ Parent node : 127 
+State: 
+5123
+67b4
+9a08
+defc  
+The 413th index of nodes_list is 
+ Parent node : 128 
+State: 
+5123
+6074
+9ab8
+defc  
+The 414th index of nodes_list is 
+ Parent node : 128 
+State: 
+0523
+6174
+9ab8
+defc  
+The 415th index of nodes_list is 
+ Parent node : 128 
+State: 
+5203
+6174
+9ab8
+defc  
+The 416th index of nodes_list is 
+ Parent node : 129 
+State: 
+5123
+6074
+9ab8
+defc  
+The 417th index of nodes_list is 
+ Parent node : 129 
+State: 
+5123
+6a74
+9eb8
+d0fc  
+The 418th index of nodes_list is 
+ Parent node : 129 
+State: 
+5123
+6a74
+09b8
+defc  
+The 419th index of nodes_list is 
+ Parent node : 129 
+State: 
+5123
+6a74
+9b08
+defc  
+The 420th index of nodes_list is 
+ Parent node : 130 
+State: 
+0123
+5674
+9ab8
+defc  
+The 421th index of nodes_list is 
+ Parent node : 130 
+State: 
+5123
+9674
+0ab8
+defc  
+The 422th index of nodes_list is 
+ Parent node : 130 
+State: 
+5123
+6074
+9ab8
+defc  
+The 423th index of nodes_list is 
+ Parent node : 131 
+State: 
+5103
+6724
+9ab8
+defc  
+The 424th index of nodes_list is 
+ Parent node : 131 
+State: 
+5123
+67b4
+9a08
+defc  
+The 425th index of nodes_list is 
+ Parent node : 131 
+State: 
+5123
+6074
+9ab8
+defc  
+The 426th index of nodes_list is 
+ Parent node : 131 
+State: 
+5123
+6740
+9ab8
+defc  
+The 427th index of nodes_list is 
+ Parent node : 132 
+State: 
+5123
+6740
+9ab8
+defc  
+The 428th index of nodes_list is 
+ Parent node : 132 
+State: 
+5102
+6743
+9ab8
+defc  
+The 429th index of nodes_list is 
+ Parent node : 133 
+State: 
+5123
+6740
+9ab8
+defc  
+The 430th index of nodes_list is 
+ Parent node : 133 
+State: 
+5123
+6748
+9abc
+def0  
+The 431th index of nodes_list is 
+ Parent node : 133 
+State: 
+5123
+6748
+9a0b
+defc  
+The 432th index of nodes_list is 
+ Parent node : 134 
+State: 
+5103
+6724
+9ab8
+defc  
+The 433th index of nodes_list is 
+ Parent node : 134 
+State: 
+5123
+67b4
+9a08
+defc  
+The 434th index of nodes_list is 
+ Parent node : 134 
+State: 
+5123
+6074
+9ab8
+defc  
+The 435th index of nodes_list is 
+ Parent node : 134 
+State: 
+5123
+6740
+9ab8
+defc  
+The 436th index of nodes_list is 
+ Parent node : 135 
+State: 
+5123
+0674
+9ab8
+defc  
+The 437th index of nodes_list is 
+ Parent node : 135 
+State: 
+1023
+5674
+9ab8
+defc  
+The 438th index of nodes_list is 
+ Parent node : 136 
+State: 
+5123
+0674
+9ab8
+defc  
+The 439th index of nodes_list is 
+ Parent node : 136 
+State: 
+5123
+9674
+dab8
+0efc  
+The 440th index of nodes_list is 
+ Parent node : 136 
+State: 
+5123
+9674
+a0b8
+defc  
+The 441th index of nodes_list is 
+ Parent node : 137 
+State: 
+5023
+6174
+9ab8
+defc  
+The 442th index of nodes_list is 
+ Parent node : 137 
+State: 
+5123
+6a74
+90b8
+defc  
+The 443th index of nodes_list is 
+ Parent node : 137 
+State: 
+5123
+0674
+9ab8
+defc  
+The 444th index of nodes_list is 
+ Parent node : 137 
+State: 
+5123
+6704
+9ab8
+defc  
+The 445th index of nodes_list is 
+ Parent node : 138 
+State: 
+1023
+5674
+9ab8
+defc  
+The 446th index of nodes_list is 
+ Parent node : 138 
+State: 
+1623
+5a74
+90b8
+defc  
+The 447th index of nodes_list is 
+ Parent node : 138 
+State: 
+1623
+0574
+9ab8
+defc  
+The 448th index of nodes_list is 
+ Parent node : 138 
+State: 
+1623
+5704
+9ab8
+defc  
+The 449th index of nodes_list is 
+ Parent node : 139 
+State: 
+5123
+0674
+9ab8
+defc  
+The 450th index of nodes_list is 
+ Parent node : 139 
+State: 
+1023
+5674
+9ab8
+defc  
+The 451th index of nodes_list is 
+ Parent node : 140 
+State: 
+1273
+5604
+9ab8
+defc  
+The 452th index of nodes_list is 
+ Parent node : 140 
+State: 
+1023
+5674
+9ab8
+defc  
+The 453th index of nodes_list is 
+ Parent node : 140 
+State: 
+1230
+5674
+9ab8
+defc  
+The 454th index of nodes_list is 
+ Parent node : 141 
+State: 
+5123
+0674
+9ab8
+defc  
+The 455th index of nodes_list is 
+ Parent node : 141 
+State: 
+1023
+5674
+9ab8
+defc  
+The 456th index of nodes_list is 
+ Parent node : 142 
+State: 
+5123
+0674
+9ab8
+defc  
+The 457th index of nodes_list is 
+ Parent node : 142 
+State: 
+5123
+9674
+dab8
+0efc  
+The 458th index of nodes_list is 
+ Parent node : 142 
+State: 
+5123
+9674
+a0b8
+defc  
+The 459th index of nodes_list is 
+ Parent node : 143 
+State: 
+5023
+6174
+9ab8
+defc  
+The 460th index of nodes_list is 
+ Parent node : 143 
+State: 
+5123
+6a74
+90b8
+defc  
+The 461th index of nodes_list is 
+ Parent node : 143 
+State: 
+5123
+0674
+9ab8
+defc  
+The 462th index of nodes_list is 
+ Parent node : 143 
+State: 
+5123
+6704
+9ab8
+defc  
+The 463th index of nodes_list is 
+ Parent node : 144 
+State: 
+5123
+0674
+9ab8
+defc  
+The 464th index of nodes_list is 
+ Parent node : 144 
+State: 
+5123
+9674
+dab8
+0efc  
+The 465th index of nodes_list is 
+ Parent node : 144 
+State: 
+5123
+9674
+a0b8
+defc  
+The 466th index of nodes_list is 
+ Parent node : 145 
+State: 
+5123
+9674
+d0b8
+eafc  
+The 467th index of nodes_list is 
+ Parent node : 145 
+State: 
+5123
+9674
+dab8
+0efc  
+The 468th index of nodes_list is 
+ Parent node : 145 
+State: 
+5123
+9674
+dab8
+ef0c  
+The 469th index of nodes_list is 
+ Parent node : 146 
+State: 
+5023
+9174
+a6b8
+defc  
+The 470th index of nodes_list is 
+ Parent node : 146 
+State: 
+5123
+9674
+a0b8
+defc  
+The 471th index of nodes_list is 
+ Parent node : 146 
+State: 
+5123
+0974
+a6b8
+defc  
+The 472th index of nodes_list is 
+ Parent node : 146 
+State: 
+5123
+9704
+a6b8
+defc  
+The 473th index of nodes_list is 
+ Parent node : 147 
+State: 
+5123
+9674
+a0b8
+defc  
+The 474th index of nodes_list is 
+ Parent node : 147 
+State: 
+5123
+9674
+aeb8
+0dfc  
+The 475th index of nodes_list is 
+ Parent node : 147 
+State: 
+5123
+9674
+aeb8
+df0c  
+The 476th index of nodes_list is 
+ Parent node : 148 
+State: 
+5123
+0674
+9ab8
+defc  
+The 477th index of nodes_list is 
+ Parent node : 148 
+State: 
+5123
+9674
+dab8
+0efc  
+The 478th index of nodes_list is 
+ Parent node : 148 
+State: 
+5123
+9674
+a0b8
+defc  
+The 479th index of nodes_list is 
+ Parent node : 149 
+State: 
+5123
+9604
+ab78
+defc  
+The 480th index of nodes_list is 
+ Parent node : 149 
+State: 
+5123
+9674
+abf8
+de0c  
+The 481th index of nodes_list is 
+ Parent node : 149 
+State: 
+5123
+9674
+a0b8
+defc  
+The 482th index of nodes_list is 
+ Parent node : 149 
+State: 
+5123
+9674
+ab80
+defc  
+The 483th index of nodes_list is 
+ Parent node : 150 
+State: 
+5023
+6174
+9ab8
+defc  
+The 484th index of nodes_list is 
+ Parent node : 150 
+State: 
+5123
+6a74
+90b8
+defc  
+The 485th index of nodes_list is 
+ Parent node : 150 
+State: 
+5123
+0674
+9ab8
+defc  
+The 486th index of nodes_list is 
+ Parent node : 150 
+State: 
+5123
+6704
+9ab8
+defc  
+The 487th index of nodes_list is 
+ Parent node : 151 
+State: 
+6523
+0174
+9ab8
+defc  
+The 488th index of nodes_list is 
+ Parent node : 151 
+State: 
+5023
+6174
+9ab8
+defc  
+The 489th index of nodes_list is 
+ Parent node : 152 
+State: 
+5273
+6104
+9ab8
+defc  
+The 490th index of nodes_list is 
+ Parent node : 152 
+State: 
+5023
+6174
+9ab8
+defc  
+The 491th index of nodes_list is 
+ Parent node : 152 
+State: 
+5230
+6174
+9ab8
+defc  
+The 492th index of nodes_list is 
+ Parent node : 153 
+State: 
+5023
+6174
+9ab8
+defc  
+The 493th index of nodes_list is 
+ Parent node : 153 
+State: 
+5123
+6a74
+90b8
+defc  
+The 494th index of nodes_list is 
+ Parent node : 153 
+State: 
+5123
+0674
+9ab8
+defc  
+The 495th index of nodes_list is 
+ Parent node : 153 
+State: 
+5123
+6704
+9ab8
+defc  
+The 496th index of nodes_list is 
+ Parent node : 154 
+State: 
+5123
+6a74
+90b8
+defc  
+The 497th index of nodes_list is 
+ Parent node : 154 
+State: 
+5123
+6a74
+9eb8
+0dfc  
+The 498th index of nodes_list is 
+ Parent node : 154 
+State: 
+5123
+6a74
+9eb8
+df0c  
+The 499th index of nodes_list is 
+ Parent node : 155 
+State: 
+5123
+0a74
+69b8
+defc  
+The 500th index of nodes_list is 
+ Parent node : 155 
+State: 
+5123
+6a74
+d9b8
+0efc  
+The 501th index of nodes_list is 
+ Parent node : 155 
+State: 
+5123
+6a74
+90b8
+defc  
+The 502th index of nodes_list is 
+ Parent node : 156 
+State: 
+5123
+6a04
+9b78
+defc  
+The 503th index of nodes_list is 
+ Parent node : 156 
+State: 
+5123
+6a74
+9bf8
+de0c  
+The 504th index of nodes_list is 
+ Parent node : 156 
+State: 
+5123
+6a74
+90b8
+defc  
+The 505th index of nodes_list is 
+ Parent node : 156 
+State: 
+5123
+6a74
+9b80
+defc  
+The 506th index of nodes_list is 
+ Parent node : 157 
+State: 
+5123
+0674
+9ab8
+defc  
+The 507th index of nodes_list is 
+ Parent node : 157 
+State: 
+1023
+5674
+9ab8
+defc  
+The 508th index of nodes_list is 
+ Parent node : 158 
+State: 
+5123
+0674
+9ab8
+defc  
+The 509th index of nodes_list is 
+ Parent node : 158 
+State: 
+5123
+9674
+dab8
+0efc  
+The 510th index of nodes_list is 
+ Parent node : 158 
+State: 
+5123
+9674
+a0b8
+defc  
+The 511th index of nodes_list is 
+ Parent node : 159 
+State: 
+5023
+6174
+9ab8
+defc  
+The 512th index of nodes_list is 
+ Parent node : 159 
+State: 
+5123
+6a74
+90b8
+defc  
+The 513th index of nodes_list is 
+ Parent node : 159 
+State: 
+5123
+0674
+9ab8
+defc  
+The 514th index of nodes_list is 
+ Parent node : 159 
+State: 
+5123
+6704
+9ab8
+defc  
+The 515th index of nodes_list is 
+ Parent node : 160 
+State: 
+5123
+6704
+9ab8
+defc  
+The 516th index of nodes_list is 
+ Parent node : 160 
+State: 
+5013
+6724
+9ab8
+defc  
+The 517th index of nodes_list is 
+ Parent node : 160 
+State: 
+5130
+6724
+9ab8
+defc  
+The 518th index of nodes_list is 
+ Parent node : 161 
+State: 
+5123
+6704
+9ab8
+defc  
+The 519th index of nodes_list is 
+ Parent node : 161 
+State: 
+5123
+67b4
+9af8
+de0c  
+The 520th index of nodes_list is 
+ Parent node : 161 
+State: 
+5123
+67b4
+90a8
+defc  
+The 521th index of nodes_list is 
+ Parent node : 161 
+State: 
+5123
+67b4
+9a80
+defc  
+The 522th index of nodes_list is 
+ Parent node : 162 
+State: 
+5023
+6174
+9ab8
+defc  
+The 523th index of nodes_list is 
+ Parent node : 162 
+State: 
+5123
+6a74
+90b8
+defc  
+The 524th index of nodes_list is 
+ Parent node : 162 
+State: 
+5123
+0674
+9ab8
+defc  
+The 525th index of nodes_list is 
+ Parent node : 162 
+State: 
+5123
+6704
+9ab8
+defc  
+The 526th index of nodes_list is 
+ Parent node : 163 
+State: 
+5120
+6743
+9ab8
+defc  
+The 527th index of nodes_list is 
+ Parent node : 163 
+State: 
+5123
+6748
+9ab0
+defc  
+The 528th index of nodes_list is 
+ Parent node : 163 
+State: 
+5123
+6704
+9ab8
+defc  
+The 529th index of nodes_list is 
+ Parent node : 164 
+State: 
+1023
+5674
+9ab8
+defc  
+The 530th index of nodes_list is 
+ Parent node : 164 
+State: 
+1623
+5a74
+90b8
+defc  
+The 531th index of nodes_list is 
+ Parent node : 164 
+State: 
+1623
+0574
+9ab8
+defc  
+The 532th index of nodes_list is 
+ Parent node : 164 
+State: 
+1623
+5704
+9ab8
+defc  
+The 533th index of nodes_list is 
+ Parent node : 165 
+State: 
+5123
+0674
+9ab8
+defc  
+The 534th index of nodes_list is 
+ Parent node : 165 
+State: 
+1023
+5674
+9ab8
+defc  
+The 535th index of nodes_list is 
+ Parent node : 166 
+State: 
+1273
+5604
+9ab8
+defc  
+The 536th index of nodes_list is 
+ Parent node : 166 
+State: 
+1023
+5674
+9ab8
+defc  
+The 537th index of nodes_list is 
+ Parent node : 166 
+State: 
+1230
+5674
+9ab8
+defc  
+The 538th index of nodes_list is 
+ Parent node : 167 
+State: 
+1023
+5674
+9ab8
+defc  
+The 539th index of nodes_list is 
+ Parent node : 167 
+State: 
+1623
+5a74
+90b8
+defc  
+The 540th index of nodes_list is 
+ Parent node : 167 
+State: 
+1623
+0574
+9ab8
+defc  
+The 541th index of nodes_list is 
+ Parent node : 167 
+State: 
+1623
+5704
+9ab8
+defc  
+The 542th index of nodes_list is 
+ Parent node : 168 
+State: 
+1623
+5a74
+90b8
+defc  
+The 543th index of nodes_list is 
+ Parent node : 168 
+State: 
+1623
+5a74
+9eb8
+0dfc  
+The 544th index of nodes_list is 
+ Parent node : 168 
+State: 
+1623
+5a74
+9eb8
+df0c  
+The 545th index of nodes_list is 
+ Parent node : 169 
+State: 
+1623
+0a74
+59b8
+defc  
+The 546th index of nodes_list is 
+ Parent node : 169 
+State: 
+1623
+5a74
+d9b8
+0efc  
+The 547th index of nodes_list is 
+ Parent node : 169 
+State: 
+1623
+5a74
+90b8
+defc  
+The 548th index of nodes_list is 
+ Parent node : 170 
+State: 
+1623
+5a04
+9b78
+defc  
+The 549th index of nodes_list is 
+ Parent node : 170 
+State: 
+1623
+5a74
+9bf8
+de0c  
+The 550th index of nodes_list is 
+ Parent node : 170 
+State: 
+1623
+5a74
+90b8
+defc  
+The 551th index of nodes_list is 
+ Parent node : 170 
+State: 
+1623
+5a74
+9b80
+defc  
+The 552th index of nodes_list is 
+ Parent node : 171 
+State: 
+1623
+0574
+9ab8
+defc  
+The 553th index of nodes_list is 
+ Parent node : 171 
+State: 
+6023
+1574
+9ab8
+defc  
+The 554th index of nodes_list is 
+ Parent node : 172 
+State: 
+1623
+0574
+9ab8
+defc  
+The 555th index of nodes_list is 
+ Parent node : 172 
+State: 
+1623
+9574
+dab8
+0efc  
+The 556th index of nodes_list is 
+ Parent node : 172 
+State: 
+1623
+9574
+a0b8
+defc  
+The 557th index of nodes_list is 
+ Parent node : 173 
+State: 
+1023
+5674
+9ab8
+defc  
+The 558th index of nodes_list is 
+ Parent node : 173 
+State: 
+1623
+5a74
+90b8
+defc  
+The 559th index of nodes_list is 
+ Parent node : 173 
+State: 
+1623
+0574
+9ab8
+defc  
+The 560th index of nodes_list is 
+ Parent node : 173 
+State: 
+1623
+5704
+9ab8
+defc  
+The 561th index of nodes_list is 
+ Parent node : 174 
+State: 
+1623
+5704
+9ab8
+defc  
+The 562th index of nodes_list is 
+ Parent node : 174 
+State: 
+1063
+5724
+9ab8
+defc  
+The 563th index of nodes_list is 
+ Parent node : 174 
+State: 
+1630
+5724
+9ab8
+defc  
+The 564th index of nodes_list is 
+ Parent node : 175 
+State: 
+1623
+5704
+9ab8
+defc  
+The 565th index of nodes_list is 
+ Parent node : 175 
+State: 
+1623
+57b4
+9af8
+de0c  
+The 566th index of nodes_list is 
+ Parent node : 175 
+State: 
+1623
+57b4
+90a8
+defc  
+The 567th index of nodes_list is 
+ Parent node : 175 
+State: 
+1623
+57b4
+9a80
+defc  
+The 568th index of nodes_list is 
+ Parent node : 176 
+State: 
+1023
+5674
+9ab8
+defc  
+The 569th index of nodes_list is 
+ Parent node : 176 
+State: 
+1623
+5a74
+90b8
+defc  
+The 570th index of nodes_list is 
+ Parent node : 176 
+State: 
+1623
+0574
+9ab8
+defc  
+The 571th index of nodes_list is 
+ Parent node : 176 
+State: 
+1623
+5704
+9ab8
+defc  
+The 572th index of nodes_list is 
+ Parent node : 177 
+State: 
+1620
+5743
+9ab8
+defc  
+The 573th index of nodes_list is 
+ Parent node : 177 
+State: 
+1623
+5748
+9ab0
+defc  
+The 574th index of nodes_list is 
+ Parent node : 177 
+State: 
+1623
+5704
+9ab8
+defc  
+The 575th index of nodes_list is 
+ Parent node : 178 
+State: 
+5123
+0674
+9ab8
+defc  
+The 576th index of nodes_list is 
+ Parent node : 178 
+State: 
+1023
+5674
+9ab8
+defc  
+The 577th index of nodes_list is 
+ Parent node : 179 
+State: 
+5123
+0674
+9ab8
+defc  
+The 578th index of nodes_list is 
+ Parent node : 179 
+State: 
+5123
+9674
+dab8
+0efc  
+The 579th index of nodes_list is 
+ Parent node : 179 
+State: 
+5123
+9674
+a0b8
+defc  
+The 580th index of nodes_list is 
+ Parent node : 180 
+State: 
+5023
+6174
+9ab8
+defc  
+The 581th index of nodes_list is 
+ Parent node : 180 
+State: 
+5123
+6a74
+90b8
+defc  
+The 582th index of nodes_list is 
+ Parent node : 180 
+State: 
+5123
+0674
+9ab8
+defc  
+The 583th index of nodes_list is 
+ Parent node : 180 
+State: 
+5123
+6704
+9ab8
+defc  
+The 584th index of nodes_list is 
+ Parent node : 181 
+State: 
+1023
+5674
+9ab8
+defc  
+The 585th index of nodes_list is 
+ Parent node : 181 
+State: 
+1623
+5a74
+90b8
+defc  
+The 586th index of nodes_list is 
+ Parent node : 181 
+State: 
+1623
+0574
+9ab8
+defc  
+The 587th index of nodes_list is 
+ Parent node : 181 
+State: 
+1623
+5704
+9ab8
+defc  
+The 588th index of nodes_list is 
+ Parent node : 182 
+State: 
+5123
+0674
+9ab8
+defc  
+The 589th index of nodes_list is 
+ Parent node : 182 
+State: 
+1023
+5674
+9ab8
+defc  
+The 590th index of nodes_list is 
+ Parent node : 183 
+State: 
+1273
+5604
+9ab8
+defc  
+The 591th index of nodes_list is 
+ Parent node : 183 
+State: 
+1023
+5674
+9ab8
+defc  
+The 592th index of nodes_list is 
+ Parent node : 183 
+State: 
+1230
+5674
+9ab8
+defc  
+The 593th index of nodes_list is 
+ Parent node : 184 
+State: 
+1273
+5604
+9ab8
+defc  
+The 594th index of nodes_list is 
+ Parent node : 184 
+State: 
+1023
+5674
+9ab8
+defc  
+The 595th index of nodes_list is 
+ Parent node : 184 
+State: 
+1230
+5674
+9ab8
+defc  
+The 596th index of nodes_list is 
+ Parent node : 185 
+State: 
+1273
+5604
+9ab8
+defc  
+The 597th index of nodes_list is 
+ Parent node : 185 
+State: 
+1273
+56b4
+9af8
+de0c  
+The 598th index of nodes_list is 
+ Parent node : 185 
+State: 
+1273
+56b4
+90a8
+defc  
+The 599th index of nodes_list is 
+ Parent node : 185 
+State: 
+1273
+56b4
+9a80
+defc  
+The 600th index of nodes_list is 
+ Parent node : 186 
+State: 
+1073
+5264
+9ab8
+defc  
+The 601th index of nodes_list is 
+ Parent node : 186 
+State: 
+1273
+5a64
+90b8
+defc  
+The 602th index of nodes_list is 
+ Parent node : 186 
+State: 
+1273
+0564
+9ab8
+defc  
+The 603th index of nodes_list is 
+ Parent node : 186 
+State: 
+1273
+5604
+9ab8
+defc  
+The 604th index of nodes_list is 
+ Parent node : 187 
+State: 
+1270
+5643
+9ab8
+defc  
+The 605th index of nodes_list is 
+ Parent node : 187 
+State: 
+1273
+5648
+9ab0
+defc  
+The 606th index of nodes_list is 
+ Parent node : 187 
+State: 
+1273
+5604
+9ab8
+defc  
+The 607th index of nodes_list is 
+ Parent node : 188 
+State: 
+1023
+5674
+9ab8
+defc  
+The 608th index of nodes_list is 
+ Parent node : 188 
+State: 
+1623
+5a74
+90b8
+defc  
+The 609th index of nodes_list is 
+ Parent node : 188 
+State: 
+1623
+0574
+9ab8
+defc  
+The 610th index of nodes_list is 
+ Parent node : 188 
+State: 
+1623
+5704
+9ab8
+defc  
+The 611th index of nodes_list is 
+ Parent node : 189 
+State: 
+5123
+0674
+9ab8
+defc  
+The 612th index of nodes_list is 
+ Parent node : 189 
+State: 
+1023
+5674
+9ab8
+defc  
+The 613th index of nodes_list is 
+ Parent node : 190 
+State: 
+1273
+5604
+9ab8
+defc  
+The 614th index of nodes_list is 
+ Parent node : 190 
+State: 
+1023
+5674
+9ab8
+defc  
+The 615th index of nodes_list is 
+ Parent node : 190 
+State: 
+1230
+5674
+9ab8
+defc  
+The 616th index of nodes_list is 
+ Parent node : 191 
+State: 
+1230
+5674
+9ab8
+defc  
+The 617th index of nodes_list is 
+ Parent node : 191 
+State: 
+1234
+5678
+9ab0
+defc  
+The 618th index of nodes_list is 
+ Parent node : 191 
+State: 
+1234
+5607
+9ab8
+defc  
+The 619th index of nodes_list is 
+ Parent node : 192 
+State: 
+1273
+5604
+9ab8
+defc  
+The 620th index of nodes_list is 
+ Parent node : 192 
+State: 
+1023
+5674
+9ab8
+defc  
+The 621th index of nodes_list is 
+ Parent node : 192 
+State: 
+1230
+5674
+9ab8
+defc  
+The 622th index of nodes_list is 
+ Parent node : 193 
+State: 
+5123
+0674
+9ab8
+defc  
+The 623th index of nodes_list is 
+ Parent node : 193 
+State: 
+1023
+5674
+9ab8
+defc  
+The 624th index of nodes_list is 
+ Parent node : 194 
+State: 
+5123
+0674
+9ab8
+defc  
+The 625th index of nodes_list is 
+ Parent node : 194 
+State: 
+5123
+9674
+dab8
+0efc  
+The 626th index of nodes_list is 
+ Parent node : 194 
+State: 
+5123
+9674
+a0b8
+defc  
+The 627th index of nodes_list is 
+ Parent node : 195 
+State: 
+5023
+6174
+9ab8
+defc  
+The 628th index of nodes_list is 
+ Parent node : 195 
+State: 
+5123
+6a74
+90b8
+defc  
+The 629th index of nodes_list is 
+ Parent node : 195 
+State: 
+5123
+0674
+9ab8
+defc  
+The 630th index of nodes_list is 
+ Parent node : 195 
+State: 
+5123
+6704
+9ab8
+defc  
+The 631th index of nodes_list is 
+ Parent node : 196 
+State: 
+1023
+5674
+9ab8
+defc  
+The 632th index of nodes_list is 
+ Parent node : 196 
+State: 
+1623
+5a74
+90b8
+defc  
+The 633th index of nodes_list is 
+ Parent node : 196 
+State: 
+1623
+0574
+9ab8
+defc  
+The 634th index of nodes_list is 
+ Parent node : 196 
+State: 
+1623
+5704
+9ab8
+defc  
+The 635th index of nodes_list is 
+ Parent node : 197 
+State: 
+5123
+0674
+9ab8
+defc  
+The 636th index of nodes_list is 
+ Parent node : 197 
+State: 
+1023
+5674
+9ab8
+defc  
+The 637th index of nodes_list is 
+ Parent node : 198 
+State: 
+1273
+5604
+9ab8
+defc  
+The 638th index of nodes_list is 
+ Parent node : 198 
+State: 
+1023
+5674
+9ab8
+defc  
+The 639th index of nodes_list is 
+ Parent node : 198 
+State: 
+1230
+5674
+9ab8
+defc  
+The 640th index of nodes_list is 
+ Parent node : 199 
+State: 
+5123
+0674
+9ab8
+defc  
+The 641th index of nodes_list is 
+ Parent node : 199 
+State: 
+1023
+5674
+9ab8
+defc  
+The 642th index of nodes_list is 
+ Parent node : 200 
+State: 
+5123
+0674
+9ab8
+defc  
+The 643th index of nodes_list is 
+ Parent node : 200 
+State: 
+5123
+9674
+dab8
+0efc  
+The 644th index of nodes_list is 
+ Parent node : 200 
+State: 
+5123
+9674
+a0b8
+defc  
+The 645th index of nodes_list is 
+ Parent node : 201 
+State: 
+5023
+6174
+9ab8
+defc  
+The 646th index of nodes_list is 
+ Parent node : 201 
+State: 
+5123
+6a74
+90b8
+defc  
+The 647th index of nodes_list is 
+ Parent node : 201 
+State: 
+5123
+0674
+9ab8
+defc  
+The 648th index of nodes_list is 
+ Parent node : 201 
+State: 
+5123
+6704
+9ab8
+defc  
+The 649th index of nodes_list is 
+ Parent node : 202 
+State: 
+5123
+0674
+9ab8
+defc  
+The 650th index of nodes_list is 
+ Parent node : 202 
+State: 
+5123
+9674
+dab8
+0efc  
+The 651th index of nodes_list is 
+ Parent node : 202 
+State: 
+5123
+9674
+a0b8
+defc  
+The 652th index of nodes_list is 
+ Parent node : 203 
+State: 
+5123
+9674
+d0b8
+eafc  
+The 653th index of nodes_list is 
+ Parent node : 203 
+State: 
+5123
+9674
+dab8
+0efc  
+The 654th index of nodes_list is 
+ Parent node : 203 
+State: 
+5123
+9674
+dab8
+ef0c  
+The 655th index of nodes_list is 
+ Parent node : 204 
+State: 
+5023
+9174
+a6b8
+defc  
+The 656th index of nodes_list is 
+ Parent node : 204 
+State: 
+5123
+9674
+a0b8
+defc  
+The 657th index of nodes_list is 
+ Parent node : 204 
+State: 
+5123
+0974
+a6b8
+defc  
+The 658th index of nodes_list is 
+ Parent node : 204 
+State: 
+5123
+9704
+a6b8
+defc  
+The 659th index of nodes_list is 
+ Parent node : 205 
+State: 
+5123
+9674
+a0b8
+defc  
+The 660th index of nodes_list is 
+ Parent node : 205 
+State: 
+5123
+9674
+aeb8
+0dfc  
+The 661th index of nodes_list is 
+ Parent node : 205 
+State: 
+5123
+9674
+aeb8
+df0c  
+The 662th index of nodes_list is 
+ Parent node : 206 
+State: 
+5123
+0674
+9ab8
+defc  
+The 663th index of nodes_list is 
+ Parent node : 206 
+State: 
+5123
+9674
+dab8
+0efc  
+The 664th index of nodes_list is 
+ Parent node : 206 
+State: 
+5123
+9674
+a0b8
+defc  
+The 665th index of nodes_list is 
+ Parent node : 207 
+State: 
+5123
+9604
+ab78
+defc  
+The 666th index of nodes_list is 
+ Parent node : 207 
+State: 
+5123
+9674
+abf8
+de0c  
+The 667th index of nodes_list is 
+ Parent node : 207 
+State: 
+5123
+9674
+a0b8
+defc  
+The 668th index of nodes_list is 
+ Parent node : 207 
+State: 
+5123
+9674
+ab80
+defc  
+The 669th index of nodes_list is 
+ Parent node : 208 
+State: 
+5023
+6174
+9ab8
+defc  
+The 670th index of nodes_list is 
+ Parent node : 208 
+State: 
+5123
+6a74
+90b8
+defc  
+The 671th index of nodes_list is 
+ Parent node : 208 
+State: 
+5123
+0674
+9ab8
+defc  
+The 672th index of nodes_list is 
+ Parent node : 208 
+State: 
+5123
+6704
+9ab8
+defc  
+The 673th index of nodes_list is 
+ Parent node : 209 
+State: 
+6523
+0174
+9ab8
+defc  
+The 674th index of nodes_list is 
+ Parent node : 209 
+State: 
+5023
+6174
+9ab8
+defc  
+The 675th index of nodes_list is 
+ Parent node : 210 
+State: 
+5273
+6104
+9ab8
+defc  
+The 676th index of nodes_list is 
+ Parent node : 210 
+State: 
+5023
+6174
+9ab8
+defc  
+The 677th index of nodes_list is 
+ Parent node : 210 
+State: 
+5230
+6174
+9ab8
+defc  
+The 678th index of nodes_list is 
+ Parent node : 211 
+State: 
+5023
+6174
+9ab8
+defc  
+The 679th index of nodes_list is 
+ Parent node : 211 
+State: 
+5123
+6a74
+90b8
+defc  
+The 680th index of nodes_list is 
+ Parent node : 211 
+State: 
+5123
+0674
+9ab8
+defc  
+The 681th index of nodes_list is 
+ Parent node : 211 
+State: 
+5123
+6704
+9ab8
+defc  
+The 682th index of nodes_list is 
+ Parent node : 212 
+State: 
+5123
+6a74
+90b8
+defc  
+The 683th index of nodes_list is 
+ Parent node : 212 
+State: 
+5123
+6a74
+9eb8
+0dfc  
+The 684th index of nodes_list is 
+ Parent node : 212 
+State: 
+5123
+6a74
+9eb8
+df0c  
+The 685th index of nodes_list is 
+ Parent node : 213 
+State: 
+5123
+0a74
+69b8
+defc  
+The 686th index of nodes_list is 
+ Parent node : 213 
+State: 
+5123
+6a74
+d9b8
+0efc  
+The 687th index of nodes_list is 
+ Parent node : 213 
+State: 
+5123
+6a74
+90b8
+defc  
+The 688th index of nodes_list is 
+ Parent node : 214 
+State: 
+5123
+6a04
+9b78
+defc  
+The 689th index of nodes_list is 
+ Parent node : 214 
+State: 
+5123
+6a74
+9bf8
+de0c  
+The 690th index of nodes_list is 
+ Parent node : 214 
+State: 
+5123
+6a74
+90b8
+defc  
+The 691th index of nodes_list is 
+ Parent node : 214 
+State: 
+5123
+6a74
+9b80
+defc  
+The 692th index of nodes_list is 
+ Parent node : 215 
+State: 
+5123
+0674
+9ab8
+defc  
+The 693th index of nodes_list is 
+ Parent node : 215 
+State: 
+1023
+5674
+9ab8
+defc  
+The 694th index of nodes_list is 
+ Parent node : 216 
+State: 
+5123
+0674
+9ab8
+defc  
+The 695th index of nodes_list is 
+ Parent node : 216 
+State: 
+5123
+9674
+dab8
+0efc  
+The 696th index of nodes_list is 
+ Parent node : 216 
+State: 
+5123
+9674
+a0b8
+defc  
+The 697th index of nodes_list is 
+ Parent node : 217 
+State: 
+5023
+6174
+9ab8
+defc  
+The 698th index of nodes_list is 
+ Parent node : 217 
+State: 
+5123
+6a74
+90b8
+defc  
+The 699th index of nodes_list is 
+ Parent node : 217 
+State: 
+5123
+0674
+9ab8
+defc  
+The 700th index of nodes_list is 
+ Parent node : 217 
+State: 
+5123
+6704
+9ab8
+defc  
+The 701th index of nodes_list is 
+ Parent node : 218 
+State: 
+5123
+6704
+9ab8
+defc  
+The 702th index of nodes_list is 
+ Parent node : 218 
+State: 
+5013
+6724
+9ab8
+defc  
+The 703th index of nodes_list is 
+ Parent node : 218 
+State: 
+5130
+6724
+9ab8
+defc  
+The 704th index of nodes_list is 
+ Parent node : 219 
+State: 
+5123
+6704
+9ab8
+defc  
+The 705th index of nodes_list is 
+ Parent node : 219 
+State: 
+5123
+67b4
+9af8
+de0c  
+The 706th index of nodes_list is 
+ Parent node : 219 
+State: 
+5123
+67b4
+90a8
+defc  
+The 707th index of nodes_list is 
+ Parent node : 219 
+State: 
+5123
+67b4
+9a80
+defc  
+The 708th index of nodes_list is 
+ Parent node : 220 
+State: 
+5023
+6174
+9ab8
+defc  
+The 709th index of nodes_list is 
+ Parent node : 220 
+State: 
+5123
+6a74
+90b8
+defc  
+The 710th index of nodes_list is 
+ Parent node : 220 
+State: 
+5123
+0674
+9ab8
+defc  
+The 711th index of nodes_list is 
+ Parent node : 220 
+State: 
+5123
+6704
+9ab8
+defc  
+The 712th index of nodes_list is 
+ Parent node : 221 
+State: 
+5120
+6743
+9ab8
+defc  
+The 713th index of nodes_list is 
+ Parent node : 221 
+State: 
+5123
+6748
+9ab0
+defc  
+The 714th index of nodes_list is 
+ Parent node : 221 
+State: 
+5123
+6704
+9ab8
+defc  
+The 715th index of nodes_list is 
+ Parent node : 222 
+State: 
+5123
+0674
+9ab8
+defc  
+The 716th index of nodes_list is 
+ Parent node : 222 
+State: 
+1023
+5674
+9ab8
+defc  
+The 717th index of nodes_list is 
+ Parent node : 223 
+State: 
+5123
+0674
+9ab8
+defc  
+The 718th index of nodes_list is 
+ Parent node : 223 
+State: 
+5123
+9674
+dab8
+0efc  
+The 719th index of nodes_list is 
+ Parent node : 223 
+State: 
+5123
+9674
+a0b8
+defc  
+The 720th index of nodes_list is 
+ Parent node : 224 
+State: 
+5023
+6174
+9ab8
+defc  
+The 721th index of nodes_list is 
+ Parent node : 224 
+State: 
+5123
+6a74
+90b8
+defc  
+The 722th index of nodes_list is 
+ Parent node : 224 
+State: 
+5123
+0674
+9ab8
+defc  
+The 723th index of nodes_list is 
+ Parent node : 224 
+State: 
+5123
+6704
+9ab8
+defc  
+The 724th index of nodes_list is 
+ Parent node : 225 
+State: 
+5123
+0674
+9ab8
+defc  
+The 725th index of nodes_list is 
+ Parent node : 225 
+State: 
+5123
+9674
+dab8
+0efc  
+The 726th index of nodes_list is 
+ Parent node : 225 
+State: 
+5123
+9674
+a0b8
+defc  
+The 727th index of nodes_list is 
+ Parent node : 226 
+State: 
+5123
+9674
+d0b8
+eafc  
+The 728th index of nodes_list is 
+ Parent node : 226 
+State: 
+5123
+9674
+dab8
+0efc  
+The 729th index of nodes_list is 
+ Parent node : 226 
+State: 
+5123
+9674
+dab8
+ef0c  
+The 730th index of nodes_list is 
+ Parent node : 227 
+State: 
+5023
+9174
+a6b8
+defc  
+The 731th index of nodes_list is 
+ Parent node : 227 
+State: 
+5123
+9674
+a0b8
+defc  
+The 732th index of nodes_list is 
+ Parent node : 227 
+State: 
+5123
+0974
+a6b8
+defc  
+The 733th index of nodes_list is 
+ Parent node : 227 
+State: 
+5123
+9704
+a6b8
+defc  
+The 734th index of nodes_list is 
+ Parent node : 228 
+State: 
+5123
+9674
+a0b8
+defc  
+The 735th index of nodes_list is 
+ Parent node : 228 
+State: 
+5123
+9674
+aeb8
+0dfc  
+The 736th index of nodes_list is 
+ Parent node : 228 
+State: 
+5123
+9674
+aeb8
+df0c  
+The 737th index of nodes_list is 
+ Parent node : 229 
+State: 
+5123
+0674
+9ab8
+defc  
+The 738th index of nodes_list is 
+ Parent node : 229 
+State: 
+5123
+9674
+dab8
+0efc  
+The 739th index of nodes_list is 
+ Parent node : 229 
+State: 
+5123
+9674
+a0b8
+defc  
+The 740th index of nodes_list is 
+ Parent node : 230 
+State: 
+5123
+9604
+ab78
+defc  
+The 741th index of nodes_list is 
+ Parent node : 230 
+State: 
+5123
+9674
+abf8
+de0c  
+The 742th index of nodes_list is 
+ Parent node : 230 
+State: 
+5123
+9674
+a0b8
+defc  
+The 743th index of nodes_list is 
+ Parent node : 230 
+State: 
+5123
+9674
+ab80
+defc  
+The 744th index of nodes_list is 
+ Parent node : 231 
+State: 
+5023
+9174
+d6b8
+eafc  
+The 745th index of nodes_list is 
+ Parent node : 231 
+State: 
+5123
+9674
+d0b8
+eafc  
+The 746th index of nodes_list is 
+ Parent node : 231 
+State: 
+5123
+0974
+d6b8
+eafc  
+The 747th index of nodes_list is 
+ Parent node : 231 
+State: 
+5123
+9704
+d6b8
+eafc  
+The 748th index of nodes_list is 
+ Parent node : 232 
+State: 
+5123
+9674
+d0b8
+eafc  
+The 749th index of nodes_list is 
+ Parent node : 232 
+State: 
+5123
+9674
+dab8
+0efc  
+The 750th index of nodes_list is 
+ Parent node : 232 
+State: 
+5123
+9674
+dab8
+ef0c  
+The 751th index of nodes_list is 
+ Parent node : 233 
+State: 
+5123
+0674
+9db8
+eafc  
+The 752th index of nodes_list is 
+ Parent node : 233 
+State: 
+5123
+9674
+edb8
+0afc  
+The 753th index of nodes_list is 
+ Parent node : 233 
+State: 
+5123
+9674
+d0b8
+eafc  
+The 754th index of nodes_list is 
+ Parent node : 234 
+State: 
+5123
+9604
+db78
+eafc  
+The 755th index of nodes_list is 
+ Parent node : 234 
+State: 
+5123
+9674
+dbf8
+ea0c  
+The 756th index of nodes_list is 
+ Parent node : 234 
+State: 
+5123
+9674
+d0b8
+eafc  
+The 757th index of nodes_list is 
+ Parent node : 234 
+State: 
+5123
+9674
+db80
+eafc  
+The 758th index of nodes_list is 
+ Parent node : 235 
+State: 
+5123
+0674
+9ab8
+defc  
+The 759th index of nodes_list is 
+ Parent node : 235 
+State: 
+5123
+9674
+dab8
+0efc  
+The 760th index of nodes_list is 
+ Parent node : 235 
+State: 
+5123
+9674
+a0b8
+defc  
+The 761th index of nodes_list is 
+ Parent node : 236 
+State: 
+5123
+9674
+d0b8
+eafc  
+The 762th index of nodes_list is 
+ Parent node : 236 
+State: 
+5123
+9674
+dab8
+0efc  
+The 763th index of nodes_list is 
+ Parent node : 236 
+State: 
+5123
+9674
+dab8
+ef0c  
+The 764th index of nodes_list is 
+ Parent node : 237 
+State: 
+5123
+9604
+da78
+efbc  
+The 765th index of nodes_list is 
+ Parent node : 237 
+State: 
+5123
+9674
+dab8
+ef0c  
+The 766th index of nodes_list is 
+ Parent node : 237 
+State: 
+5123
+9674
+d0a8
+efbc  
+The 767th index of nodes_list is 
+ Parent node : 237 
+State: 
+5123
+9674
+da80
+efbc  
+The 768th index of nodes_list is 
+ Parent node : 238 
+State: 
+5123
+9674
+d0b8
+eafc  
+The 769th index of nodes_list is 
+ Parent node : 238 
+State: 
+5123
+9674
+dab8
+0efc  
+The 770th index of nodes_list is 
+ Parent node : 238 
+State: 
+5123
+9674
+dab8
+ef0c  
+The 771th index of nodes_list is 
+ Parent node : 239 
+State: 
+5123
+9674
+dab0
+efc8  
+The 772th index of nodes_list is 
+ Parent node : 239 
+State: 
+5123
+9674
+dab8
+ef0c  
+The 773th index of nodes_list is 
+ Parent node : 240 
+State: 
+5023
+9174
+a6b8
+defc  
+The 774th index of nodes_list is 
+ Parent node : 240 
+State: 
+5123
+9674
+a0b8
+defc  
+The 775th index of nodes_list is 
+ Parent node : 240 
+State: 
+5123
+0974
+a6b8
+defc  
+The 776th index of nodes_list is 
+ Parent node : 240 
+State: 
+5123
+9704
+a6b8
+defc  
+The 777th index of nodes_list is 
+ Parent node : 241 
+State: 
+9523
+0174
+a6b8
+defc  
+The 778th index of nodes_list is 
+ Parent node : 241 
+State: 
+5023
+9174
+a6b8
+defc  
+The 779th index of nodes_list is 
+ Parent node : 242 
+State: 
+5273
+9104
+a6b8
+defc  
+The 780th index of nodes_list is 
+ Parent node : 242 
+State: 
+5023
+9174
+a6b8
+defc  
+The 781th index of nodes_list is 
+ Parent node : 242 
+State: 
+5230
+9174
+a6b8
+defc  
+The 782th index of nodes_list is 
+ Parent node : 243 
+State: 
+5023
+9174
+a6b8
+defc  
+The 783th index of nodes_list is 
+ Parent node : 243 
+State: 
+5123
+9674
+a0b8
+defc  
+The 784th index of nodes_list is 
+ Parent node : 243 
+State: 
+5123
+0974
+a6b8
+defc  
+The 785th index of nodes_list is 
+ Parent node : 243 
+State: 
+5123
+9704
+a6b8
+defc  
+The 786th index of nodes_list is 
+ Parent node : 244 
+State: 
+5123
+9674
+a0b8
+defc  
+The 787th index of nodes_list is 
+ Parent node : 244 
+State: 
+5123
+9674
+aeb8
+0dfc  
+The 788th index of nodes_list is 
+ Parent node : 244 
+State: 
+5123
+9674
+aeb8
+df0c  
+The 789th index of nodes_list is 
+ Parent node : 245 
+State: 
+5123
+0674
+9ab8
+defc  
+The 790th index of nodes_list is 
+ Parent node : 245 
+State: 
+5123
+9674
+dab8
+0efc  
+The 791th index of nodes_list is 
+ Parent node : 245 
+State: 
+5123
+9674
+a0b8
+defc  
+The 792th index of nodes_list is 
+ Parent node : 246 
+State: 
+5123
+9604
+ab78
+defc  
+The 793th index of nodes_list is 
+ Parent node : 246 
+State: 
+5123
+9674
+abf8
+de0c  
+The 794th index of nodes_list is 
+ Parent node : 246 
+State: 
+5123
+9674
+a0b8
+defc  
+The 795th index of nodes_list is 
+ Parent node : 246 
+State: 
+5123
+9674
+ab80
+defc  
+The 796th index of nodes_list is 
+ Parent node : 247 
+State: 
+5123
+0974
+a6b8
+defc  
+The 797th index of nodes_list is 
+ Parent node : 247 
+State: 
+1023
+5974
+a6b8
+defc  
+The 798th index of nodes_list is 
+ Parent node : 248 
+State: 
+5123
+0974
+a6b8
+defc  
+The 799th index of nodes_list is 
+ Parent node : 248 
+State: 
+5123
+a974
+d6b8
+0efc  
+The 800th index of nodes_list is 
+ Parent node : 248 
+State: 
+5123
+a974
+60b8
+defc  
+The 801th index of nodes_list is 
+ Parent node : 249 
+State: 
+5023
+9174
+a6b8
+defc  
+The 802th index of nodes_list is 
+ Parent node : 249 
+State: 
+5123
+9674
+a0b8
+defc  
+The 803th index of nodes_list is 
+ Parent node : 249 
+State: 
+5123
+0974
+a6b8
+defc  
+The 804th index of nodes_list is 
+ Parent node : 249 
+State: 
+5123
+9704
+a6b8
+defc  
+The 805th index of nodes_list is 
+ Parent node : 250 
+State: 
+5123
+9704
+a6b8
+defc  
+The 806th index of nodes_list is 
+ Parent node : 250 
+State: 
+5013
+9724
+a6b8
+defc  
+The 807th index of nodes_list is 
+ Parent node : 250 
+State: 
+5130
+9724
+a6b8
+defc  
+The 808th index of nodes_list is 
+ Parent node : 251 
+State: 
+5123
+9704
+a6b8
+defc  
+The 809th index of nodes_list is 
+ Parent node : 251 
+State: 
+5123
+97b4
+a6f8
+de0c  
+The 810th index of nodes_list is 
+ Parent node : 251 
+State: 
+5123
+97b4
+a068
+defc  
+The 811th index of nodes_list is 
+ Parent node : 251 
+State: 
+5123
+97b4
+a680
+defc  
+The 812th index of nodes_list is 
+ Parent node : 252 
+State: 
+5023
+9174
+a6b8
+defc  
+The 813th index of nodes_list is 
+ Parent node : 252 
+State: 
+5123
+9674
+a0b8
+defc  
+The 814th index of nodes_list is 
+ Parent node : 252 
+State: 
+5123
+0974
+a6b8
+defc  
+The 815th index of nodes_list is 
+ Parent node : 252 
+State: 
+5123
+9704
+a6b8
+defc  
+The 816th index of nodes_list is 
+ Parent node : 253 
+State: 
+5120
+9743
+a6b8
+defc  
+The 817th index of nodes_list is 
+ Parent node : 253 
+State: 
+5123
+9748
+a6b0
+defc  
+The 818th index of nodes_list is 
+ Parent node : 253 
+State: 
+5123
+9704
+a6b8
+defc  
+The 819th index of nodes_list is 
+ Parent node : 254 
+State: 
+5023
+9174
+a6b8
+defc  
+The 820th index of nodes_list is 
+ Parent node : 254 
+State: 
+5123
+9674
+a0b8
+defc  
+The 821th index of nodes_list is 
+ Parent node : 254 
+State: 
+5123
+0974
+a6b8
+defc  
+The 822th index of nodes_list is 
+ Parent node : 254 
+State: 
+5123
+9704
+a6b8
+defc  
+The 823th index of nodes_list is 
+ Parent node : 255 
+State: 
+5123
+9674
+a0b8
+defc  
+The 824th index of nodes_list is 
+ Parent node : 255 
+State: 
+5123
+9674
+aeb8
+0dfc  
+The 825th index of nodes_list is 
+ Parent node : 255 
+State: 
+5123
+9674
+aeb8
+df0c  
+The 826th index of nodes_list is 
+ Parent node : 256 
+State: 
+5123
+0674
+9ab8
+defc  
+The 827th index of nodes_list is 
+ Parent node : 256 
+State: 
+5123
+9674
+dab8
+0efc  
+The 828th index of nodes_list is 
+ Parent node : 256 
+State: 
+5123
+9674
+a0b8
+defc  
+The 829th index of nodes_list is 
+ Parent node : 257 
+State: 
+5123
+9604
+ab78
+defc  
+The 830th index of nodes_list is 
+ Parent node : 257 
+State: 
+5123
+9674
+abf8
+de0c  
+The 831th index of nodes_list is 
+ Parent node : 257 
+State: 
+5123
+9674
+a0b8
+defc  
+The 832th index of nodes_list is 
+ Parent node : 257 
+State: 
+5123
+9674
+ab80
+defc  
+The 833th index of nodes_list is 
+ Parent node : 258 
+State: 
+5123
+0674
+9eb8
+adfc  
+The 834th index of nodes_list is 
+ Parent node : 258 
+State: 
+5123
+9674
+aeb8
+0dfc  
+The 835th index of nodes_list is 
+ Parent node : 258 
+State: 
+5123
+9674
+e0b8
+adfc  
+The 836th index of nodes_list is 
+ Parent node : 259 
+State: 
+5123
+9674
+a0b8
+defc  
+The 837th index of nodes_list is 
+ Parent node : 259 
+State: 
+5123
+9674
+aeb8
+0dfc  
+The 838th index of nodes_list is 
+ Parent node : 259 
+State: 
+5123
+9674
+aeb8
+df0c  
+The 839th index of nodes_list is 
+ Parent node : 260 
+State: 
+5123
+9604
+ae78
+dfbc  
+The 840th index of nodes_list is 
+ Parent node : 260 
+State: 
+5123
+9674
+aeb8
+df0c  
+The 841th index of nodes_list is 
+ Parent node : 260 
+State: 
+5123
+9674
+a0e8
+dfbc  
+The 842th index of nodes_list is 
+ Parent node : 260 
+State: 
+5123
+9674
+ae80
+dfbc  
+The 843th index of nodes_list is 
+ Parent node : 261 
+State: 
+5123
+9674
+a0b8
+defc  
+The 844th index of nodes_list is 
+ Parent node : 261 
+State: 
+5123
+9674
+aeb8
+0dfc  
+The 845th index of nodes_list is 
+ Parent node : 261 
+State: 
+5123
+9674
+aeb8
+df0c  
+The 846th index of nodes_list is 
+ Parent node : 262 
+State: 
+5123
+9674
+aeb0
+dfc8  
+The 847th index of nodes_list is 
+ Parent node : 262 
+State: 
+5123
+9674
+aeb8
+df0c  
+The 848th index of nodes_list is 
+ Parent node : 263 
+State: 
+5123
+0674
+9ab8
+defc  
+The 849th index of nodes_list is 
+ Parent node : 263 
+State: 
+1023
+5674
+9ab8
+defc  
+The 850th index of nodes_list is 
+ Parent node : 264 
+State: 
+5123
+0674
+9ab8
+defc  
+The 851th index of nodes_list is 
+ Parent node : 264 
+State: 
+5123
+9674
+dab8
+0efc  
+The 852th index of nodes_list is 
+ Parent node : 264 
+State: 
+5123
+9674
+a0b8
+defc  
+The 853th index of nodes_list is 
+ Parent node : 265 
+State: 
+5023
+6174
+9ab8
+defc  
+The 854th index of nodes_list is 
+ Parent node : 265 
+State: 
+5123
+6a74
+90b8
+defc  
+The 855th index of nodes_list is 
+ Parent node : 265 
+State: 
+5123
+0674
+9ab8
+defc  
+The 856th index of nodes_list is 
+ Parent node : 265 
+State: 
+5123
+6704
+9ab8
+defc  
+The 857th index of nodes_list is 
+ Parent node : 266 
+State: 
+5123
+0674
+9ab8
+defc  
+The 858th index of nodes_list is 
+ Parent node : 266 
+State: 
+5123
+9674
+dab8
+0efc  
+The 859th index of nodes_list is 
+ Parent node : 266 
+State: 
+5123
+9674
+a0b8
+defc  
+The 860th index of nodes_list is 
+ Parent node : 267 
+State: 
+5123
+9674
+d0b8
+eafc  
+The 861th index of nodes_list is 
+ Parent node : 267 
+State: 
+5123
+9674
+dab8
+0efc  
+The 862th index of nodes_list is 
+ Parent node : 267 
+State: 
+5123
+9674
+dab8
+ef0c  
+The 863th index of nodes_list is 
+ Parent node : 268 
+State: 
+5023
+9174
+a6b8
+defc  
+The 864th index of nodes_list is 
+ Parent node : 268 
+State: 
+5123
+9674
+a0b8
+defc  
+The 865th index of nodes_list is 
+ Parent node : 268 
+State: 
+5123
+0974
+a6b8
+defc  
+The 866th index of nodes_list is 
+ Parent node : 268 
+State: 
+5123
+9704
+a6b8
+defc  
+The 867th index of nodes_list is 
+ Parent node : 269 
+State: 
+5123
+9674
+a0b8
+defc  
+The 868th index of nodes_list is 
+ Parent node : 269 
+State: 
+5123
+9674
+aeb8
+0dfc  
+The 869th index of nodes_list is 
+ Parent node : 269 
+State: 
+5123
+9674
+aeb8
+df0c  
+The 870th index of nodes_list is 
+ Parent node : 270 
+State: 
+5123
+0674
+9ab8
+defc  
+The 871th index of nodes_list is 
+ Parent node : 270 
+State: 
+5123
+9674
+dab8
+0efc  
+The 872th index of nodes_list is 
+ Parent node : 270 
+State: 
+5123
+9674
+a0b8
+defc  
+The 873th index of nodes_list is 
+ Parent node : 271 
+State: 
+5123
+9604
+ab78
+defc  
+The 874th index of nodes_list is 
+ Parent node : 271 
+State: 
+5123
+9674
+abf8
+de0c  
+The 875th index of nodes_list is 
+ Parent node : 271 
+State: 
+5123
+9674
+a0b8
+defc  
+The 876th index of nodes_list is 
+ Parent node : 271 
+State: 
+5123
+9674
+ab80
+defc  
+The 877th index of nodes_list is 
+ Parent node : 272 
+State: 
+5123
+9604
+ab78
+defc  
+The 878th index of nodes_list is 
+ Parent node : 272 
+State: 
+5013
+9624
+ab78
+defc  
+The 879th index of nodes_list is 
+ Parent node : 272 
+State: 
+5130
+9624
+ab78
+defc  
+The 880th index of nodes_list is 
+ Parent node : 273 
+State: 
+5123
+9604
+ab78
+defc  
+The 881th index of nodes_list is 
+ Parent node : 273 
+State: 
+5123
+9674
+abf8
+de0c  
+The 882th index of nodes_list is 
+ Parent node : 273 
+State: 
+5123
+9674
+a0b8
+defc  
+The 883th index of nodes_list is 
+ Parent node : 273 
+State: 
+5123
+9674
+ab80
+defc  
+The 884th index of nodes_list is 
+ Parent node : 274 
+State: 
+5023
+9164
+ab78
+defc  
+The 885th index of nodes_list is 
+ Parent node : 274 
+State: 
+5123
+9b64
+a078
+defc  
+The 886th index of nodes_list is 
+ Parent node : 274 
+State: 
+5123
+0964
+ab78
+defc  
+The 887th index of nodes_list is 
+ Parent node : 274 
+State: 
+5123
+9604
+ab78
+defc  
+The 888th index of nodes_list is 
+ Parent node : 275 
+State: 
+5120
+9643
+ab78
+defc  
+The 889th index of nodes_list is 
+ Parent node : 275 
+State: 
+5123
+9648
+ab70
+defc  
+The 890th index of nodes_list is 
+ Parent node : 275 
+State: 
+5123
+9604
+ab78
+defc  
+The 891th index of nodes_list is 
+ Parent node : 276 
+State: 
+5123
+9604
+ab78
+defc  
+The 892th index of nodes_list is 
+ Parent node : 276 
+State: 
+5123
+9674
+abf8
+de0c  
+The 893th index of nodes_list is 
+ Parent node : 276 
+State: 
+5123
+9674
+a0b8
+defc  
+The 894th index of nodes_list is 
+ Parent node : 276 
+State: 
+5123
+9674
+ab80
+defc  
+The 895th index of nodes_list is 
+ Parent node : 277 
+State: 
+5123
+9674
+a0f8
+dbec  
+The 896th index of nodes_list is 
+ Parent node : 277 
+State: 
+5123
+9674
+abf8
+0dec  
+The 897th index of nodes_list is 
+ Parent node : 277 
+State: 
+5123
+9674
+abf8
+de0c  
+The 898th index of nodes_list is 
+ Parent node : 278 
+State: 
+5123
+9674
+abf0
+dec8  
+The 899th index of nodes_list is 
+ Parent node : 278 
+State: 
+5123
+9674
+abf8
+de0c  
+The 900th index of nodes_list is 
+ Parent node : 279 
+State: 
+5023
+9174
+a6b8
+defc  
+The 901th index of nodes_list is 
+ Parent node : 279 
+State: 
+5123
+9674
+a0b8
+defc  
+The 902th index of nodes_list is 
+ Parent node : 279 
+State: 
+5123
+0974
+a6b8
+defc  
+The 903th index of nodes_list is 
+ Parent node : 279 
+State: 
+5123
+9704
+a6b8
+defc  
+The 904th index of nodes_list is 
+ Parent node : 280 
+State: 
+5123
+9674
+a0b8
+defc  
+The 905th index of nodes_list is 
+ Parent node : 280 
+State: 
+5123
+9674
+aeb8
+0dfc  
+The 906th index of nodes_list is 
+ Parent node : 280 
+State: 
+5123
+9674
+aeb8
+df0c  
+The 907th index of nodes_list is 
+ Parent node : 281 
+State: 
+5123
+0674
+9ab8
+defc  
+The 908th index of nodes_list is 
+ Parent node : 281 
+State: 
+5123
+9674
+dab8
+0efc  
+The 909th index of nodes_list is 
+ Parent node : 281 
+State: 
+5123
+9674
+a0b8
+defc  
+The 910th index of nodes_list is 
+ Parent node : 282 
+State: 
+5123
+9604
+ab78
+defc  
+The 911th index of nodes_list is 
+ Parent node : 282 
+State: 
+5123
+9674
+abf8
+de0c  
+The 912th index of nodes_list is 
+ Parent node : 282 
+State: 
+5123
+9674
+a0b8
+defc  
+The 913th index of nodes_list is 
+ Parent node : 282 
+State: 
+5123
+9674
+ab80
+defc  
+The 914th index of nodes_list is 
+ Parent node : 283 
+State: 
+5120
+9673
+ab84
+defc  
+The 915th index of nodes_list is 
+ Parent node : 283 
+State: 
+5123
+9674
+ab80
+defc  
+The 916th index of nodes_list is 
+ Parent node : 283 
+State: 
+5123
+9607
+ab84
+defc  
+The 917th index of nodes_list is 
+ Parent node : 284 
+State: 
+5123
+9674
+ab80
+defc  
+The 918th index of nodes_list is 
+ Parent node : 284 
+State: 
+5123
+9674
+ab8c
+de0f  
+The 919th index of nodes_list is 
+ Parent node : 285 
+State: 
+5123
+9604
+ab78
+defc  
+The 920th index of nodes_list is 
+ Parent node : 285 
+State: 
+5123
+9674
+abf8
+de0c  
+The 921th index of nodes_list is 
+ Parent node : 285 
+State: 
+5123
+9674
+a0b8
+defc  
+The 922th index of nodes_list is 
+ Parent node : 285 
+State: 
+5123
+9674
+ab80
+defc  
+The 923th index of nodes_list is 
+ Parent node : 286 
+State: 
+5023
+6174
+9ab8
+defc  
+The 924th index of nodes_list is 
+ Parent node : 286 
+State: 
+5123
+6a74
+90b8
+defc  
+The 925th index of nodes_list is 
+ Parent node : 286 
+State: 
+5123
+0674
+9ab8
+defc  
+The 926th index of nodes_list is 
+ Parent node : 286 
+State: 
+5123
+6704
+9ab8
+defc  
+The 927th index of nodes_list is 
+ Parent node : 287 
+State: 
+6523
+0174
+9ab8
+defc  
+The 928th index of nodes_list is 
+ Parent node : 287 
+State: 
+5023
+6174
+9ab8
+defc  
+The 929th index of nodes_list is 
+ Parent node : 288 
+State: 
+5273
+6104
+9ab8
+defc  
+The 930th index of nodes_list is 
+ Parent node : 288 
+State: 
+5023
+6174
+9ab8
+defc  
+The 931th index of nodes_list is 
+ Parent node : 288 
+State: 
+5230
+6174
+9ab8
+defc  
+The 932th index of nodes_list is 
+ Parent node : 289 
+State: 
+5023
+6174
+9ab8
+defc  
+The 933th index of nodes_list is 
+ Parent node : 289 
+State: 
+5123
+6a74
+90b8
+defc  
+The 934th index of nodes_list is 
+ Parent node : 289 
+State: 
+5123
+0674
+9ab8
+defc  
+The 935th index of nodes_list is 
+ Parent node : 289 
+State: 
+5123
+6704
+9ab8
+defc  
+The 936th index of nodes_list is 
+ Parent node : 290 
+State: 
+5123
+6a74
+90b8
+defc  
+The 937th index of nodes_list is 
+ Parent node : 290 
+State: 
+5123
+6a74
+9eb8
+0dfc  
+The 938th index of nodes_list is 
+ Parent node : 290 
+State: 
+5123
+6a74
+9eb8
+df0c  
+The 939th index of nodes_list is 
+ Parent node : 291 
+State: 
+5123
+0a74
+69b8
+defc  
+The 940th index of nodes_list is 
+ Parent node : 291 
+State: 
+5123
+6a74
+d9b8
+0efc  
+The 941th index of nodes_list is 
+ Parent node : 291 
+State: 
+5123
+6a74
+90b8
+defc  
+The 942th index of nodes_list is 
+ Parent node : 292 
+State: 
+5123
+6a04
+9b78
+defc  
+The 943th index of nodes_list is 
+ Parent node : 292 
+State: 
+5123
+6a74
+9bf8
+de0c  
+The 944th index of nodes_list is 
+ Parent node : 292 
+State: 
+5123
+6a74
+90b8
+defc  
+The 945th index of nodes_list is 
+ Parent node : 292 
+State: 
+5123
+6a74
+9b80
+defc  
+The 946th index of nodes_list is 
+ Parent node : 293 
+State: 
+5123
+0674
+9ab8
+defc  
+The 947th index of nodes_list is 
+ Parent node : 293 
+State: 
+1023
+5674
+9ab8
+defc  
+The 948th index of nodes_list is 
+ Parent node : 294 
+State: 
+5123
+0674
+9ab8
+defc  
+The 949th index of nodes_list is 
+ Parent node : 294 
+State: 
+5123
+9674
+dab8
+0efc  
+The 950th index of nodes_list is 
+ Parent node : 294 
+State: 
+5123
+9674
+a0b8
+defc  
+The 951th index of nodes_list is 
+ Parent node : 295 
+State: 
+5023
+6174
+9ab8
+defc  
+The 952th index of nodes_list is 
+ Parent node : 295 
+State: 
+5123
+6a74
+90b8
+defc  
+The 953th index of nodes_list is 
+ Parent node : 295 
+State: 
+5123
+0674
+9ab8
+defc  
+The 954th index of nodes_list is 
+ Parent node : 295 
+State: 
+5123
+6704
+9ab8
+defc  
+The 955th index of nodes_list is 
+ Parent node : 296 
+State: 
+5123
+6704
+9ab8
+defc  
+The 956th index of nodes_list is 
+ Parent node : 296 
+State: 
+5013
+6724
+9ab8
+defc  
+The 957th index of nodes_list is 
+ Parent node : 296 
+State: 
+5130
+6724
+9ab8
+defc  
+The 958th index of nodes_list is 
+ Parent node : 297 
+State: 
+5123
+6704
+9ab8
+defc  
+The 959th index of nodes_list is 
+ Parent node : 297 
+State: 
+5123
+67b4
+9af8
+de0c  
+The 960th index of nodes_list is 
+ Parent node : 297 
+State: 
+5123
+67b4
+90a8
+defc  
+The 961th index of nodes_list is 
+ Parent node : 297 
+State: 
+5123
+67b4
+9a80
+defc  
+The 962th index of nodes_list is 
+ Parent node : 298 
+State: 
+5023
+6174
+9ab8
+defc  
+The 963th index of nodes_list is 
+ Parent node : 298 
+State: 
+5123
+6a74
+90b8
+defc  
+The 964th index of nodes_list is 
+ Parent node : 298 
+State: 
+5123
+0674
+9ab8
+defc  
+The 965th index of nodes_list is 
+ Parent node : 298 
+State: 
+5123
+6704
+9ab8
+defc  
+The 966th index of nodes_list is 
+ Parent node : 299 
+State: 
+5120
+6743
+9ab8
+defc  
+The 967th index of nodes_list is 
+ Parent node : 299 
+State: 
+5123
+6748
+9ab0
+defc  
+The 968th index of nodes_list is 
+ Parent node : 299 
+State: 
+5123
+6704
+9ab8
+defc  
+The 969th index of nodes_list is 
+ Parent node : 300 
+State: 
+6523
+0174
+9ab8
+defc  
+The 970th index of nodes_list is 
+ Parent node : 300 
+State: 
+5023
+6174
+9ab8
+defc  
+The 971th index of nodes_list is 
+ Parent node : 301 
+State: 
+6523
+0174
+9ab8
+defc  
+The 972th index of nodes_list is 
+ Parent node : 301 
+State: 
+6523
+9174
+dab8
+0efc  
+The 973th index of nodes_list is 
+ Parent node : 301 
+State: 
+6523
+9174
+a0b8
+defc  
+The 974th index of nodes_list is 
+ Parent node : 302 
+State: 
+6023
+1574
+9ab8
+defc  
+The 975th index of nodes_list is 
+ Parent node : 302 
+State: 
+6523
+1a74
+90b8
+defc  
+The 976th index of nodes_list is 
+ Parent node : 302 
+State: 
+6523
+0174
+9ab8
+defc  
+The 977th index of nodes_list is 
+ Parent node : 302 
+State: 
+6523
+1704
+9ab8
+defc  
+The 978th index of nodes_list is 
+ Parent node : 303 
+State: 
+5023
+6174
+9ab8
+defc  
+The 979th index of nodes_list is 
+ Parent node : 303 
+State: 
+5123
+6a74
+90b8
+defc  
+The 980th index of nodes_list is 
+ Parent node : 303 
+State: 
+5123
+0674
+9ab8
+defc  
+The 981th index of nodes_list is 
+ Parent node : 303 
+State: 
+5123
+6704
+9ab8
+defc  
+The 982th index of nodes_list is 
+ Parent node : 304 
+State: 
+6523
+0174
+9ab8
+defc  
+The 983th index of nodes_list is 
+ Parent node : 304 
+State: 
+5023
+6174
+9ab8
+defc  
+The 984th index of nodes_list is 
+ Parent node : 305 
+State: 
+5273
+6104
+9ab8
+defc  
+The 985th index of nodes_list is 
+ Parent node : 305 
+State: 
+5023
+6174
+9ab8
+defc  
+The 986th index of nodes_list is 
+ Parent node : 305 
+State: 
+5230
+6174
+9ab8
+defc  
+The 987th index of nodes_list is 
+ Parent node : 306 
+State: 
+5273
+6104
+9ab8
+defc  
+The 988th index of nodes_list is 
+ Parent node : 306 
+State: 
+5023
+6174
+9ab8
+defc  
+The 989th index of nodes_list is 
+ Parent node : 306 
+State: 
+5230
+6174
+9ab8
+defc  
+The 990th index of nodes_list is 
+ Parent node : 307 
+State: 
+5273
+6104
+9ab8
+defc  
+The 991th index of nodes_list is 
+ Parent node : 307 
+State: 
+5273
+61b4
+9af8
+de0c  
+The 992th index of nodes_list is 
+ Parent node : 307 
+State: 
+5273
+61b4
+90a8
+defc  
+The 993th index of nodes_list is 
+ Parent node : 307 
+State: 
+5273
+61b4
+9a80
+defc  
+The 994th index of nodes_list is 
+ Parent node : 308 
+State: 
+5073
+6214
+9ab8
+defc  
+The 995th index of nodes_list is 
+ Parent node : 308 
+State: 
+5273
+6a14
+90b8
+defc  
+The 996th index of nodes_list is 
+ Parent node : 308 
+State: 
+5273
+0614
+9ab8
+defc  
+The 997th index of nodes_list is 
+ Parent node : 308 
+State: 
+5273
+6104
+9ab8
+defc  
+The 998th index of nodes_list is 
+ Parent node : 309 
+State: 
+5270
+6143
+9ab8
+defc  
+The 999th index of nodes_list is 
+ Parent node : 309 
+State: 
+5273
+6148
+9ab0
+defc  
+The 1000th index of nodes_list is 
+ Parent node : 309 
+State: 
+5273
+6104
+9ab8
+defc  
+The 1001th index of nodes_list is 
+ Parent node : 310 
+State: 
+5023
+6174
+9ab8
+defc  
+The 1002th index of nodes_list is 
+ Parent node : 310 
+State: 
+5123
+6a74
+90b8
+defc  
+The 1003th index of nodes_list is 
+ Parent node : 310 
+State: 
+5123
+0674
+9ab8
+defc  
+The 1004th index of nodes_list is 
+ Parent node : 310 
+State: 
+5123
+6704
+9ab8
+defc  
+The 1005th index of nodes_list is 
+ Parent node : 311 
+State: 
+6523
+0174
+9ab8
+defc  
+The 1006th index of nodes_list is 
+ Parent node : 311 
+State: 
+5023
+6174
+9ab8
+defc  
+The 1007th index of nodes_list is 
+ Parent node : 312 
+State: 
+5273
+6104
+9ab8
+defc  
+The 1008th index of nodes_list is 
+ Parent node : 312 
+State: 
+5023
+6174
+9ab8
+defc  
+The 1009th index of nodes_list is 
+ Parent node : 312 
+State: 
+5230
+6174
+9ab8
+defc  
+The 1010th index of nodes_list is 
+ Parent node : 313 
+State: 
+5230
+6174
+9ab8
+defc  
+The 1011th index of nodes_list is 
+ Parent node : 313 
+State: 
+5234
+6178
+9ab0
+defc  
+The 1012th index of nodes_list is 
+ Parent node : 313 
+State: 
+5234
+6107
+9ab8
+defc  
+The 1013th index of nodes_list is 
+ Parent node : 314 
+State: 
+5273
+6104
+9ab8
+defc  
+The 1014th index of nodes_list is 
+ Parent node : 314 
+State: 
+5023
+6174
+9ab8
+defc  
+The 1015th index of nodes_list is 
+ Parent node : 314 
+State: 
+5230
+6174
+9ab8
+defc  
+The 1016th index of nodes_list is 
+ Parent node : 315 
+State: 
+5023
+6174
+9ab8
+defc  
+The 1017th index of nodes_list is 
+ Parent node : 315 
+State: 
+5123
+6a74
+90b8
+defc  
+The 1018th index of nodes_list is 
+ Parent node : 315 
+State: 
+5123
+0674
+9ab8
+defc  
+The 1019th index of nodes_list is 
+ Parent node : 315 
+State: 
+5123
+6704
+9ab8
+defc  
+The 1020th index of nodes_list is 
+ Parent node : 316 
+State: 
+6523
+0174
+9ab8
+defc  
+The 1021th index of nodes_list is 
+ Parent node : 316 
+State: 
+5023
+6174
+9ab8
+defc  
+The 1022th index of nodes_list is 
+ Parent node : 317 
+State: 
+5273
+6104
+9ab8
+defc  
+The 1023th index of nodes_list is 
+ Parent node : 317 
+State: 
+5023
+6174
+9ab8
+defc  
+The 1024th index of nodes_list is 
+ Parent node : 317 
+State: 
+5230
+6174
+9ab8
+defc  
+The 1025th index of nodes_list is 
+ Parent node : 318 
+State: 
+5023
+6174
+9ab8
+defc  
+The 1026th index of nodes_list is 
+ Parent node : 318 
+State: 
+5123
+6a74
+90b8
+defc  
+The 1027th index of nodes_list is 
+ Parent node : 318 
+State: 
+5123
+0674
+9ab8
+defc  
+The 1028th index of nodes_list is 
+ Parent node : 318 
+State: 
+5123
+6704
+9ab8
+defc  
+The 1029th index of nodes_list is 
+ Parent node : 319 
+State: 
+5123
+6a74
+90b8
+defc  
+The 1030th index of nodes_list is 
+ Parent node : 319 
+State: 
+5123
+6a74
+9eb8
+0dfc  
+The 1031th index of nodes_list is 
+ Parent node : 319 
+State: 
+5123
+6a74
+9eb8
+df0c  
+The 1032th index of nodes_list is 
+ Parent node : 320 
+State: 
+5123
+0a74
+69b8
+defc  
+The 1033th index of nodes_list is 
+ Parent node : 320 
+State: 
+5123
+6a74
+d9b8
+0efc  
+The 1034th index of nodes_list is 
+ Parent node : 320 
+State: 
+5123
+6a74
+90b8
+defc  
+The 1035th index of nodes_list is 
+ Parent node : 321 
+State: 
+5123
+6a04
+9b78
+defc  
+The 1036th index of nodes_list is 
+ Parent node : 321 
+State: 
+5123
+6a74
+9bf8
+de0c  
+The 1037th index of nodes_list is 
+ Parent node : 321 
+State: 
+5123
+6a74
+90b8
+defc  
+The 1038th index of nodes_list is 
+ Parent node : 321 
+State: 
+5123
+6a74
+9b80
+defc  
+The 1039th index of nodes_list is 
+ Parent node : 322 
+State: 
+5123
+0674
+9ab8
+defc  
+The 1040th index of nodes_list is 
+ Parent node : 322 
+State: 
+1023
+5674
+9ab8
+defc  
+The 1041th index of nodes_list is 
+ Parent node : 323 
+State: 
+5123
+0674
+9ab8
+defc  
+The 1042th index of nodes_list is 
+ Parent node : 323 
+State: 
+5123
+9674
+dab8
+0efc  
+The 1043th index of nodes_list is 
+ Parent node : 323 
+State: 
+5123
+9674
+a0b8
+defc  
+The 1044th index of nodes_list is 
+ Parent node : 324 
+State: 
+5023
+6174
+9ab8
+defc  
+The 1045th index of nodes_list is 
+ Parent node : 324 
+State: 
+5123
+6a74
+90b8
+defc  
+The 1046th index of nodes_list is 
+ Parent node : 324 
+State: 
+5123
+0674
+9ab8
+defc  
+The 1047th index of nodes_list is 
+ Parent node : 324 
+State: 
+5123
+6704
+9ab8
+defc  
+The 1048th index of nodes_list is 
+ Parent node : 325 
+State: 
+5123
+6704
+9ab8
+defc  
+The 1049th index of nodes_list is 
+ Parent node : 325 
+State: 
+5013
+6724
+9ab8
+defc  
+The 1050th index of nodes_list is 
+ Parent node : 325 
+State: 
+5130
+6724
+9ab8
+defc  
+The 1051th index of nodes_list is 
+ Parent node : 326 
+State: 
+5123
+6704
+9ab8
+defc  
+The 1052th index of nodes_list is 
+ Parent node : 326 
+State: 
+5123
+67b4
+9af8
+de0c  
+The 1053th index of nodes_list is 
+ Parent node : 326 
+State: 
+5123
+67b4
+90a8
+defc  
+The 1054th index of nodes_list is 
+ Parent node : 326 
+State: 
+5123
+67b4
+9a80
+defc  
+The 1055th index of nodes_list is 
+ Parent node : 327 
+State: 
+5023
+6174
+9ab8
+defc  
+The 1056th index of nodes_list is 
+ Parent node : 327 
+State: 
+5123
+6a74
+90b8
+defc  
+The 1057th index of nodes_list is 
+ Parent node : 327 
+State: 
+5123
+0674
+9ab8
+defc  
+The 1058th index of nodes_list is 
+ Parent node : 327 
+State: 
+5123
+6704
+9ab8
+defc  
+The 1059th index of nodes_list is 
+ Parent node : 328 
+State: 
+5120
+6743
+9ab8
+defc  
+The 1060th index of nodes_list is 
+ Parent node : 328 
+State: 
+5123
+6748
+9ab0
+defc  
+The 1061th index of nodes_list is 
+ Parent node : 328 
+State: 
+5123
+6704
+9ab8
+defc  
+The 1062th index of nodes_list is 
+ Parent node : 329 
+State: 
+5023
+6174
+9ab8
+defc  
+The 1063th index of nodes_list is 
+ Parent node : 329 
+State: 
+5123
+6a74
+90b8
+defc  
+The 1064th index of nodes_list is 
+ Parent node : 329 
+State: 
+5123
+0674
+9ab8
+defc  
+The 1065th index of nodes_list is 
+ Parent node : 329 
+State: 
+5123
+6704
+9ab8
+defc  
+The 1066th index of nodes_list is 
+ Parent node : 330 
+State: 
+5123
+6a74
+90b8
+defc  
+The 1067th index of nodes_list is 
+ Parent node : 330 
+State: 
+5123
+6a74
+9eb8
+0dfc  
+The 1068th index of nodes_list is 
+ Parent node : 330 
+State: 
+5123
+6a74
+9eb8
+df0c  
+The 1069th index of nodes_list is 
+ Parent node : 331 
+State: 
+5123
+0a74
+69b8
+defc  
+The 1070th index of nodes_list is 
+ Parent node : 331 
+State: 
+5123
+6a74
+d9b8
+0efc  
+The 1071th index of nodes_list is 
+ Parent node : 331 
+State: 
+5123
+6a74
+90b8
+defc  
+The 1072th index of nodes_list is 
+ Parent node : 332 
+State: 
+5123
+6a04
+9b78
+defc  
+The 1073th index of nodes_list is 
+ Parent node : 332 
+State: 
+5123
+6a74
+9bf8
+de0c  
+The 1074th index of nodes_list is 
+ Parent node : 332 
+State: 
+5123
+6a74
+90b8
+defc  
+The 1075th index of nodes_list is 
+ Parent node : 332 
+State: 
+5123
+6a74
+9b80
+defc  
+The 1076th index of nodes_list is 
+ Parent node : 333 
+State: 
+5123
+0a74
+6eb8
+9dfc  
+The 1077th index of nodes_list is 
+ Parent node : 333 
+State: 
+5123
+6a74
+9eb8
+0dfc  
+The 1078th index of nodes_list is 
+ Parent node : 333 
+State: 
+5123
+6a74
+e0b8
+9dfc  
+The 1079th index of nodes_list is 
+ Parent node : 334 
+State: 
+5123
+6a74
+90b8
+defc  
+The 1080th index of nodes_list is 
+ Parent node : 334 
+State: 
+5123
+6a74
+9eb8
+0dfc  
+The 1081th index of nodes_list is 
+ Parent node : 334 
+State: 
+5123
+6a74
+9eb8
+df0c  
+The 1082th index of nodes_list is 
+ Parent node : 335 
+State: 
+5123
+6a04
+9e78
+dfbc  
+The 1083th index of nodes_list is 
+ Parent node : 335 
+State: 
+5123
+6a74
+9eb8
+df0c  
+The 1084th index of nodes_list is 
+ Parent node : 335 
+State: 
+5123
+6a74
+90e8
+dfbc  
+The 1085th index of nodes_list is 
+ Parent node : 335 
+State: 
+5123
+6a74
+9e80
+dfbc  
+The 1086th index of nodes_list is 
+ Parent node : 336 
+State: 
+5123
+6a74
+90b8
+defc  
+The 1087th index of nodes_list is 
+ Parent node : 336 
+State: 
+5123
+6a74
+9eb8
+0dfc  
+The 1088th index of nodes_list is 
+ Parent node : 336 
+State: 
+5123
+6a74
+9eb8
+df0c  
+The 1089th index of nodes_list is 
+ Parent node : 337 
+State: 
+5123
+6a74
+9eb0
+dfc8  
+The 1090th index of nodes_list is 
+ Parent node : 337 
+State: 
+5123
+6a74
+9eb8
+df0c  
+The 1091th index of nodes_list is 
+ Parent node : 338 
+State: 
+5123
+0a74
+69b8
+defc  
+The 1092th index of nodes_list is 
+ Parent node : 338 
+State: 
+1023
+5a74
+69b8
+defc  
+The 1093th index of nodes_list is 
+ Parent node : 339 
+State: 
+5123
+0a74
+69b8
+defc  
+The 1094th index of nodes_list is 
+ Parent node : 339 
+State: 
+5123
+6a74
+d9b8
+0efc  
+The 1095th index of nodes_list is 
+ Parent node : 339 
+State: 
+5123
+6a74
+90b8
+defc  
+The 1096th index of nodes_list is 
+ Parent node : 340 
+State: 
+5023
+a174
+69b8
+defc  
+The 1097th index of nodes_list is 
+ Parent node : 340 
+State: 
+5123
+a974
+60b8
+defc  
+The 1098th index of nodes_list is 
+ Parent node : 340 
+State: 
+5123
+0a74
+69b8
+defc  
+The 1099th index of nodes_list is 
+ Parent node : 340 
+State: 
+5123
+a704
+69b8
+defc  
+The 1100th index of nodes_list is 
+ Parent node : 341 
+State: 
+5123
+0a74
+69b8
+defc  
+The 1101th index of nodes_list is 
+ Parent node : 341 
+State: 
+5123
+6a74
+d9b8
+0efc  
+The 1102th index of nodes_list is 
+ Parent node : 341 
+State: 
+5123
+6a74
+90b8
+defc  
+The 1103th index of nodes_list is 
+ Parent node : 342 
+State: 
+5123
+6a74
+d0b8
+e9fc  
+The 1104th index of nodes_list is 
+ Parent node : 342 
+State: 
+5123
+6a74
+d9b8
+0efc  
+The 1105th index of nodes_list is 
+ Parent node : 342 
+State: 
+5123
+6a74
+d9b8
+ef0c  
+The 1106th index of nodes_list is 
+ Parent node : 343 
+State: 
+5023
+6174
+9ab8
+defc  
+The 1107th index of nodes_list is 
+ Parent node : 343 
+State: 
+5123
+6a74
+90b8
+defc  
+The 1108th index of nodes_list is 
+ Parent node : 343 
+State: 
+5123
+0674
+9ab8
+defc  
+The 1109th index of nodes_list is 
+ Parent node : 343 
+State: 
+5123
+6704
+9ab8
+defc  
+The 1110th index of nodes_list is 
+ Parent node : 344 
+State: 
+5123
+6a74
+90b8
+defc  
+The 1111th index of nodes_list is 
+ Parent node : 344 
+State: 
+5123
+6a74
+9eb8
+0dfc  
+The 1112th index of nodes_list is 
+ Parent node : 344 
+State: 
+5123
+6a74
+9eb8
+df0c  
+The 1113th index of nodes_list is 
+ Parent node : 345 
+State: 
+5123
+0a74
+69b8
+defc  
+The 1114th index of nodes_list is 
+ Parent node : 345 
+State: 
+5123
+6a74
+d9b8
+0efc  
+The 1115th index of nodes_list is 
+ Parent node : 345 
+State: 
+5123
+6a74
+90b8
+defc  
+The 1116th index of nodes_list is 
+ Parent node : 346 
+State: 
+5123
+6a04
+9b78
+defc  
+The 1117th index of nodes_list is 
+ Parent node : 346 
+State: 
+5123
+6a74
+9bf8
+de0c  
+The 1118th index of nodes_list is 
+ Parent node : 346 
+State: 
+5123
+6a74
+90b8
+defc  
+The 1119th index of nodes_list is 
+ Parent node : 346 
+State: 
+5123
+6a74
+9b80
+defc  
+The 1120th index of nodes_list is 
+ Parent node : 347 
+State: 
+5123
+6a04
+9b78
+defc  
+The 1121th index of nodes_list is 
+ Parent node : 347 
+State: 
+5013
+6a24
+9b78
+defc  
+The 1122th index of nodes_list is 
+ Parent node : 347 
+State: 
+5130
+6a24
+9b78
+defc  
+The 1123th index of nodes_list is 
+ Parent node : 348 
+State: 
+5123
+6a04
+9b78
+defc  
+The 1124th index of nodes_list is 
+ Parent node : 348 
+State: 
+5123
+6a74
+9bf8
+de0c  
+The 1125th index of nodes_list is 
+ Parent node : 348 
+State: 
+5123
+6a74
+90b8
+defc  
+The 1126th index of nodes_list is 
+ Parent node : 348 
+State: 
+5123
+6a74
+9b80
+defc  
+The 1127th index of nodes_list is 
+ Parent node : 349 
+State: 
+5023
+61a4
+9b78
+defc  
+The 1128th index of nodes_list is 
+ Parent node : 349 
+State: 
+5123
+6ba4
+9078
+defc  
+The 1129th index of nodes_list is 
+ Parent node : 349 
+State: 
+5123
+06a4
+9b78
+defc  
+The 1130th index of nodes_list is 
+ Parent node : 349 
+State: 
+5123
+6a04
+9b78
+defc  
+The 1131th index of nodes_list is 
+ Parent node : 350 
+State: 
+5120
+6a43
+9b78
+defc  
+The 1132th index of nodes_list is 
+ Parent node : 350 
+State: 
+5123
+6a48
+9b70
+defc  
+The 1133th index of nodes_list is 
+ Parent node : 350 
+State: 
+5123
+6a04
+9b78
+defc  
+The 1134th index of nodes_list is 
+ Parent node : 351 
+State: 
+5123
+6a04
+9b78
+defc  
+The 1135th index of nodes_list is 
+ Parent node : 351 
+State: 
+5123
+6a74
+9bf8
+de0c  
+The 1136th index of nodes_list is 
+ Parent node : 351 
+State: 
+5123
+6a74
+90b8
+defc  
+The 1137th index of nodes_list is 
+ Parent node : 351 
+State: 
+5123
+6a74
+9b80
+defc  
+The 1138th index of nodes_list is 
+ Parent node : 352 
+State: 
+5123
+6a74
+90f8
+dbec  
+The 1139th index of nodes_list is 
+ Parent node : 352 
+State: 
+5123
+6a74
+9bf8
+0dec  
+The 1140th index of nodes_list is 
+ Parent node : 352 
+State: 
+5123
+6a74
+9bf8
+de0c  
+The 1141th index of nodes_list is 
+ Parent node : 353 
+State: 
+5123
+6a74
+9bf0
+dec8  
+The 1142th index of nodes_list is 
+ Parent node : 353 
+State: 
+5123
+6a74
+9bf8
+de0c  
+The 1143th index of nodes_list is 
+ Parent node : 354 
+State: 
+5023
+6174
+9ab8
+defc  
+The 1144th index of nodes_list is 
+ Parent node : 354 
+State: 
+5123
+6a74
+90b8
+defc  
+The 1145th index of nodes_list is 
+ Parent node : 354 
+State: 
+5123
+0674
+9ab8
+defc  
+The 1146th index of nodes_list is 
+ Parent node : 354 
+State: 
+5123
+6704
+9ab8
+defc  
+The 1147th index of nodes_list is 
+ Parent node : 355 
+State: 
+5123
+6a74
+90b8
+defc  
+The 1148th index of nodes_list is 
+ Parent node : 355 
+State: 
+5123
+6a74
+9eb8
+0dfc  
+The 1149th index of nodes_list is 
+ Parent node : 355 
+State: 
+5123
+6a74
+9eb8
+df0c  
+The 1150th index of nodes_list is 
+ Parent node : 356 
+State: 
+5123
+0a74
+69b8
+defc  
+The 1151th index of nodes_list is 
+ Parent node : 356 
+State: 
+5123
+6a74
+d9b8
+0efc  
+The 1152th index of nodes_list is 
+ Parent node : 356 
+State: 
+5123
+6a74
+90b8
+defc  
+The 1153th index of nodes_list is 
+ Parent node : 357 
+State: 
+5123
+6a04
+9b78
+defc  
+The 1154th index of nodes_list is 
+ Parent node : 357 
+State: 
+5123
+6a74
+9bf8
+de0c  
+The 1155th index of nodes_list is 
+ Parent node : 357 
+State: 
+5123
+6a74
+90b8
+defc  
+The 1156th index of nodes_list is 
+ Parent node : 357 
+State: 
+5123
+6a74
+9b80
+defc  
+The 1157th index of nodes_list is 
+ Parent node : 358 
+State: 
+5120
+6a73
+9b84
+defc  
+The 1158th index of nodes_list is 
+ Parent node : 358 
+State: 
+5123
+6a74
+9b80
+defc  
+The 1159th index of nodes_list is 
+ Parent node : 358 
+State: 
+5123
+6a07
+9b84
+defc  
+The 1160th index of nodes_list is 
+ Parent node : 359 
+State: 
+5123
+6a74
+9b80
+defc  
+The 1161th index of nodes_list is 
+ Parent node : 359 
+State: 
+5123
+6a74
+9b8c
+de0f  
+The 1162th index of nodes_list is 
+ Parent node : 360 
+State: 
+5123
+6a04
+9b78
+defc  
+The 1163th index of nodes_list is 
+ Parent node : 360 
+State: 
+5123
+6a74
+9bf8
+de0c  
+The 1164th index of nodes_list is 
+ Parent node : 360 
+State: 
+5123
+6a74
+90b8
+defc  
+The 1165th index of nodes_list is 
+ Parent node : 360 
+State: 
+5123
+6a74
+9b80
+defc  
+The 1166th index of nodes_list is 
+ Parent node : 361 
+State: 
+5123
+0674
+9ab8
+defc  
+The 1167th index of nodes_list is 
+ Parent node : 361 
+State: 
+1023
+5674
+9ab8
+defc  
+The 1168th index of nodes_list is 
+ Parent node : 362 
+State: 
+5123
+0674
+9ab8
+defc  
+The 1169th index of nodes_list is 
+ Parent node : 362 
+State: 
+5123
+9674
+dab8
+0efc  
+The 1170th index of nodes_list is 
+ Parent node : 362 
+State: 
+5123
+9674
+a0b8
+defc  
+The 1171th index of nodes_list is 
+ Parent node : 363 
+State: 
+5023
+6174
+9ab8
+defc  
+The 1172th index of nodes_list is 
+ Parent node : 363 
+State: 
+5123
+6a74
+90b8
+defc  
+The 1173th index of nodes_list is 
+ Parent node : 363 
+State: 
+5123
+0674
+9ab8
+defc  
+The 1174th index of nodes_list is 
+ Parent node : 363 
+State: 
+5123
+6704
+9ab8
+defc  
+The 1175th index of nodes_list is 
+ Parent node : 364 
+State: 
+1023
+5674
+9ab8
+defc  
+The 1176th index of nodes_list is 
+ Parent node : 364 
+State: 
+1623
+5a74
+90b8
+defc  
+The 1177th index of nodes_list is 
+ Parent node : 364 
+State: 
+1623
+0574
+9ab8
+defc  
+The 1178th index of nodes_list is 
+ Parent node : 364 
+State: 
+1623
+5704
+9ab8
+defc  
+The 1179th index of nodes_list is 
+ Parent node : 365 
+State: 
+5123
+0674
+9ab8
+defc  
+The 1180th index of nodes_list is 
+ Parent node : 365 
+State: 
+1023
+5674
+9ab8
+defc  
+The 1181th index of nodes_list is 
+ Parent node : 366 
+State: 
+1273
+5604
+9ab8
+defc  
+The 1182th index of nodes_list is 
+ Parent node : 366 
+State: 
+1023
+5674
+9ab8
+defc  
+The 1183th index of nodes_list is 
+ Parent node : 366 
+State: 
+1230
+5674
+9ab8
+defc  
+The 1184th index of nodes_list is 
+ Parent node : 367 
+State: 
+5123
+0674
+9ab8
+defc  
+The 1185th index of nodes_list is 
+ Parent node : 367 
+State: 
+1023
+5674
+9ab8
+defc  
+The 1186th index of nodes_list is 
+ Parent node : 368 
+State: 
+5123
+0674
+9ab8
+defc  
+The 1187th index of nodes_list is 
+ Parent node : 368 
+State: 
+5123
+9674
+dab8
+0efc  
+The 1188th index of nodes_list is 
+ Parent node : 368 
+State: 
+5123
+9674
+a0b8
+defc  
+The 1189th index of nodes_list is 
+ Parent node : 369 
+State: 
+5023
+6174
+9ab8
+defc  
+The 1190th index of nodes_list is 
+ Parent node : 369 
+State: 
+5123
+6a74
+90b8
+defc  
+The 1191th index of nodes_list is 
+ Parent node : 369 
+State: 
+5123
+0674
+9ab8
+defc  
+The 1192th index of nodes_list is 
+ Parent node : 369 
+State: 
+5123
+6704
+9ab8
+defc  
+The 1193th index of nodes_list is 
+ Parent node : 370 
+State: 
+5123
+0674
+9ab8
+defc  
+The 1194th index of nodes_list is 
+ Parent node : 370 
+State: 
+5123
+9674
+dab8
+0efc  
+The 1195th index of nodes_list is 
+ Parent node : 370 
+State: 
+5123
+9674
+a0b8
+defc  
+The 1196th index of nodes_list is 
+ Parent node : 371 
+State: 
+5123
+9674
+d0b8
+eafc  
+The 1197th index of nodes_list is 
+ Parent node : 371 
+State: 
+5123
+9674
+dab8
+0efc  
+The 1198th index of nodes_list is 
+ Parent node : 371 
+State: 
+5123
+9674
+dab8
+ef0c  
+The 1199th index of nodes_list is 
+ Parent node : 372 
+State: 
+5023
+9174
+a6b8
+defc  
+The 1200th index of nodes_list is 
+ Parent node : 372 
+State: 
+5123
+9674
+a0b8
+defc  
+The 1201th index of nodes_list is 
+ Parent node : 372 
+State: 
+5123
+0974
+a6b8
+defc  
+The 1202th index of nodes_list is 
+ Parent node : 372 
+State: 
+5123
+9704
+a6b8
+defc  
+The 1203th index of nodes_list is 
+ Parent node : 373 
+State: 
+5123
+9674
+a0b8
+defc  
+The 1204th index of nodes_list is 
+ Parent node : 373 
+State: 
+5123
+9674
+aeb8
+0dfc  
+The 1205th index of nodes_list is 
+ Parent node : 373 
+State: 
+5123
+9674
+aeb8
+df0c  
+The 1206th index of nodes_list is 
+ Parent node : 374 
+State: 
+5123
+0674
+9ab8
+defc  
+The 1207th index of nodes_list is 
+ Parent node : 374 
+State: 
+5123
+9674
+dab8
+0efc  
+The 1208th index of nodes_list is 
+ Parent node : 374 
+State: 
+5123
+9674
+a0b8
+defc  
+The 1209th index of nodes_list is 
+ Parent node : 375 
+State: 
+5123
+9604
+ab78
+defc  
+The 1210th index of nodes_list is 
+ Parent node : 375 
+State: 
+5123
+9674
+abf8
+de0c  
+The 1211th index of nodes_list is 
+ Parent node : 375 
+State: 
+5123
+9674
+a0b8
+defc  
+The 1212th index of nodes_list is 
+ Parent node : 375 
+State: 
+5123
+9674
+ab80
+defc  
+The 1213th index of nodes_list is 
+ Parent node : 376 
+State: 
+5023
+6174
+9ab8
+defc  
+The 1214th index of nodes_list is 
+ Parent node : 376 
+State: 
+5123
+6a74
+90b8
+defc  
+The 1215th index of nodes_list is 
+ Parent node : 376 
+State: 
+5123
+0674
+9ab8
+defc  
+The 1216th index of nodes_list is 
+ Parent node : 376 
+State: 
+5123
+6704
+9ab8
+defc  
+The 1217th index of nodes_list is 
+ Parent node : 377 
+State: 
+6523
+0174
+9ab8
+defc  
+The 1218th index of nodes_list is 
+ Parent node : 377 
+State: 
+5023
+6174
+9ab8
+defc  
+The 1219th index of nodes_list is 
+ Parent node : 378 
+State: 
+5273
+6104
+9ab8
+defc  
+The 1220th index of nodes_list is 
+ Parent node : 378 
+State: 
+5023
+6174
+9ab8
+defc  
+The 1221th index of nodes_list is 
+ Parent node : 378 
+State: 
+5230
+6174
+9ab8
+defc  
+The 1222th index of nodes_list is 
+ Parent node : 379 
+State: 
+5023
+6174
+9ab8
+defc  
+The 1223th index of nodes_list is 
+ Parent node : 379 
+State: 
+5123
+6a74
+90b8
+defc  
+The 1224th index of nodes_list is 
+ Parent node : 379 
+State: 
+5123
+0674
+9ab8
+defc  
+The 1225th index of nodes_list is 
+ Parent node : 379 
+State: 
+5123
+6704
+9ab8
+defc  
+The 1226th index of nodes_list is 
+ Parent node : 380 
+State: 
+5123
+6a74
+90b8
+defc  
+The 1227th index of nodes_list is 
+ Parent node : 380 
+State: 
+5123
+6a74
+9eb8
+0dfc  
+The 1228th index of nodes_list is 
+ Parent node : 380 
+State: 
+5123
+6a74
+9eb8
+df0c  
+The 1229th index of nodes_list is 
+ Parent node : 381 
+State: 
+5123
+0a74
+69b8
+defc  
+The 1230th index of nodes_list is 
+ Parent node : 381 
+State: 
+5123
+6a74
+d9b8
+0efc  
+The 1231th index of nodes_list is 
+ Parent node : 381 
+State: 
+5123
+6a74
+90b8
+defc  
+The 1232th index of nodes_list is 
+ Parent node : 382 
+State: 
+5123
+6a04
+9b78
+defc  
+The 1233th index of nodes_list is 
+ Parent node : 382 
+State: 
+5123
+6a74
+9bf8
+de0c  
+The 1234th index of nodes_list is 
+ Parent node : 382 
+State: 
+5123
+6a74
+90b8
+defc  
+The 1235th index of nodes_list is 
+ Parent node : 382 
+State: 
+5123
+6a74
+9b80
+defc  
+The 1236th index of nodes_list is 
+ Parent node : 383 
+State: 
+5123
+0674
+9ab8
+defc  
+The 1237th index of nodes_list is 
+ Parent node : 383 
+State: 
+1023
+5674
+9ab8
+defc  
+The 1238th index of nodes_list is 
+ Parent node : 384 
+State: 
+5123
+0674
+9ab8
+defc  
+The 1239th index of nodes_list is 
+ Parent node : 384 
+State: 
+5123
+9674
+dab8
+0efc  
+The 1240th index of nodes_list is 
+ Parent node : 384 
+State: 
+5123
+9674
+a0b8
+defc  
+The 1241th index of nodes_list is 
+ Parent node : 385 
+State: 
+5023
+6174
+9ab8
+defc  
+The 1242th index of nodes_list is 
+ Parent node : 385 
+State: 
+5123
+6a74
+90b8
+defc  
+The 1243th index of nodes_list is 
+ Parent node : 385 
+State: 
+5123
+0674
+9ab8
+defc  
+The 1244th index of nodes_list is 
+ Parent node : 385 
+State: 
+5123
+6704
+9ab8
+defc  
+The 1245th index of nodes_list is 
+ Parent node : 386 
+State: 
+5123
+6704
+9ab8
+defc  
+The 1246th index of nodes_list is 
+ Parent node : 386 
+State: 
+5013
+6724
+9ab8
+defc  
+The 1247th index of nodes_list is 
+ Parent node : 386 
+State: 
+5130
+6724
+9ab8
+defc  
+The 1248th index of nodes_list is 
+ Parent node : 387 
+State: 
+5123
+6704
+9ab8
+defc  
+The 1249th index of nodes_list is 
+ Parent node : 387 
+State: 
+5123
+67b4
+9af8
+de0c  
+The 1250th index of nodes_list is 
+ Parent node : 387 
+State: 
+5123
+67b4
+90a8
+defc  
+The 1251th index of nodes_list is 
+ Parent node : 387 
+State: 
+5123
+67b4
+9a80
+defc  
+The 1252th index of nodes_list is 
+ Parent node : 388 
+State: 
+5023
+6174
+9ab8
+defc  
+The 1253th index of nodes_list is 
+ Parent node : 388 
+State: 
+5123
+6a74
+90b8
+defc  
+The 1254th index of nodes_list is 
+ Parent node : 388 
+State: 
+5123
+0674
+9ab8
+defc  
+The 1255th index of nodes_list is 
+ Parent node : 388 
+State: 
+5123
+6704
+9ab8
+defc  
+The 1256th index of nodes_list is 
+ Parent node : 389 
+State: 
+5120
+6743
+9ab8
+defc  
+The 1257th index of nodes_list is 
+ Parent node : 389 
+State: 
+5123
+6748
+9ab0
+defc  
+The 1258th index of nodes_list is 
+ Parent node : 389 
+State: 
+5123
+6704
+9ab8
+defc  
+The 1259th index of nodes_list is 
+ Parent node : 390 
+State: 
+5123
+6704
+9ab8
+defc  
+The 1260th index of nodes_list is 
+ Parent node : 390 
+State: 
+5013
+6724
+9ab8
+defc  
+The 1261th index of nodes_list is 
+ Parent node : 390 
+State: 
+5130
+6724
+9ab8
+defc  
+The 1262th index of nodes_list is 
+ Parent node : 391 
+State: 
+5123
+6704
+9ab8
+defc  
+The 1263th index of nodes_list is 
+ Parent node : 391 
+State: 
+5123
+67b4
+9af8
+de0c  
+The 1264th index of nodes_list is 
+ Parent node : 391 
+State: 
+5123
+67b4
+90a8
+defc  
+The 1265th index of nodes_list is 
+ Parent node : 391 
+State: 
+5123
+67b4
+9a80
+defc  
+The 1266th index of nodes_list is 
+ Parent node : 392 
+State: 
+5023
+6174
+9ab8
+defc  
+The 1267th index of nodes_list is 
+ Parent node : 392 
+State: 
+5123
+6a74
+90b8
+defc  
+The 1268th index of nodes_list is 
+ Parent node : 392 
+State: 
+5123
+0674
+9ab8
+defc  
+The 1269th index of nodes_list is 
+ Parent node : 392 
+State: 
+5123
+6704
+9ab8
+defc  
+The 1270th index of nodes_list is 
+ Parent node : 393 
+State: 
+5120
+6743
+9ab8
+defc  
+The 1271th index of nodes_list is 
+ Parent node : 393 
+State: 
+5123
+6748
+9ab0
+defc  
+The 1272th index of nodes_list is 
+ Parent node : 393 
+State: 
+5123
+6704
+9ab8
+defc  
+The 1273th index of nodes_list is 
+ Parent node : 394 
+State: 
+5013
+6724
+9ab8
+defc  
+The 1274th index of nodes_list is 
+ Parent node : 394 
+State: 
+5713
+6a24
+90b8
+defc  
+The 1275th index of nodes_list is 
+ Parent node : 394 
+State: 
+5713
+0624
+9ab8
+defc  
+The 1276th index of nodes_list is 
+ Parent node : 394 
+State: 
+5713
+6204
+9ab8
+defc  
+The 1277th index of nodes_list is 
+ Parent node : 395 
+State: 
+6513
+0724
+9ab8
+defc  
+The 1278th index of nodes_list is 
+ Parent node : 395 
+State: 
+5013
+6724
+9ab8
+defc  
+The 1279th index of nodes_list is 
+ Parent node : 396 
+State: 
+5123
+6704
+9ab8
+defc  
+The 1280th index of nodes_list is 
+ Parent node : 396 
+State: 
+5013
+6724
+9ab8
+defc  
+The 1281th index of nodes_list is 
+ Parent node : 396 
+State: 
+5130
+6724
+9ab8
+defc  
+The 1282th index of nodes_list is 
+ Parent node : 397 
+State: 
+5130
+6724
+9ab8
+defc  
+The 1283th index of nodes_list is 
+ Parent node : 397 
+State: 
+5134
+6728
+9ab0
+defc  
+The 1284th index of nodes_list is 
+ Parent node : 397 
+State: 
+5134
+6702
+9ab8
+defc  
+The 1285th index of nodes_list is 
+ Parent node : 398 
+State: 
+5123
+6704
+9ab8
+defc  
+The 1286th index of nodes_list is 
+ Parent node : 398 
+State: 
+5013
+6724
+9ab8
+defc  
+The 1287th index of nodes_list is 
+ Parent node : 398 
+State: 
+5130
+6724
+9ab8
+defc  
+The 1288th index of nodes_list is 
+ Parent node : 399 
+State: 
+5123
+6704
+9ab8
+defc  
+The 1289th index of nodes_list is 
+ Parent node : 399 
+State: 
+5013
+6724
+9ab8
+defc  
+The 1290th index of nodes_list is 
+ Parent node : 399 
+State: 
+5130
+6724
+9ab8
+defc  
+The 1291th index of nodes_list is 
+ Parent node : 400 
+State: 
+5123
+6704
+9ab8
+defc  
+The 1292th index of nodes_list is 
+ Parent node : 400 
+State: 
+5123
+67b4
+9af8
+de0c  
+The 1293th index of nodes_list is 
+ Parent node : 400 
+State: 
+5123
+67b4
+90a8
+defc  
+The 1294th index of nodes_list is 
+ Parent node : 400 
+State: 
+5123
+67b4
+9a80
+defc  
+The 1295th index of nodes_list is 
+ Parent node : 401 
+State: 
+5023
+6174
+9ab8
+defc  
+The 1296th index of nodes_list is 
+ Parent node : 401 
+State: 
+5123
+6a74
+90b8
+defc  
+The 1297th index of nodes_list is 
+ Parent node : 401 
+State: 
+5123
+0674
+9ab8
+defc  
+The 1298th index of nodes_list is 
+ Parent node : 401 
+State: 
+5123
+6704
+9ab8
+defc  
+The 1299th index of nodes_list is 
+ Parent node : 402 
+State: 
+5120
+6743
+9ab8
+defc  
+The 1300th index of nodes_list is 
+ Parent node : 402 
+State: 
+5123
+6748
+9ab0
+defc  
+The 1301th index of nodes_list is 
+ Parent node : 402 
+State: 
+5123
+6704
+9ab8
+defc  
+The 1302th index of nodes_list is 
+ Parent node : 403 
+State: 
+5123
+6704
+9ab8
+defc  
+The 1303th index of nodes_list is 
+ Parent node : 403 
+State: 
+5123
+67b4
+9af8
+de0c  
+The 1304th index of nodes_list is 
+ Parent node : 403 
+State: 
+5123
+67b4
+90a8
+defc  
+The 1305th index of nodes_list is 
+ Parent node : 403 
+State: 
+5123
+67b4
+9a80
+defc  
+The 1306th index of nodes_list is 
+ Parent node : 404 
+State: 
+5123
+67b4
+90f8
+daec  
+The 1307th index of nodes_list is 
+ Parent node : 404 
+State: 
+5123
+67b4
+9af8
+0dec  
+The 1308th index of nodes_list is 
+ Parent node : 404 
+State: 
+5123
+67b4
+9af8
+de0c  
+The 1309th index of nodes_list is 
+ Parent node : 405 
+State: 
+5123
+67b4
+9af0
+dec8  
+The 1310th index of nodes_list is 
+ Parent node : 405 
+State: 
+5123
+67b4
+9af8
+de0c  
+The 1311th index of nodes_list is 
+ Parent node : 406 
+State: 
+5023
+61b4
+97a8
+defc  
+The 1312th index of nodes_list is 
+ Parent node : 406 
+State: 
+5123
+67b4
+90a8
+defc  
+The 1313th index of nodes_list is 
+ Parent node : 406 
+State: 
+5123
+06b4
+97a8
+defc  
+The 1314th index of nodes_list is 
+ Parent node : 406 
+State: 
+5123
+6b04
+97a8
+defc  
+The 1315th index of nodes_list is 
+ Parent node : 407 
+State: 
+5123
+67b4
+90a8
+defc  
+The 1316th index of nodes_list is 
+ Parent node : 407 
+State: 
+5123
+67b4
+9ea8
+0dfc  
+The 1317th index of nodes_list is 
+ Parent node : 407 
+State: 
+5123
+67b4
+9ea8
+df0c  
+The 1318th index of nodes_list is 
+ Parent node : 408 
+State: 
+5123
+07b4
+69a8
+defc  
+The 1319th index of nodes_list is 
+ Parent node : 408 
+State: 
+5123
+67b4
+d9a8
+0efc  
+The 1320th index of nodes_list is 
+ Parent node : 408 
+State: 
+5123
+67b4
+90a8
+defc  
+The 1321th index of nodes_list is 
+ Parent node : 409 
+State: 
+5123
+6704
+9ab8
+defc  
+The 1322th index of nodes_list is 
+ Parent node : 409 
+State: 
+5123
+67b4
+9af8
+de0c  
+The 1323th index of nodes_list is 
+ Parent node : 409 
+State: 
+5123
+67b4
+90a8
+defc  
+The 1324th index of nodes_list is 
+ Parent node : 409 
+State: 
+5123
+67b4
+9a80
+defc  
+The 1325th index of nodes_list is 
+ Parent node : 410 
+State: 
+5120
+67b3
+9a84
+defc  
+The 1326th index of nodes_list is 
+ Parent node : 410 
+State: 
+5123
+67b4
+9a80
+defc  
+The 1327th index of nodes_list is 
+ Parent node : 410 
+State: 
+5123
+670b
+9a84
+defc  
+The 1328th index of nodes_list is 
+ Parent node : 411 
+State: 
+5123
+67b4
+9a80
+defc  
+The 1329th index of nodes_list is 
+ Parent node : 411 
+State: 
+5123
+67b4
+9a8c
+de0f  
+The 1330th index of nodes_list is 
+ Parent node : 412 
+State: 
+5123
+6704
+9ab8
+defc  
+The 1331th index of nodes_list is 
+ Parent node : 412 
+State: 
+5123
+67b4
+9af8
+de0c  
+The 1332th index of nodes_list is 
+ Parent node : 412 
+State: 
+5123
+67b4
+90a8
+defc  
+The 1333th index of nodes_list is 
+ Parent node : 412 
+State: 
+5123
+67b4
+9a80
+defc  
+The 1334th index of nodes_list is 
+ Parent node : 413 
+State: 
+5023
+6174
+9ab8
+defc  
+The 1335th index of nodes_list is 
+ Parent node : 413 
+State: 
+5123
+6a74
+90b8
+defc  
+The 1336th index of nodes_list is 
+ Parent node : 413 
+State: 
+5123
+0674
+9ab8
+defc  
+The 1337th index of nodes_list is 
+ Parent node : 413 
+State: 
+5123
+6704
+9ab8
+defc  
+The 1338th index of nodes_list is 
+ Parent node : 414 
+State: 
+6523
+0174
+9ab8
+defc  
+The 1339th index of nodes_list is 
+ Parent node : 414 
+State: 
+5023
+6174
+9ab8
+defc  
+The 1340th index of nodes_list is 
+ Parent node : 415 
+State: 
+5273
+6104
+9ab8
+defc  
+The 1341th index of nodes_list is 
+ Parent node : 415 
+State: 
+5023
+6174
+9ab8
+defc  
+The 1342th index of nodes_list is 
+ Parent node : 415 
+State: 
+5230
+6174
+9ab8
+defc  
+The 1343th index of nodes_list is 
+ Parent node : 416 
+State: 
+5023
+6174
+9ab8
+defc  
+The 1344th index of nodes_list is 
+ Parent node : 416 
+State: 
+5123
+6a74
+90b8
+defc  
+The 1345th index of nodes_list is 
+ Parent node : 416 
+State: 
+5123
+0674
+9ab8
+defc  
+The 1346th index of nodes_list is 
+ Parent node : 416 
+State: 
+5123
+6704
+9ab8
+defc  
+The 1347th index of nodes_list is 
+ Parent node : 417 
+State: 
+5123
+6a74
+90b8
+defc  
+The 1348th index of nodes_list is 
+ Parent node : 417 
+State: 
+5123
+6a74
+9eb8
+0dfc  
+The 1349th index of nodes_list is 
+ Parent node : 417 
+State: 
+5123
+6a74
+9eb8
+df0c  
+The 1350th index of nodes_list is 
+ Parent node : 418 
+State: 
+5123
+0a74
+69b8
+defc  
+The 1351th index of nodes_list is 
+ Parent node : 418 
+State: 
+5123
+6a74
+d9b8
+0efc  
+The 1352th index of nodes_list is 
+ Parent node : 418 
+State: 
+5123
+6a74
+90b8
+defc  
+The 1353th index of nodes_list is 
+ Parent node : 419 
+State: 
+5123
+6a04
+9b78
+defc  
+The 1354th index of nodes_list is 
+ Parent node : 419 
+State: 
+5123
+6a74
+9bf8
+de0c  
+The 1355th index of nodes_list is 
+ Parent node : 419 
+State: 
+5123
+6a74
+90b8
+defc  
+The 1356th index of nodes_list is 
+ Parent node : 419 
+State: 
+5123
+6a74
+9b80
+defc  
+The 1357th index of nodes_list is 
+ Parent node : 420 
+State: 
+5123
+0674
+9ab8
+defc  
+The 1358th index of nodes_list is 
+ Parent node : 420 
+State: 
+1023
+5674
+9ab8
+defc  
+The 1359th index of nodes_list is 
+ Parent node : 421 
+State: 
+5123
+0674
+9ab8
+defc  
+The 1360th index of nodes_list is 
+ Parent node : 421 
+State: 
+5123
+9674
+dab8
+0efc  
+The 1361th index of nodes_list is 
+ Parent node : 421 
+State: 
+5123
+9674
+a0b8
+defc  
+The 1362th index of nodes_list is 
+ Parent node : 422 
+State: 
+5023
+6174
+9ab8
+defc  
+The 1363th index of nodes_list is 
+ Parent node : 422 
+State: 
+5123
+6a74
+90b8
+defc  
+The 1364th index of nodes_list is 
+ Parent node : 422 
+State: 
+5123
+0674
+9ab8
+defc  
+The 1365th index of nodes_list is 
+ Parent node : 422 
+State: 
+5123
+6704
+9ab8
+defc  
+The 1366th index of nodes_list is 
+ Parent node : 423 
+State: 
+5123
+6704
+9ab8
+defc  
+The 1367th index of nodes_list is 
+ Parent node : 423 
+State: 
+5013
+6724
+9ab8
+defc  
+The 1368th index of nodes_list is 
+ Parent node : 423 
+State: 
+5130
+6724
+9ab8
+defc  
+The 1369th index of nodes_list is 
+ Parent node : 424 
+State: 
+5123
+6704
+9ab8
+defc  
+The 1370th index of nodes_list is 
+ Parent node : 424 
+State: 
+5123
+67b4
+9af8
+de0c  
+The 1371th index of nodes_list is 
+ Parent node : 424 
+State: 
+5123
+67b4
+90a8
+defc  
+The 1372th index of nodes_list is 
+ Parent node : 424 
+State: 
+5123
+67b4
+9a80
+defc  
+The 1373th index of nodes_list is 
+ Parent node : 425 
+State: 
+5023
+6174
+9ab8
+defc  
+The 1374th index of nodes_list is 
+ Parent node : 425 
+State: 
+5123
+6a74
+90b8
+defc  
+The 1375th index of nodes_list is 
+ Parent node : 425 
+State: 
+5123
+0674
+9ab8
+defc  
+The 1376th index of nodes_list is 
+ Parent node : 425 
+State: 
+5123
+6704
+9ab8
+defc  
+The 1377th index of nodes_list is 
+ Parent node : 426 
+State: 
+5120
+6743
+9ab8
+defc  
+The 1378th index of nodes_list is 
+ Parent node : 426 
+State: 
+5123
+6748
+9ab0
+defc  
+The 1379th index of nodes_list is 
+ Parent node : 426 
+State: 
+5123
+6704
+9ab8
+defc  
+The 1380th index of nodes_list is 
+ Parent node : 427 
+State: 
+5120
+6743
+9ab8
+defc  
+The 1381th index of nodes_list is 
+ Parent node : 427 
+State: 
+5123
+6748
+9ab0
+defc  
+The 1382th index of nodes_list is 
+ Parent node : 427 
+State: 
+5123
+6704
+9ab8
+defc  
+The 1383th index of nodes_list is 
+ Parent node : 428 
+State: 
+5142
+6703
+9ab8
+defc  
+The 1384th index of nodes_list is 
+ Parent node : 428 
+State: 
+5012
+6743
+9ab8
+defc  
+The 1385th index of nodes_list is 
+ Parent node : 428 
+State: 
+5120
+6743
+9ab8
+defc  
+The 1386th index of nodes_list is 
+ Parent node : 429 
+State: 
+5120
+6743
+9ab8
+defc  
+The 1387th index of nodes_list is 
+ Parent node : 429 
+State: 
+5123
+6748
+9ab0
+defc  
+The 1388th index of nodes_list is 
+ Parent node : 429 
+State: 
+5123
+6704
+9ab8
+defc  
+The 1389th index of nodes_list is 
+ Parent node : 430 
+State: 
+5123
+6748
+9ab0
+defc  
+The 1390th index of nodes_list is 
+ Parent node : 430 
+State: 
+5123
+6748
+9abc
+de0f  
+The 1391th index of nodes_list is 
+ Parent node : 431 
+State: 
+5123
+6708
+9a4b
+defc  
+The 1392th index of nodes_list is 
+ Parent node : 431 
+State: 
+5123
+6748
+9afb
+de0c  
+The 1393th index of nodes_list is 
+ Parent node : 431 
+State: 
+5123
+6748
+90ab
+defc  
+The 1394th index of nodes_list is 
+ Parent node : 431 
+State: 
+5123
+6748
+9ab0
+defc  
+The 1395th index of nodes_list is 
+ Parent node : 432 
+State: 
+5123
+6704
+9ab8
+defc  
+The 1396th index of nodes_list is 
+ Parent node : 432 
+State: 
+5013
+6724
+9ab8
+defc  
+The 1397th index of nodes_list is 
+ Parent node : 432 
+State: 
+5130
+6724
+9ab8
+defc  
+The 1398th index of nodes_list is 
+ Parent node : 433 
+State: 
+5123
+6704
+9ab8
+defc  
+The 1399th index of nodes_list is 
+ Parent node : 433 
+State: 
+5123
+67b4
+9af8
+de0c  
+The 1400th index of nodes_list is 
+ Parent node : 433 
+State: 
+5123
+67b4
+90a8
+defc  
+The 1401th index of nodes_list is 
+ Parent node : 433 
+State: 
+5123
+67b4
+9a80
+defc  
+The 1402th index of nodes_list is 
+ Parent node : 434 
+State: 
+5023
+6174
+9ab8
+defc  
+The 1403th index of nodes_list is 
+ Parent node : 434 
+State: 
+5123
+6a74
+90b8
+defc  
+The 1404th index of nodes_list is 
+ Parent node : 434 
+State: 
+5123
+0674
+9ab8
+defc  
+The 1405th index of nodes_list is 
+ Parent node : 434 
+State: 
+5123
+6704
+9ab8
+defc  
+The 1406th index of nodes_list is 
+ Parent node : 435 
+State: 
+5120
+6743
+9ab8
+defc  
+The 1407th index of nodes_list is 
+ Parent node : 435 
+State: 
+5123
+6748
+9ab0
+defc  
+The 1408th index of nodes_list is 
+ Parent node : 435 
+State: 
+5123
+6704
+9ab8
+defc  
+The 1409th index of nodes_list is 
+ Parent node : 436 
+State: 
+0123
+5674
+9ab8
+defc  
+The 1410th index of nodes_list is 
+ Parent node : 436 
+State: 
+5123
+9674
+0ab8
+defc  
+The 1411th index of nodes_list is 
+ Parent node : 436 
+State: 
+5123
+6074
+9ab8
+defc  
+The 1412th index of nodes_list is 
+ Parent node : 437 
+State: 
+1623
+5074
+9ab8
+defc  
+The 1413th index of nodes_list is 
+ Parent node : 437 
+State: 
+0123
+5674
+9ab8
+defc  
+The 1414th index of nodes_list is 
+ Parent node : 437 
+State: 
+1203
+5674
+9ab8
+defc  
+The 1415th index of nodes_list is 
+ Parent node : 438 
+State: 
+0123
+5674
+9ab8
+defc  
+The 1416th index of nodes_list is 
+ Parent node : 438 
+State: 
+5123
+9674
+0ab8
+defc  
+The 1417th index of nodes_list is 
+ Parent node : 438 
+State: 
+5123
+6074
+9ab8
+defc  
+The 1418th index of nodes_list is 
+ Parent node : 439 
+State: 
+5123
+9674
+0ab8
+defc  
+The 1419th index of nodes_list is 
+ Parent node : 439 
+State: 
+5123
+9674
+dab8
+e0fc  
+The 1420th index of nodes_list is 
+ Parent node : 440 
+State: 
+5123
+9074
+a6b8
+defc  
+The 1421th index of nodes_list is 
+ Parent node : 440 
+State: 
+5123
+9674
+aeb8
+d0fc  
+The 1422th index of nodes_list is 
+ Parent node : 440 
+State: 
+5123
+9674
+0ab8
+defc  
+The 1423th index of nodes_list is 
+ Parent node : 440 
+State: 
+5123
+9674
+ab08
+defc  
+The 1424th index of nodes_list is 
+ Parent node : 441 
+State: 
+5123
+6074
+9ab8
+defc  
+The 1425th index of nodes_list is 
+ Parent node : 441 
+State: 
+0523
+6174
+9ab8
+defc  
+The 1426th index of nodes_list is 
+ Parent node : 441 
+State: 
+5203
+6174
+9ab8
+defc  
+The 1427th index of nodes_list is 
+ Parent node : 442 
+State: 
+5123
+6074
+9ab8
+defc  
+The 1428th index of nodes_list is 
+ Parent node : 442 
+State: 
+5123
+6a74
+9eb8
+d0fc  
+The 1429th index of nodes_list is 
+ Parent node : 442 
+State: 
+5123
+6a74
+09b8
+defc  
+The 1430th index of nodes_list is 
+ Parent node : 442 
+State: 
+5123
+6a74
+9b08
+defc  
+The 1431th index of nodes_list is 
+ Parent node : 443 
+State: 
+0123
+5674
+9ab8
+defc  
+The 1432th index of nodes_list is 
+ Parent node : 443 
+State: 
+5123
+9674
+0ab8
+defc  
+The 1433th index of nodes_list is 
+ Parent node : 443 
+State: 
+5123
+6074
+9ab8
+defc  
+The 1434th index of nodes_list is 
+ Parent node : 444 
+State: 
+5103
+6724
+9ab8
+defc  
+The 1435th index of nodes_list is 
+ Parent node : 444 
+State: 
+5123
+67b4
+9a08
+defc  
+The 1436th index of nodes_list is 
+ Parent node : 444 
+State: 
+5123
+6074
+9ab8
+defc  
+The 1437th index of nodes_list is 
+ Parent node : 444 
+State: 
+5123
+6740
+9ab8
+defc  
+The 1438th index of nodes_list is 
+ Parent node : 445 
+State: 
+1623
+5074
+9ab8
+defc  
+The 1439th index of nodes_list is 
+ Parent node : 445 
+State: 
+0123
+5674
+9ab8
+defc  
+The 1440th index of nodes_list is 
+ Parent node : 445 
+State: 
+1203
+5674
+9ab8
+defc  
+The 1441th index of nodes_list is 
+ Parent node : 446 
+State: 
+1623
+5074
+9ab8
+defc  
+The 1442th index of nodes_list is 
+ Parent node : 446 
+State: 
+1623
+5a74
+9eb8
+d0fc  
+The 1443th index of nodes_list is 
+ Parent node : 446 
+State: 
+1623
+5a74
+09b8
+defc  
+The 1444th index of nodes_list is 
+ Parent node : 446 
+State: 
+1623
+5a74
+9b08
+defc  
+The 1445th index of nodes_list is 
+ Parent node : 447 
+State: 
+0623
+1574
+9ab8
+defc  
+The 1446th index of nodes_list is 
+ Parent node : 447 
+State: 
+1623
+9574
+0ab8
+defc  
+The 1447th index of nodes_list is 
+ Parent node : 447 
+State: 
+1623
+5074
+9ab8
+defc  
+The 1448th index of nodes_list is 
+ Parent node : 448 
+State: 
+1603
+5724
+9ab8
+defc  
+The 1449th index of nodes_list is 
+ Parent node : 448 
+State: 
+1623
+57b4
+9a08
+defc  
+The 1450th index of nodes_list is 
+ Parent node : 448 
+State: 
+1623
+5074
+9ab8
+defc  
+The 1451th index of nodes_list is 
+ Parent node : 448 
+State: 
+1623
+5740
+9ab8
+defc  
+The 1452th index of nodes_list is 
+ Parent node : 449 
+State: 
+0123
+5674
+9ab8
+defc  
+The 1453th index of nodes_list is 
+ Parent node : 449 
+State: 
+5123
+9674
+0ab8
+defc  
+The 1454th index of nodes_list is 
+ Parent node : 449 
+State: 
+5123
+6074
+9ab8
+defc  
+The 1455th index of nodes_list is 
+ Parent node : 450 
+State: 
+1623
+5074
+9ab8
+defc  
+The 1456th index of nodes_list is 
+ Parent node : 450 
+State: 
+0123
+5674
+9ab8
+defc  
+The 1457th index of nodes_list is 
+ Parent node : 450 
+State: 
+1203
+5674
+9ab8
+defc  
+The 1458th index of nodes_list is 
+ Parent node : 451 
+State: 
+1203
+5674
+9ab8
+defc  
+The 1459th index of nodes_list is 
+ Parent node : 451 
+State: 
+1273
+56b4
+9a08
+defc  
+The 1460th index of nodes_list is 
+ Parent node : 451 
+State: 
+1273
+5064
+9ab8
+defc  
+The 1461th index of nodes_list is 
+ Parent node : 451 
+State: 
+1273
+5640
+9ab8
+defc  
+The 1462th index of nodes_list is 
+ Parent node : 452 
+State: 
+1623
+5074
+9ab8
+defc  
+The 1463th index of nodes_list is 
+ Parent node : 452 
+State: 
+0123
+5674
+9ab8
+defc  
+The 1464th index of nodes_list is 
+ Parent node : 452 
+State: 
+1203
+5674
+9ab8
+defc  
+The 1465th index of nodes_list is 
+ Parent node : 453 
+State: 
+1234
+5670
+9ab8
+defc  
+The 1466th index of nodes_list is 
+ Parent node : 453 
+State: 
+1203
+5674
+9ab8
+defc  
+The 1467th index of nodes_list is 
+ Parent node : 454 
+State: 
+0123
+5674
+9ab8
+defc  
+The 1468th index of nodes_list is 
+ Parent node : 454 
+State: 
+5123
+9674
+0ab8
+defc  
+The 1469th index of nodes_list is 
+ Parent node : 454 
+State: 
+5123
+6074
+9ab8
+defc  
+The 1470th index of nodes_list is 
+ Parent node : 455 
+State: 
+1623
+5074
+9ab8
+defc  
+The 1471th index of nodes_list is 
+ Parent node : 455 
+State: 
+0123
+5674
+9ab8
+defc  
+The 1472th index of nodes_list is 
+ Parent node : 455 
+State: 
+1203
+5674
+9ab8
+defc  
+The 1473th index of nodes_list is 
+ Parent node : 456 
+State: 
+0123
+5674
+9ab8
+defc  
+The 1474th index of nodes_list is 
+ Parent node : 456 
+State: 
+5123
+9674
+0ab8
+defc  
+The 1475th index of nodes_list is 
+ Parent node : 456 
+State: 
+5123
+6074
+9ab8
+defc  
+The 1476th index of nodes_list is 
+ Parent node : 457 
+State: 
+5123
+9674
+0ab8
+defc  
+The 1477th index of nodes_list is 
+ Parent node : 457 
+State: 
+5123
+9674
+dab8
+e0fc  
+The 1478th index of nodes_list is 
+ Parent node : 458 
+State: 
+5123
+9074
+a6b8
+defc  
+The 1479th index of nodes_list is 
+ Parent node : 458 
+State: 
+5123
+9674
+aeb8
+d0fc  
+The 1480th index of nodes_list is 
+ Parent node : 458 
+State: 
+5123
+9674
+0ab8
+defc  
+The 1481th index of nodes_list is 
+ Parent node : 458 
+State: 
+5123
+9674
+ab08
+defc  
+The 1482th index of nodes_list is 
+ Parent node : 459 
+State: 
+5123
+6074
+9ab8
+defc  
+The 1483th index of nodes_list is 
+ Parent node : 459 
+State: 
+0523
+6174
+9ab8
+defc  
+The 1484th index of nodes_list is 
+ Parent node : 459 
+State: 
+5203
+6174
+9ab8
+defc  
+The 1485th index of nodes_list is 
+ Parent node : 460 
+State: 
+5123
+6074
+9ab8
+defc  
+The 1486th index of nodes_list is 
+ Parent node : 460 
+State: 
+5123
+6a74
+9eb8
+d0fc  
+The 1487th index of nodes_list is 
+ Parent node : 460 
+State: 
+5123
+6a74
+09b8
+defc  
+The 1488th index of nodes_list is 
+ Parent node : 460 
+State: 
+5123
+6a74
+9b08
+defc  
+The 1489th index of nodes_list is 
+ Parent node : 461 
+State: 
+0123
+5674
+9ab8
+defc  
+The 1490th index of nodes_list is 
+ Parent node : 461 
+State: 
+5123
+9674
+0ab8
+defc  
+The 1491th index of nodes_list is 
+ Parent node : 461 
+State: 
+5123
+6074
+9ab8
+defc  
+The 1492th index of nodes_list is 
+ Parent node : 462 
+State: 
+5103
+6724
+9ab8
+defc  
+The 1493th index of nodes_list is 
+ Parent node : 462 
+State: 
+5123
+67b4
+9a08
+defc  
+The 1494th index of nodes_list is 
+ Parent node : 462 
+State: 
+5123
+6074
+9ab8
+defc  
+The 1495th index of nodes_list is 
+ Parent node : 462 
+State: 
+5123
+6740
+9ab8
+defc  
+The 1496th index of nodes_list is 
+ Parent node : 463 
+State: 
+0123
+5674
+9ab8
+defc  
+The 1497th index of nodes_list is 
+ Parent node : 463 
+State: 
+5123
+9674
+0ab8
+defc  
+The 1498th index of nodes_list is 
+ Parent node : 463 
+State: 
+5123
+6074
+9ab8
+defc  
+The 1499th index of nodes_list is 
+ Parent node : 464 
+State: 
+5123
+9674
+0ab8
+defc  
+The 1500th index of nodes_list is 
+ Parent node : 464 
+State: 
+5123
+9674
+dab8
+e0fc  
+The 1501th index of nodes_list is 
+ Parent node : 465 
+State: 
+5123
+9074
+a6b8
+defc  
+The 1502th index of nodes_list is 
+ Parent node : 465 
+State: 
+5123
+9674
+aeb8
+d0fc  
+The 1503th index of nodes_list is 
+ Parent node : 465 
+State: 
+5123
+9674
+0ab8
+defc  
+The 1504th index of nodes_list is 
+ Parent node : 465 
+State: 
+5123
+9674
+ab08
+defc  
+The 1505th index of nodes_list is 
+ Parent node : 466 
+State: 
+5123
+9074
+d6b8
+eafc  
+The 1506th index of nodes_list is 
+ Parent node : 466 
+State: 
+5123
+9674
+dab8
+e0fc  
+The 1507th index of nodes_list is 
+ Parent node : 466 
+State: 
+5123
+9674
+0db8
+eafc  
+The 1508th index of nodes_list is 
+ Parent node : 466 
+State: 
+5123
+9674
+db08
+eafc  
+The 1509th index of nodes_list is 
+ Parent node : 467 
+State: 
+5123
+9674
+0ab8
+defc  
+The 1510th index of nodes_list is 
+ Parent node : 467 
+State: 
+5123
+9674
+dab8
+e0fc  
+The 1511th index of nodes_list is 
+ Parent node : 468 
+State: 
+5123
+9674
+da08
+efbc  
+The 1512th index of nodes_list is 
+ Parent node : 468 
+State: 
+5123
+9674
+dab8
+e0fc  
+The 1513th index of nodes_list is 
+ Parent node : 468 
+State: 
+5123
+9674
+dab8
+efc0  
+The 1514th index of nodes_list is 
+ Parent node : 469 
+State: 
+5123
+9074
+a6b8
+defc  
+The 1515th index of nodes_list is 
+ Parent node : 469 
+State: 
+0523
+9174
+a6b8
+defc  
+The 1516th index of nodes_list is 
+ Parent node : 469 
+State: 
+5203
+9174
+a6b8
+defc  
+The 1517th index of nodes_list is 
+ Parent node : 470 
+State: 
+5123
+9074
+a6b8
+defc  
+The 1518th index of nodes_list is 
+ Parent node : 470 
+State: 
+5123
+9674
+aeb8
+d0fc  
+The 1519th index of nodes_list is 
+ Parent node : 470 
+State: 
+5123
+9674
+0ab8
+defc  
+The 1520th index of nodes_list is 
+ Parent node : 470 
+State: 
+5123
+9674
+ab08
+defc  
+The 1521th index of nodes_list is 
+ Parent node : 471 
+State: 
+0123
+5974
+a6b8
+defc  
+The 1522th index of nodes_list is 
+ Parent node : 471 
+State: 
+5123
+a974
+06b8
+defc  
+The 1523th index of nodes_list is 
+ Parent node : 471 
+State: 
+5123
+9074
+a6b8
+defc  
+The 1524th index of nodes_list is 
+ Parent node : 472 
+State: 
+5103
+9724
+a6b8
+defc  
+The 1525th index of nodes_list is 
+ Parent node : 472 
+State: 
+5123
+97b4
+a608
+defc  
+The 1526th index of nodes_list is 
+ Parent node : 472 
+State: 
+5123
+9074
+a6b8
+defc  
+The 1527th index of nodes_list is 
+ Parent node : 472 
+State: 
+5123
+9740
+a6b8
+defc  
+The 1528th index of nodes_list is 
+ Parent node : 473 
+State: 
+5123
+9074
+a6b8
+defc  
+The 1529th index of nodes_list is 
+ Parent node : 473 
+State: 
+5123
+9674
+aeb8
+d0fc  
+The 1530th index of nodes_list is 
+ Parent node : 473 
+State: 
+5123
+9674
+0ab8
+defc  
+The 1531th index of nodes_list is 
+ Parent node : 473 
+State: 
+5123
+9674
+ab08
+defc  
+The 1532th index of nodes_list is 
+ Parent node : 474 
+State: 
+5123
+9674
+0eb8
+adfc  
+The 1533th index of nodes_list is 
+ Parent node : 474 
+State: 
+5123
+9674
+aeb8
+d0fc  
+The 1534th index of nodes_list is 
+ Parent node : 475 
+State: 
+5123
+9674
+ae08
+dfbc  
+The 1535th index of nodes_list is 
+ Parent node : 475 
+State: 
+5123
+9674
+aeb8
+d0fc  
+The 1536th index of nodes_list is 
+ Parent node : 475 
+State: 
+5123
+9674
+aeb8
+dfc0  
+The 1537th index of nodes_list is 
+ Parent node : 476 
+State: 
+0123
+5674
+9ab8
+defc  
+The 1538th index of nodes_list is 
+ Parent node : 476 
+State: 
+5123
+9674
+0ab8
+defc  
+The 1539th index of nodes_list is 
+ Parent node : 476 
+State: 
+5123
+6074
+9ab8
+defc  
+The 1540th index of nodes_list is 
+ Parent node : 477 
+State: 
+5123
+9674
+0ab8
+defc  
+The 1541th index of nodes_list is 
+ Parent node : 477 
+State: 
+5123
+9674
+dab8
+e0fc  
+The 1542th index of nodes_list is 
+ Parent node : 478 
+State: 
+5123
+9074
+a6b8
+defc  
+The 1543th index of nodes_list is 
+ Parent node : 478 
+State: 
+5123
+9674
+aeb8
+d0fc  
+The 1544th index of nodes_list is 
+ Parent node : 478 
+State: 
+5123
+9674
+0ab8
+defc  
+The 1545th index of nodes_list is 
+ Parent node : 478 
+State: 
+5123
+9674
+ab08
+defc  
+The 1546th index of nodes_list is 
+ Parent node : 479 
+State: 
+5103
+9624
+ab78
+defc  
+The 1547th index of nodes_list is 
+ Parent node : 479 
+State: 
+5123
+9674
+ab08
+defc  
+The 1548th index of nodes_list is 
+ Parent node : 479 
+State: 
+5123
+9064
+ab78
+defc  
+The 1549th index of nodes_list is 
+ Parent node : 479 
+State: 
+5123
+9640
+ab78
+defc  
+The 1550th index of nodes_list is 
+ Parent node : 480 
+State: 
+5123
+9674
+ab08
+defc  
+The 1551th index of nodes_list is 
+ Parent node : 480 
+State: 
+5123
+9674
+abf8
+d0ec  
+The 1552th index of nodes_list is 
+ Parent node : 480 
+State: 
+5123
+9674
+abf8
+dec0  
+The 1553th index of nodes_list is 
+ Parent node : 481 
+State: 
+5123
+9074
+a6b8
+defc  
+The 1554th index of nodes_list is 
+ Parent node : 481 
+State: 
+5123
+9674
+aeb8
+d0fc  
+The 1555th index of nodes_list is 
+ Parent node : 481 
+State: 
+5123
+9674
+0ab8
+defc  
+The 1556th index of nodes_list is 
+ Parent node : 481 
+State: 
+5123
+9674
+ab08
+defc  
+The 1557th index of nodes_list is 
+ Parent node : 482 
+State: 
+5123
+9670
+ab84
+defc  
+The 1558th index of nodes_list is 
+ Parent node : 482 
+State: 
+5123
+9674
+ab8c
+def0  
+The 1559th index of nodes_list is 
+ Parent node : 482 
+State: 
+5123
+9674
+ab08
+defc  
+The 1560th index of nodes_list is 
+ Parent node : 483 
+State: 
+5123
+6074
+9ab8
+defc  
+The 1561th index of nodes_list is 
+ Parent node : 483 
+State: 
+0523
+6174
+9ab8
+defc  
+The 1562th index of nodes_list is 
+ Parent node : 483 
+State: 
+5203
+6174
+9ab8
+defc  
+The 1563th index of nodes_list is 
+ Parent node : 484 
+State: 
+5123
+6074
+9ab8
+defc  
+The 1564th index of nodes_list is 
+ Parent node : 484 
+State: 
+5123
+6a74
+9eb8
+d0fc  
+The 1565th index of nodes_list is 
+ Parent node : 484 
+State: 
+5123
+6a74
+09b8
+defc  
+The 1566th index of nodes_list is 
+ Parent node : 484 
+State: 
+5123
+6a74
+9b08
+defc  
+The 1567th index of nodes_list is 
+ Parent node : 485 
+State: 
+0123
+5674
+9ab8
+defc  
+The 1568th index of nodes_list is 
+ Parent node : 485 
+State: 
+5123
+9674
+0ab8
+defc  
+The 1569th index of nodes_list is 
+ Parent node : 485 
+State: 
+5123
+6074
+9ab8
+defc  
+The 1570th index of nodes_list is 
+ Parent node : 486 
+State: 
+5103
+6724
+9ab8
+defc  
+The 1571th index of nodes_list is 
+ Parent node : 486 
+State: 
+5123
+67b4
+9a08
+defc  
+The 1572th index of nodes_list is 
+ Parent node : 486 
+State: 
+5123
+6074
+9ab8
+defc  
+The 1573th index of nodes_list is 
+ Parent node : 486 
+State: 
+5123
+6740
+9ab8
+defc  
+The 1574th index of nodes_list is 
+ Parent node : 487 
+State: 
+0523
+6174
+9ab8
+defc  
+The 1575th index of nodes_list is 
+ Parent node : 487 
+State: 
+6523
+9174
+0ab8
+defc  
+The 1576th index of nodes_list is 
+ Parent node : 487 
+State: 
+6523
+1074
+9ab8
+defc  
+The 1577th index of nodes_list is 
+ Parent node : 488 
+State: 
+5123
+6074
+9ab8
+defc  
+The 1578th index of nodes_list is 
+ Parent node : 488 
+State: 
+0523
+6174
+9ab8
+defc  
+The 1579th index of nodes_list is 
+ Parent node : 488 
+State: 
+5203
+6174
+9ab8
+defc  
+The 1580th index of nodes_list is 
+ Parent node : 489 
+State: 
+5203
+6174
+9ab8
+defc  
+The 1581th index of nodes_list is 
+ Parent node : 489 
+State: 
+5273
+61b4
+9a08
+defc  
+The 1582th index of nodes_list is 
+ Parent node : 489 
+State: 
+5273
+6014
+9ab8
+defc  
+The 1583th index of nodes_list is 
+ Parent node : 489 
+State: 
+5273
+6140
+9ab8
+defc  
+The 1584th index of nodes_list is 
+ Parent node : 490 
+State: 
+5123
+6074
+9ab8
+defc  
+The 1585th index of nodes_list is 
+ Parent node : 490 
+State: 
+0523
+6174
+9ab8
+defc  
+The 1586th index of nodes_list is 
+ Parent node : 490 
+State: 
+5203
+6174
+9ab8
+defc  
+The 1587th index of nodes_list is 
+ Parent node : 491 
+State: 
+5234
+6170
+9ab8
+defc  
+The 1588th index of nodes_list is 
+ Parent node : 491 
+State: 
+5203
+6174
+9ab8
+defc  
+The 1589th index of nodes_list is 
+ Parent node : 492 
+State: 
+5123
+6074
+9ab8
+defc  
+The 1590th index of nodes_list is 
+ Parent node : 492 
+State: 
+0523
+6174
+9ab8
+defc  
+The 1591th index of nodes_list is 
+ Parent node : 492 
+State: 
+5203
+6174
+9ab8
+defc  
+The 1592th index of nodes_list is 
+ Parent node : 493 
+State: 
+5123
+6074
+9ab8
+defc  
+The 1593th index of nodes_list is 
+ Parent node : 493 
+State: 
+5123
+6a74
+9eb8
+d0fc  
+The 1594th index of nodes_list is 
+ Parent node : 493 
+State: 
+5123
+6a74
+09b8
+defc  
+The 1595th index of nodes_list is 
+ Parent node : 493 
+State: 
+5123
+6a74
+9b08
+defc  
+The 1596th index of nodes_list is 
+ Parent node : 494 
+State: 
+0123
+5674
+9ab8
+defc  
+The 1597th index of nodes_list is 
+ Parent node : 494 
+State: 
+5123
+9674
+0ab8
+defc  
+The 1598th index of nodes_list is 
+ Parent node : 494 
+State: 
+5123
+6074
+9ab8
+defc  
+The 1599th index of nodes_list is 
+ Parent node : 495 
+State: 
+5103
+6724
+9ab8
+defc  
+The 1600th index of nodes_list is 
+ Parent node : 495 
+State: 
+5123
+67b4
+9a08
+defc  
+The 1601th index of nodes_list is 
+ Parent node : 495 
+State: 
+5123
+6074
+9ab8
+defc  
+The 1602th index of nodes_list is 
+ Parent node : 495 
+State: 
+5123
+6740
+9ab8
+defc  
+The 1603th index of nodes_list is 
+ Parent node : 496 
+State: 
+5123
+6074
+9ab8
+defc  
+The 1604th index of nodes_list is 
+ Parent node : 496 
+State: 
+5123
+6a74
+9eb8
+d0fc  
+The 1605th index of nodes_list is 
+ Parent node : 496 
+State: 
+5123
+6a74
+09b8
+defc  
+The 1606th index of nodes_list is 
+ Parent node : 496 
+State: 
+5123
+6a74
+9b08
+defc  
+The 1607th index of nodes_list is 
+ Parent node : 497 
+State: 
+5123
+6a74
+0eb8
+9dfc  
+The 1608th index of nodes_list is 
+ Parent node : 497 
+State: 
+5123
+6a74
+9eb8
+d0fc  
+The 1609th index of nodes_list is 
+ Parent node : 498 
+State: 
+5123
+6a74
+9e08
+dfbc  
+The 1610th index of nodes_list is 
+ Parent node : 498 
+State: 
+5123
+6a74
+9eb8
+d0fc  
+The 1611th index of nodes_list is 
+ Parent node : 498 
+State: 
+5123
+6a74
+9eb8
+dfc0  
+The 1612th index of nodes_list is 
+ Parent node : 499 
+State: 
+0123
+5a74
+69b8
+defc  
+The 1613th index of nodes_list is 
+ Parent node : 499 
+State: 
+5123
+6a74
+09b8
+defc  
+The 1614th index of nodes_list is 
+ Parent node : 499 
+State: 
+5123
+a074
+69b8
+defc  
+The 1615th index of nodes_list is 
+ Parent node : 500 
+State: 
+5123
+6a74
+09b8
+defc  
+The 1616th index of nodes_list is 
+ Parent node : 500 
+State: 
+5123
+6a74
+d9b8
+e0fc  
+The 1617th index of nodes_list is 
+ Parent node : 501 
+State: 
+5123
+6074
+9ab8
+defc  
+The 1618th index of nodes_list is 
+ Parent node : 501 
+State: 
+5123
+6a74
+9eb8
+d0fc  
+The 1619th index of nodes_list is 
+ Parent node : 501 
+State: 
+5123
+6a74
+09b8
+defc  
+The 1620th index of nodes_list is 
+ Parent node : 501 
+State: 
+5123
+6a74
+9b08
+defc  
+The 1621th index of nodes_list is 
+ Parent node : 502 
+State: 
+5103
+6a24
+9b78
+defc  
+The 1622th index of nodes_list is 
+ Parent node : 502 
+State: 
+5123
+6a74
+9b08
+defc  
+The 1623th index of nodes_list is 
+ Parent node : 502 
+State: 
+5123
+60a4
+9b78
+defc  
+The 1624th index of nodes_list is 
+ Parent node : 502 
+State: 
+5123
+6a40
+9b78
+defc  
+The 1625th index of nodes_list is 
+ Parent node : 503 
+State: 
+5123
+6a74
+9b08
+defc  
+The 1626th index of nodes_list is 
+ Parent node : 503 
+State: 
+5123
+6a74
+9bf8
+d0ec  
+The 1627th index of nodes_list is 
+ Parent node : 503 
+State: 
+5123
+6a74
+9bf8
+dec0  
+The 1628th index of nodes_list is 
+ Parent node : 504 
+State: 
+5123
+6074
+9ab8
+defc  
+The 1629th index of nodes_list is 
+ Parent node : 504 
+State: 
+5123
+6a74
+9eb8
+d0fc  
+The 1630th index of nodes_list is 
+ Parent node : 504 
+State: 
+5123
+6a74
+09b8
+defc  
+The 1631th index of nodes_list is 
+ Parent node : 504 
+State: 
+5123
+6a74
+9b08
+defc  
+The 1632th index of nodes_list is 
+ Parent node : 505 
+State: 
+5123
+6a70
+9b84
+defc  
+The 1633th index of nodes_list is 
+ Parent node : 505 
+State: 
+5123
+6a74
+9b8c
+def0  
+The 1634th index of nodes_list is 
+ Parent node : 505 
+State: 
+5123
+6a74
+9b08
+defc  
+The 1635th index of nodes_list is 
+ Parent node : 506 
+State: 
+0123
+5674
+9ab8
+defc  
+The 1636th index of nodes_list is 
+ Parent node : 506 
+State: 
+5123
+9674
+0ab8
+defc  
+The 1637th index of nodes_list is 
+ Parent node : 506 
+State: 
+5123
+6074
+9ab8
+defc  
+The 1638th index of nodes_list is 
+ Parent node : 507 
+State: 
+1623
+5074
+9ab8
+defc  
+The 1639th index of nodes_list is 
+ Parent node : 507 
+State: 
+0123
+5674
+9ab8
+defc  
+The 1640th index of nodes_list is 
+ Parent node : 507 
+State: 
+1203
+5674
+9ab8
+defc  
+The 1641th index of nodes_list is 
+ Parent node : 508 
+State: 
+0123
+5674
+9ab8
+defc  
+The 1642th index of nodes_list is 
+ Parent node : 508 
+State: 
+5123
+9674
+0ab8
+defc  
+The 1643th index of nodes_list is 
+ Parent node : 508 
+State: 
+5123
+6074
+9ab8
+defc  
+The 1644th index of nodes_list is 
+ Parent node : 509 
+State: 
+5123
+9674
+0ab8
+defc  
+The 1645th index of nodes_list is 
+ Parent node : 509 
+State: 
+5123
+9674
+dab8
+e0fc  
+The 1646th index of nodes_list is 
+ Parent node : 510 
+State: 
+5123
+9074
+a6b8
+defc  
+The 1647th index of nodes_list is 
+ Parent node : 510 
+State: 
+5123
+9674
+aeb8
+d0fc  
+The 1648th index of nodes_list is 
+ Parent node : 510 
+State: 
+5123
+9674
+0ab8
+defc  
+The 1649th index of nodes_list is 
+ Parent node : 510 
+State: 
+5123
+9674
+ab08
+defc  
+The 1650th index of nodes_list is 
+ Parent node : 511 
+State: 
+5123
+6074
+9ab8
+defc  
+The 1651th index of nodes_list is 
+ Parent node : 511 
+State: 
+0523
+6174
+9ab8
+defc  
+The 1652th index of nodes_list is 
+ Parent node : 511 
+State: 
+5203
+6174
+9ab8
+defc  
+The 1653th index of nodes_list is 
+ Parent node : 512 
+State: 
+5123
+6074
+9ab8
+defc  
+The 1654th index of nodes_list is 
+ Parent node : 512 
+State: 
+5123
+6a74
+9eb8
+d0fc  
+The 1655th index of nodes_list is 
+ Parent node : 512 
+State: 
+5123
+6a74
+09b8
+defc  
+The 1656th index of nodes_list is 
+ Parent node : 512 
+State: 
+5123
+6a74
+9b08
+defc  
+The 1657th index of nodes_list is 
+ Parent node : 513 
+State: 
+0123
+5674
+9ab8
+defc  
+The 1658th index of nodes_list is 
+ Parent node : 513 
+State: 
+5123
+9674
+0ab8
+defc  
+The 1659th index of nodes_list is 
+ Parent node : 513 
+State: 
+5123
+6074
+9ab8
+defc  
+The 1660th index of nodes_list is 
+ Parent node : 514 
+State: 
+5103
+6724
+9ab8
+defc  
+The 1661th index of nodes_list is 
+ Parent node : 514 
+State: 
+5123
+67b4
+9a08
+defc  
+The 1662th index of nodes_list is 
+ Parent node : 514 
+State: 
+5123
+6074
+9ab8
+defc  
+The 1663th index of nodes_list is 
+ Parent node : 514 
+State: 
+5123
+6740
+9ab8
+defc  
+The 1664th index of nodes_list is 
+ Parent node : 515 
+State: 
+5103
+6724
+9ab8
+defc  
+The 1665th index of nodes_list is 
+ Parent node : 515 
+State: 
+5123
+67b4
+9a08
+defc  
+The 1666th index of nodes_list is 
+ Parent node : 515 
+State: 
+5123
+6074
+9ab8
+defc  
+The 1667th index of nodes_list is 
+ Parent node : 515 
+State: 
+5123
+6740
+9ab8
+defc  
+The 1668th index of nodes_list is 
+ Parent node : 516 
+State: 
+5713
+6024
+9ab8
+defc  
+The 1669th index of nodes_list is 
+ Parent node : 516 
+State: 
+0513
+6724
+9ab8
+defc  
+The 1670th index of nodes_list is 
+ Parent node : 516 
+State: 
+5103
+6724
+9ab8
+defc  
+The 1671th index of nodes_list is 
+ Parent node : 517 
+State: 
+5134
+6720
+9ab8
+defc  
+The 1672th index of nodes_list is 
+ Parent node : 517 
+State: 
+5103
+6724
+9ab8
+defc  
+The 1673th index of nodes_list is 
+ Parent node : 518 
+State: 
+5103
+6724
+9ab8
+defc  
+The 1674th index of nodes_list is 
+ Parent node : 518 
+State: 
+5123
+67b4
+9a08
+defc  
+The 1675th index of nodes_list is 
+ Parent node : 518 
+State: 
+5123
+6074
+9ab8
+defc  
+The 1676th index of nodes_list is 
+ Parent node : 518 
+State: 
+5123
+6740
+9ab8
+defc  
+The 1677th index of nodes_list is 
+ Parent node : 519 
+State: 
+5123
+67b4
+9a08
+defc  
+The 1678th index of nodes_list is 
+ Parent node : 519 
+State: 
+5123
+67b4
+9af8
+d0ec  
+The 1679th index of nodes_list is 
+ Parent node : 519 
+State: 
+5123
+67b4
+9af8
+dec0  
+The 1680th index of nodes_list is 
+ Parent node : 520 
+State: 
+5123
+60b4
+97a8
+defc  
+The 1681th index of nodes_list is 
+ Parent node : 520 
+State: 
+5123
+67b4
+9ea8
+d0fc  
+The 1682th index of nodes_list is 
+ Parent node : 520 
+State: 
+5123
+67b4
+09a8
+defc  
+The 1683th index of nodes_list is 
+ Parent node : 520 
+State: 
+5123
+67b4
+9a08
+defc  
+The 1684th index of nodes_list is 
+ Parent node : 521 
+State: 
+5123
+67b0
+9a84
+defc  
+The 1685th index of nodes_list is 
+ Parent node : 521 
+State: 
+5123
+67b4
+9a8c
+def0  
+The 1686th index of nodes_list is 
+ Parent node : 521 
+State: 
+5123
+67b4
+9a08
+defc  
+The 1687th index of nodes_list is 
+ Parent node : 522 
+State: 
+5123
+6074
+9ab8
+defc  
+The 1688th index of nodes_list is 
+ Parent node : 522 
+State: 
+0523
+6174
+9ab8
+defc  
+The 1689th index of nodes_list is 
+ Parent node : 522 
+State: 
+5203
+6174
+9ab8
+defc  
+The 1690th index of nodes_list is 
+ Parent node : 523 
+State: 
+5123
+6074
+9ab8
+defc  
+The 1691th index of nodes_list is 
+ Parent node : 523 
+State: 
+5123
+6a74
+9eb8
+d0fc  
+The 1692th index of nodes_list is 
+ Parent node : 523 
+State: 
+5123
+6a74
+09b8
+defc  
+The 1693th index of nodes_list is 
+ Parent node : 523 
+State: 
+5123
+6a74
+9b08
+defc  
+The 1694th index of nodes_list is 
+ Parent node : 524 
+State: 
+0123
+5674
+9ab8
+defc  
+The 1695th index of nodes_list is 
+ Parent node : 524 
+State: 
+5123
+9674
+0ab8
+defc  
+The 1696th index of nodes_list is 
+ Parent node : 524 
+State: 
+5123
+6074
+9ab8
+defc  
+The 1697th index of nodes_list is 
+ Parent node : 525 
+State: 
+5103
+6724
+9ab8
+defc  
+The 1698th index of nodes_list is 
+ Parent node : 525 
+State: 
+5123
+67b4
+9a08
+defc  
+The 1699th index of nodes_list is 
+ Parent node : 525 
+State: 
+5123
+6074
+9ab8
+defc  
+The 1700th index of nodes_list is 
+ Parent node : 525 
+State: 
+5123
+6740
+9ab8
+defc  
+The 1701th index of nodes_list is 
+ Parent node : 526 
+State: 
+5123
+6740
+9ab8
+defc  
+The 1702th index of nodes_list is 
+ Parent node : 526 
+State: 
+5102
+6743
+9ab8
+defc  
+The 1703th index of nodes_list is 
+ Parent node : 527 
+State: 
+5123
+6740
+9ab8
+defc  
+The 1704th index of nodes_list is 
+ Parent node : 527 
+State: 
+5123
+6748
+9abc
+def0  
+The 1705th index of nodes_list is 
+ Parent node : 527 
+State: 
+5123
+6748
+9a0b
+defc  
+The 1706th index of nodes_list is 
+ Parent node : 528 
+State: 
+5103
+6724
+9ab8
+defc  
+The 1707th index of nodes_list is 
+ Parent node : 528 
+State: 
+5123
+67b4
+9a08
+defc  
+The 1708th index of nodes_list is 
+ Parent node : 528 
+State: 
+5123
+6074
+9ab8
+defc  
+The 1709th index of nodes_list is 
+ Parent node : 528 
+State: 
+5123
+6740
+9ab8
+defc  
+The 1710th index of nodes_list is 
+ Parent node : 529 
+State: 
+1623
+5074
+9ab8
+defc  
+The 1711th index of nodes_list is 
+ Parent node : 529 
+State: 
+0123
+5674
+9ab8
+defc  
+The 1712th index of nodes_list is 
+ Parent node : 529 
+State: 
+1203
+5674
+9ab8
+defc  
+The 1713th index of nodes_list is 
+ Parent node : 530 
+State: 
+1623
+5074
+9ab8
+defc  
+The 1714th index of nodes_list is 
+ Parent node : 530 
+State: 
+1623
+5a74
+9eb8
+d0fc  
+The 1715th index of nodes_list is 
+ Parent node : 530 
+State: 
+1623
+5a74
+09b8
+defc  
+The 1716th index of nodes_list is 
+ Parent node : 530 
+State: 
+1623
+5a74
+9b08
+defc  
+The 1717th index of nodes_list is 
+ Parent node : 531 
+State: 
+0623
+1574
+9ab8
+defc  
+The 1718th index of nodes_list is 
+ Parent node : 531 
+State: 
+1623
+9574
+0ab8
+defc  
+The 1719th index of nodes_list is 
+ Parent node : 531 
+State: 
+1623
+5074
+9ab8
+defc  
+The 1720th index of nodes_list is 
+ Parent node : 532 
+State: 
+1603
+5724
+9ab8
+defc  
+The 1721th index of nodes_list is 
+ Parent node : 532 
+State: 
+1623
+57b4
+9a08
+defc  
+The 1722th index of nodes_list is 
+ Parent node : 532 
+State: 
+1623
+5074
+9ab8
+defc  
+The 1723th index of nodes_list is 
+ Parent node : 532 
+State: 
+1623
+5740
+9ab8
+defc  
+The 1724th index of nodes_list is 
+ Parent node : 533 
+State: 
+0123
+5674
+9ab8
+defc  
+The 1725th index of nodes_list is 
+ Parent node : 533 
+State: 
+5123
+9674
+0ab8
+defc  
+The 1726th index of nodes_list is 
+ Parent node : 533 
+State: 
+5123
+6074
+9ab8
+defc  
+The 1727th index of nodes_list is 
+ Parent node : 534 
+State: 
+1623
+5074
+9ab8
+defc  
+The 1728th index of nodes_list is 
+ Parent node : 534 
+State: 
+0123
+5674
+9ab8
+defc  
+The 1729th index of nodes_list is 
+ Parent node : 534 
+State: 
+1203
+5674
+9ab8
+defc  
+The 1730th index of nodes_list is 
+ Parent node : 535 
+State: 
+1203
+5674
+9ab8
+defc  
+The 1731th index of nodes_list is 
+ Parent node : 535 
+State: 
+1273
+56b4
+9a08
+defc  
+The 1732th index of nodes_list is 
+ Parent node : 535 
+State: 
+1273
+5064
+9ab8
+defc  
+The 1733th index of nodes_list is 
+ Parent node : 535 
+State: 
+1273
+5640
+9ab8
+defc  
+The 1734th index of nodes_list is 
+ Parent node : 536 
+State: 
+1623
+5074
+9ab8
+defc  
+The 1735th index of nodes_list is 
+ Parent node : 536 
+State: 
+0123
+5674
+9ab8
+defc  
+The 1736th index of nodes_list is 
+ Parent node : 536 
+State: 
+1203
+5674
+9ab8
+defc  
+The 1737th index of nodes_list is 
+ Parent node : 537 
+State: 
+1234
+5670
+9ab8
+defc  
+The 1738th index of nodes_list is 
+ Parent node : 537 
+State: 
+1203
+5674
+9ab8
+defc  
+The 1739th index of nodes_list is 
+ Parent node : 538 
+State: 
+1623
+5074
+9ab8
+defc  
+The 1740th index of nodes_list is 
+ Parent node : 538 
+State: 
+0123
+5674
+9ab8
+defc  
+The 1741th index of nodes_list is 
+ Parent node : 538 
+State: 
+1203
+5674
+9ab8
+defc  
+The 1742th index of nodes_list is 
+ Parent node : 539 
+State: 
+1623
+5074
+9ab8
+defc  
+The 1743th index of nodes_list is 
+ Parent node : 539 
+State: 
+1623
+5a74
+9eb8
+d0fc  
+The 1744th index of nodes_list is 
+ Parent node : 539 
+State: 
+1623
+5a74
+09b8
+defc  
+The 1745th index of nodes_list is 
+ Parent node : 539 
+State: 
+1623
+5a74
+9b08
+defc  
+The 1746th index of nodes_list is 
+ Parent node : 540 
+State: 
+0623
+1574
+9ab8
+defc  
+The 1747th index of nodes_list is 
+ Parent node : 540 
+State: 
+1623
+9574
+0ab8
+defc  
+The 1748th index of nodes_list is 
+ Parent node : 540 
+State: 
+1623
+5074
+9ab8
+defc  
+The 1749th index of nodes_list is 
+ Parent node : 541 
+State: 
+1603
+5724
+9ab8
+defc  
+The 1750th index of nodes_list is 
+ Parent node : 541 
+State: 
+1623
+57b4
+9a08
+defc  
+The 1751th index of nodes_list is 
+ Parent node : 541 
+State: 
+1623
+5074
+9ab8
+defc  
+The 1752th index of nodes_list is 
+ Parent node : 541 
+State: 
+1623
+5740
+9ab8
+defc  
+The 1753th index of nodes_list is 
+ Parent node : 542 
+State: 
+1623
+5074
+9ab8
+defc  
+The 1754th index of nodes_list is 
+ Parent node : 542 
+State: 
+1623
+5a74
+9eb8
+d0fc  
+The 1755th index of nodes_list is 
+ Parent node : 542 
+State: 
+1623
+5a74
+09b8
+defc  
+The 1756th index of nodes_list is 
+ Parent node : 542 
+State: 
+1623
+5a74
+9b08
+defc  
+The 1757th index of nodes_list is 
+ Parent node : 543 
+State: 
+1623
+5a74
+0eb8
+9dfc  
+The 1758th index of nodes_list is 
+ Parent node : 543 
+State: 
+1623
+5a74
+9eb8
+d0fc  
+The 1759th index of nodes_list is 
+ Parent node : 544 
+State: 
+1623
+5a74
+9e08
+dfbc  
+The 1760th index of nodes_list is 
+ Parent node : 544 
+State: 
+1623
+5a74
+9eb8
+d0fc  
+The 1761th index of nodes_list is 
+ Parent node : 544 
+State: 
+1623
+5a74
+9eb8
+dfc0  
+The 1762th index of nodes_list is 
+ Parent node : 545 
+State: 
+0623
+1a74
+59b8
+defc  
+The 1763th index of nodes_list is 
+ Parent node : 545 
+State: 
+1623
+5a74
+09b8
+defc  
+The 1764th index of nodes_list is 
+ Parent node : 545 
+State: 
+1623
+a074
+59b8
+defc  
+The 1765th index of nodes_list is 
+ Parent node : 546 
+State: 
+1623
+5a74
+09b8
+defc  
+The 1766th index of nodes_list is 
+ Parent node : 546 
+State: 
+1623
+5a74
+d9b8
+e0fc  
+The 1767th index of nodes_list is 
+ Parent node : 547 
+State: 
+1623
+5074
+9ab8
+defc  
+The 1768th index of nodes_list is 
+ Parent node : 547 
+State: 
+1623
+5a74
+9eb8
+d0fc  
+The 1769th index of nodes_list is 
+ Parent node : 547 
+State: 
+1623
+5a74
+09b8
+defc  
+The 1770th index of nodes_list is 
+ Parent node : 547 
+State: 
+1623
+5a74
+9b08
+defc  
+The 1771th index of nodes_list is 
+ Parent node : 548 
+State: 
+1603
+5a24
+9b78
+defc  
+The 1772th index of nodes_list is 
+ Parent node : 548 
+State: 
+1623
+5a74
+9b08
+defc  
+The 1773th index of nodes_list is 
+ Parent node : 548 
+State: 
+1623
+50a4
+9b78
+defc  
+The 1774th index of nodes_list is 
+ Parent node : 548 
+State: 
+1623
+5a40
+9b78
+defc  
+The 1775th index of nodes_list is 
+ Parent node : 549 
+State: 
+1623
+5a74
+9b08
+defc  
+The 1776th index of nodes_list is 
+ Parent node : 549 
+State: 
+1623
+5a74
+9bf8
+d0ec  
+The 1777th index of nodes_list is 
+ Parent node : 549 
+State: 
+1623
+5a74
+9bf8
+dec0  
+The 1778th index of nodes_list is 
+ Parent node : 550 
+State: 
+1623
+5074
+9ab8
+defc  
+The 1779th index of nodes_list is 
+ Parent node : 550 
+State: 
+1623
+5a74
+9eb8
+d0fc  
+The 1780th index of nodes_list is 
+ Parent node : 550 
+State: 
+1623
+5a74
+09b8
+defc  
+The 1781th index of nodes_list is 
+ Parent node : 550 
+State: 
+1623
+5a74
+9b08
+defc  
+The 1782th index of nodes_list is 
+ Parent node : 551 
+State: 
+1623
+5a70
+9b84
+defc  
+The 1783th index of nodes_list is 
+ Parent node : 551 
+State: 
+1623
+5a74
+9b8c
+def0  
+The 1784th index of nodes_list is 
+ Parent node : 551 
+State: 
+1623
+5a74
+9b08
+defc  
+The 1785th index of nodes_list is 
+ Parent node : 552 
+State: 
+0623
+1574
+9ab8
+defc  
+The 1786th index of nodes_list is 
+ Parent node : 552 
+State: 
+1623
+9574
+0ab8
+defc  
+The 1787th index of nodes_list is 
+ Parent node : 552 
+State: 
+1623
+5074
+9ab8
+defc  
+The 1788th index of nodes_list is 
+ Parent node : 553 
+State: 
+6523
+1074
+9ab8
+defc  
+The 1789th index of nodes_list is 
+ Parent node : 553 
+State: 
+0623
+1574
+9ab8
+defc  
+The 1790th index of nodes_list is 
+ Parent node : 553 
+State: 
+6203
+1574
+9ab8
+defc  
+The 1791th index of nodes_list is 
+ Parent node : 554 
+State: 
+0623
+1574
+9ab8
+defc  
+The 1792th index of nodes_list is 
+ Parent node : 554 
+State: 
+1623
+9574
+0ab8
+defc  
+The 1793th index of nodes_list is 
+ Parent node : 554 
+State: 
+1623
+5074
+9ab8
+defc  
+The 1794th index of nodes_list is 
+ Parent node : 555 
+State: 
+1623
+9574
+0ab8
+defc  
+The 1795th index of nodes_list is 
+ Parent node : 555 
+State: 
+1623
+9574
+dab8
+e0fc  
+The 1796th index of nodes_list is 
+ Parent node : 556 
+State: 
+1623
+9074
+a5b8
+defc  
+The 1797th index of nodes_list is 
+ Parent node : 556 
+State: 
+1623
+9574
+aeb8
+d0fc  
+The 1798th index of nodes_list is 
+ Parent node : 556 
+State: 
+1623
+9574
+0ab8
+defc  
+The 1799th index of nodes_list is 
+ Parent node : 556 
+State: 
+1623
+9574
+ab08
+defc  
+The 1800th index of nodes_list is 
+ Parent node : 557 
+State: 
+1623
+5074
+9ab8
+defc  
+The 1801th index of nodes_list is 
+ Parent node : 557 
+State: 
+0123
+5674
+9ab8
+defc  
+The 1802th index of nodes_list is 
+ Parent node : 557 
+State: 
+1203
+5674
+9ab8
+defc  
+The 1803th index of nodes_list is 
+ Parent node : 558 
+State: 
+1623
+5074
+9ab8
+defc  
+The 1804th index of nodes_list is 
+ Parent node : 558 
+State: 
+1623
+5a74
+9eb8
+d0fc  
+The 1805th index of nodes_list is 
+ Parent node : 558 
+State: 
+1623
+5a74
+09b8
+defc  
+The 1806th index of nodes_list is 
+ Parent node : 558 
+State: 
+1623
+5a74
+9b08
+defc  
+The 1807th index of nodes_list is 
+ Parent node : 559 
+State: 
+0623
+1574
+9ab8
+defc  
+The 1808th index of nodes_list is 
+ Parent node : 559 
+State: 
+1623
+9574
+0ab8
+defc  
+The 1809th index of nodes_list is 
+ Parent node : 559 
+State: 
+1623
+5074
+9ab8
+defc  
+The 1810th index of nodes_list is 
+ Parent node : 560 
+State: 
+1603
+5724
+9ab8
+defc  
+The 1811th index of nodes_list is 
+ Parent node : 560 
+State: 
+1623
+57b4
+9a08
+defc  
+The 1812th index of nodes_list is 
+ Parent node : 560 
+State: 
+1623
+5074
+9ab8
+defc  
+The 1813th index of nodes_list is 
+ Parent node : 560 
+State: 
+1623
+5740
+9ab8
+defc  
+The 1814th index of nodes_list is 
+ Parent node : 561 
+State: 
+1603
+5724
+9ab8
+defc  
+The 1815th index of nodes_list is 
+ Parent node : 561 
+State: 
+1623
+57b4
+9a08
+defc  
+The 1816th index of nodes_list is 
+ Parent node : 561 
+State: 
+1623
+5074
+9ab8
+defc  
+The 1817th index of nodes_list is 
+ Parent node : 561 
+State: 
+1623
+5740
+9ab8
+defc  
+The 1818th index of nodes_list is 
+ Parent node : 562 
+State: 
+1763
+5024
+9ab8
+defc  
+The 1819th index of nodes_list is 
+ Parent node : 562 
+State: 
+0163
+5724
+9ab8
+defc  
+The 1820th index of nodes_list is 
+ Parent node : 562 
+State: 
+1603
+5724
+9ab8
+defc  
+The 1821th index of nodes_list is 
+ Parent node : 563 
+State: 
+1634
+5720
+9ab8
+defc  
+The 1822th index of nodes_list is 
+ Parent node : 563 
+State: 
+1603
+5724
+9ab8
+defc  
+The 1823th index of nodes_list is 
+ Parent node : 564 
+State: 
+1603
+5724
+9ab8
+defc  
+The 1824th index of nodes_list is 
+ Parent node : 564 
+State: 
+1623
+57b4
+9a08
+defc  
+The 1825th index of nodes_list is 
+ Parent node : 564 
+State: 
+1623
+5074
+9ab8
+defc  
+The 1826th index of nodes_list is 
+ Parent node : 564 
+State: 
+1623
+5740
+9ab8
+defc  
+The 1827th index of nodes_list is 
+ Parent node : 565 
+State: 
+1623
+57b4
+9a08
+defc  
+The 1828th index of nodes_list is 
+ Parent node : 565 
+State: 
+1623
+57b4
+9af8
+d0ec  
+The 1829th index of nodes_list is 
+ Parent node : 565 
+State: 
+1623
+57b4
+9af8
+dec0  
+The 1830th index of nodes_list is 
+ Parent node : 566 
+State: 
+1623
+50b4
+97a8
+defc  
+The 1831th index of nodes_list is 
+ Parent node : 566 
+State: 
+1623
+57b4
+9ea8
+d0fc  
+The 1832th index of nodes_list is 
+ Parent node : 566 
+State: 
+1623
+57b4
+09a8
+defc  
+The 1833th index of nodes_list is 
+ Parent node : 566 
+State: 
+1623
+57b4
+9a08
+defc  
+The 1834th index of nodes_list is 
+ Parent node : 567 
+State: 
+1623
+57b0
+9a84
+defc  
+The 1835th index of nodes_list is 
+ Parent node : 567 
+State: 
+1623
+57b4
+9a8c
+def0  
+The 1836th index of nodes_list is 
+ Parent node : 567 
+State: 
+1623
+57b4
+9a08
+defc  
+The 1837th index of nodes_list is 
+ Parent node : 568 
+State: 
+1623
+5074
+9ab8
+defc  
+The 1838th index of nodes_list is 
+ Parent node : 568 
+State: 
+0123
+5674
+9ab8
+defc  
+The 1839th index of nodes_list is 
+ Parent node : 568 
+State: 
+1203
+5674
+9ab8
+defc  
+The 1840th index of nodes_list is 
+ Parent node : 569 
+State: 
+1623
+5074
+9ab8
+defc  
+The 1841th index of nodes_list is 
+ Parent node : 569 
+State: 
+1623
+5a74
+9eb8
+d0fc  
+The 1842th index of nodes_list is 
+ Parent node : 569 
+State: 
+1623
+5a74
+09b8
+defc  
+The 1843th index of nodes_list is 
+ Parent node : 569 
+State: 
+1623
+5a74
+9b08
+defc  
+The 1844th index of nodes_list is 
+ Parent node : 570 
+State: 
+0623
+1574
+9ab8
+defc  
+The 1845th index of nodes_list is 
+ Parent node : 570 
+State: 
+1623
+9574
+0ab8
+defc  
+The 1846th index of nodes_list is 
+ Parent node : 570 
+State: 
+1623
+5074
+9ab8
+defc  
+The 1847th index of nodes_list is 
+ Parent node : 571 
+State: 
+1603
+5724
+9ab8
+defc  
+The 1848th index of nodes_list is 
+ Parent node : 571 
+State: 
+1623
+57b4
+9a08
+defc  
+The 1849th index of nodes_list is 
+ Parent node : 571 
+State: 
+1623
+5074
+9ab8
+defc  
+The 1850th index of nodes_list is 
+ Parent node : 571 
+State: 
+1623
+5740
+9ab8
+defc  
+The 1851th index of nodes_list is 
+ Parent node : 572 
+State: 
+1623
+5740
+9ab8
+defc  
+The 1852th index of nodes_list is 
+ Parent node : 572 
+State: 
+1602
+5743
+9ab8
+defc  
+The 1853th index of nodes_list is 
+ Parent node : 573 
+State: 
+1623
+5740
+9ab8
+defc  
+The 1854th index of nodes_list is 
+ Parent node : 573 
+State: 
+1623
+5748
+9abc
+def0  
+The 1855th index of nodes_list is 
+ Parent node : 573 
+State: 
+1623
+5748
+9a0b
+defc  
+The 1856th index of nodes_list is 
+ Parent node : 574 
+State: 
+1603
+5724
+9ab8
+defc  
+The 1857th index of nodes_list is 
+ Parent node : 574 
+State: 
+1623
+57b4
+9a08
+defc  
+The 1858th index of nodes_list is 
+ Parent node : 574 
+State: 
+1623
+5074
+9ab8
+defc  
+The 1859th index of nodes_list is 
+ Parent node : 574 
+State: 
+1623
+5740
+9ab8
+defc  
+The 1860th index of nodes_list is 
+ Parent node : 575 
+State: 
+0123
+5674
+9ab8
+defc  
+The 1861th index of nodes_list is 
+ Parent node : 575 
+State: 
+5123
+9674
+0ab8
+defc  
+The 1862th index of nodes_list is 
+ Parent node : 575 
+State: 
+5123
+6074
+9ab8
+defc  
+The 1863th index of nodes_list is 
+ Parent node : 576 
+State: 
+1623
+5074
+9ab8
+defc  
+The 1864th index of nodes_list is 
+ Parent node : 576 
+State: 
+0123
+5674
+9ab8
+defc  
+The 1865th index of nodes_list is 
+ Parent node : 576 
+State: 
+1203
+5674
+9ab8
+defc  
+The 1866th index of nodes_list is 
+ Parent node : 577 
+State: 
+0123
+5674
+9ab8
+defc  
+The 1867th index of nodes_list is 
+ Parent node : 577 
+State: 
+5123
+9674
+0ab8
+defc  
+The 1868th index of nodes_list is 
+ Parent node : 577 
+State: 
+5123
+6074
+9ab8
+defc  
+The 1869th index of nodes_list is 
+ Parent node : 578 
+State: 
+5123
+9674
+0ab8
+defc  
+The 1870th index of nodes_list is 
+ Parent node : 578 
+State: 
+5123
+9674
+dab8
+e0fc  
+The 1871th index of nodes_list is 
+ Parent node : 579 
+State: 
+5123
+9074
+a6b8
+defc  
+The 1872th index of nodes_list is 
+ Parent node : 579 
+State: 
+5123
+9674
+aeb8
+d0fc  
+The 1873th index of nodes_list is 
+ Parent node : 579 
+State: 
+5123
+9674
+0ab8
+defc  
+The 1874th index of nodes_list is 
+ Parent node : 579 
+State: 
+5123
+9674
+ab08
+defc  
+The 1875th index of nodes_list is 
+ Parent node : 580 
+State: 
+5123
+6074
+9ab8
+defc  
+The 1876th index of nodes_list is 
+ Parent node : 580 
+State: 
+0523
+6174
+9ab8
+defc  
+The 1877th index of nodes_list is 
+ Parent node : 580 
+State: 
+5203
+6174
+9ab8
+defc  
+The 1878th index of nodes_list is 
+ Parent node : 581 
+State: 
+5123
+6074
+9ab8
+defc  
+The 1879th index of nodes_list is 
+ Parent node : 581 
+State: 
+5123
+6a74
+9eb8
+d0fc  
+The 1880th index of nodes_list is 
+ Parent node : 581 
+State: 
+5123
+6a74
+09b8
+defc  
+The 1881th index of nodes_list is 
+ Parent node : 581 
+State: 
+5123
+6a74
+9b08
+defc  
+The 1882th index of nodes_list is 
+ Parent node : 582 
+State: 
+0123
+5674
+9ab8
+defc  
+The 1883th index of nodes_list is 
+ Parent node : 582 
+State: 
+5123
+9674
+0ab8
+defc  
+The 1884th index of nodes_list is 
+ Parent node : 582 
+State: 
+5123
+6074
+9ab8
+defc  
+The 1885th index of nodes_list is 
+ Parent node : 583 
+State: 
+5103
+6724
+9ab8
+defc  
+The 1886th index of nodes_list is 
+ Parent node : 583 
+State: 
+5123
+67b4
+9a08
+defc  
+The 1887th index of nodes_list is 
+ Parent node : 583 
+State: 
+5123
+6074
+9ab8
+defc  
+The 1888th index of nodes_list is 
+ Parent node : 583 
+State: 
+5123
+6740
+9ab8
+defc  
+The 1889th index of nodes_list is 
+ Parent node : 584 
+State: 
+1623
+5074
+9ab8
+defc  
+The 1890th index of nodes_list is 
+ Parent node : 584 
+State: 
+0123
+5674
+9ab8
+defc  
+The 1891th index of nodes_list is 
+ Parent node : 584 
+State: 
+1203
+5674
+9ab8
+defc  
+The 1892th index of nodes_list is 
+ Parent node : 585 
+State: 
+1623
+5074
+9ab8
+defc  
+The 1893th index of nodes_list is 
+ Parent node : 585 
+State: 
+1623
+5a74
+9eb8
+d0fc  
+The 1894th index of nodes_list is 
+ Parent node : 585 
+State: 
+1623
+5a74
+09b8
+defc  
+The 1895th index of nodes_list is 
+ Parent node : 585 
+State: 
+1623
+5a74
+9b08
+defc  
+The 1896th index of nodes_list is 
+ Parent node : 586 
+State: 
+0623
+1574
+9ab8
+defc  
+The 1897th index of nodes_list is 
+ Parent node : 586 
+State: 
+1623
+9574
+0ab8
+defc  
+The 1898th index of nodes_list is 
+ Parent node : 586 
+State: 
+1623
+5074
+9ab8
+defc  
+The 1899th index of nodes_list is 
+ Parent node : 587 
+State: 
+1603
+5724
+9ab8
+defc  
+The 1900th index of nodes_list is 
+ Parent node : 587 
+State: 
+1623
+57b4
+9a08
+defc  
+The 1901th index of nodes_list is 
+ Parent node : 587 
+State: 
+1623
+5074
+9ab8
+defc  
+The 1902th index of nodes_list is 
+ Parent node : 587 
+State: 
+1623
+5740
+9ab8
+defc  
+The 1903th index of nodes_list is 
+ Parent node : 588 
+State: 
+0123
+5674
+9ab8
+defc  
+The 1904th index of nodes_list is 
+ Parent node : 588 
+State: 
+5123
+9674
+0ab8
+defc  
+The 1905th index of nodes_list is 
+ Parent node : 588 
+State: 
+5123
+6074
+9ab8
+defc  
+The 1906th index of nodes_list is 
+ Parent node : 589 
+State: 
+1623
+5074
+9ab8
+defc  
+The 1907th index of nodes_list is 
+ Parent node : 589 
+State: 
+0123
+5674
+9ab8
+defc  
+The 1908th index of nodes_list is 
+ Parent node : 589 
+State: 
+1203
+5674
+9ab8
+defc  
+The 1909th index of nodes_list is 
+ Parent node : 590 
+State: 
+1203
+5674
+9ab8
+defc  
+The 1910th index of nodes_list is 
+ Parent node : 590 
+State: 
+1273
+56b4
+9a08
+defc  
+The 1911th index of nodes_list is 
+ Parent node : 590 
+State: 
+1273
+5064
+9ab8
+defc  
+The 1912th index of nodes_list is 
+ Parent node : 590 
+State: 
+1273
+5640
+9ab8
+defc  
+The 1913th index of nodes_list is 
+ Parent node : 591 
+State: 
+1623
+5074
+9ab8
+defc  
+The 1914th index of nodes_list is 
+ Parent node : 591 
+State: 
+0123
+5674
+9ab8
+defc  
+The 1915th index of nodes_list is 
+ Parent node : 591 
+State: 
+1203
+5674
+9ab8
+defc  
+The 1916th index of nodes_list is 
+ Parent node : 592 
+State: 
+1234
+5670
+9ab8
+defc  
+The 1917th index of nodes_list is 
+ Parent node : 592 
+State: 
+1203
+5674
+9ab8
+defc  
+The 1918th index of nodes_list is 
+ Parent node : 593 
+State: 
+1203
+5674
+9ab8
+defc  
+The 1919th index of nodes_list is 
+ Parent node : 593 
+State: 
+1273
+56b4
+9a08
+defc  
+The 1920th index of nodes_list is 
+ Parent node : 593 
+State: 
+1273
+5064
+9ab8
+defc  
+The 1921th index of nodes_list is 
+ Parent node : 593 
+State: 
+1273
+5640
+9ab8
+defc  
+The 1922th index of nodes_list is 
+ Parent node : 594 
+State: 
+1623
+5074
+9ab8
+defc  
+The 1923th index of nodes_list is 
+ Parent node : 594 
+State: 
+0123
+5674
+9ab8
+defc  
+The 1924th index of nodes_list is 
+ Parent node : 594 
+State: 
+1203
+5674
+9ab8
+defc  
+The 1925th index of nodes_list is 
+ Parent node : 595 
+State: 
+1234
+5670
+9ab8
+defc  
+The 1926th index of nodes_list is 
+ Parent node : 595 
+State: 
+1203
+5674
+9ab8
+defc  
+The 1927th index of nodes_list is 
+ Parent node : 596 
+State: 
+1203
+5674
+9ab8
+defc  
+The 1928th index of nodes_list is 
+ Parent node : 596 
+State: 
+1273
+56b4
+9a08
+defc  
+The 1929th index of nodes_list is 
+ Parent node : 596 
+State: 
+1273
+5064
+9ab8
+defc  
+The 1930th index of nodes_list is 
+ Parent node : 596 
+State: 
+1273
+5640
+9ab8
+defc  
+The 1931th index of nodes_list is 
+ Parent node : 597 
+State: 
+1273
+56b4
+9a08
+defc  
+The 1932th index of nodes_list is 
+ Parent node : 597 
+State: 
+1273
+56b4
+9af8
+d0ec  
+The 1933th index of nodes_list is 
+ Parent node : 597 
+State: 
+1273
+56b4
+9af8
+dec0  
+The 1934th index of nodes_list is 
+ Parent node : 598 
+State: 
+1273
+50b4
+96a8
+defc  
+The 1935th index of nodes_list is 
+ Parent node : 598 
+State: 
+1273
+56b4
+9ea8
+d0fc  
+The 1936th index of nodes_list is 
+ Parent node : 598 
+State: 
+1273
+56b4
+09a8
+defc  
+The 1937th index of nodes_list is 
+ Parent node : 598 
+State: 
+1273
+56b4
+9a08
+defc  
+The 1938th index of nodes_list is 
+ Parent node : 599 
+State: 
+1273
+56b0
+9a84
+defc  
+The 1939th index of nodes_list is 
+ Parent node : 599 
+State: 
+1273
+56b4
+9a8c
+def0  
+The 1940th index of nodes_list is 
+ Parent node : 599 
+State: 
+1273
+56b4
+9a08
+defc  
+The 1941th index of nodes_list is 
+ Parent node : 600 
+State: 
+1273
+5064
+9ab8
+defc  
+The 1942th index of nodes_list is 
+ Parent node : 600 
+State: 
+0173
+5264
+9ab8
+defc  
+The 1943th index of nodes_list is 
+ Parent node : 600 
+State: 
+1703
+5264
+9ab8
+defc  
+The 1944th index of nodes_list is 
+ Parent node : 601 
+State: 
+1273
+5064
+9ab8
+defc  
+The 1945th index of nodes_list is 
+ Parent node : 601 
+State: 
+1273
+5a64
+9eb8
+d0fc  
+The 1946th index of nodes_list is 
+ Parent node : 601 
+State: 
+1273
+5a64
+09b8
+defc  
+The 1947th index of nodes_list is 
+ Parent node : 601 
+State: 
+1273
+5a64
+9b08
+defc  
+The 1948th index of nodes_list is 
+ Parent node : 602 
+State: 
+0273
+1564
+9ab8
+defc  
+The 1949th index of nodes_list is 
+ Parent node : 602 
+State: 
+1273
+9564
+0ab8
+defc  
+The 1950th index of nodes_list is 
+ Parent node : 602 
+State: 
+1273
+5064
+9ab8
+defc  
+The 1951th index of nodes_list is 
+ Parent node : 603 
+State: 
+1203
+5674
+9ab8
+defc  
+The 1952th index of nodes_list is 
+ Parent node : 603 
+State: 
+1273
+56b4
+9a08
+defc  
+The 1953th index of nodes_list is 
+ Parent node : 603 
+State: 
+1273
+5064
+9ab8
+defc  
+The 1954th index of nodes_list is 
+ Parent node : 603 
+State: 
+1273
+5640
+9ab8
+defc  
+The 1955th index of nodes_list is 
+ Parent node : 604 
+State: 
+1273
+5640
+9ab8
+defc  
+The 1956th index of nodes_list is 
+ Parent node : 604 
+State: 
+1207
+5643
+9ab8
+defc  
+The 1957th index of nodes_list is 
+ Parent node : 605 
+State: 
+1273
+5640
+9ab8
+defc  
+The 1958th index of nodes_list is 
+ Parent node : 605 
+State: 
+1273
+5648
+9abc
+def0  
+The 1959th index of nodes_list is 
+ Parent node : 605 
+State: 
+1273
+5648
+9a0b
+defc  
+The 1960th index of nodes_list is 
+ Parent node : 606 
+State: 
+1203
+5674
+9ab8
+defc  
+The 1961th index of nodes_list is 
+ Parent node : 606 
+State: 
+1273
+56b4
+9a08
+defc  
+The 1962th index of nodes_list is 
+ Parent node : 606 
+State: 
+1273
+5064
+9ab8
+defc  
+The 1963th index of nodes_list is 
+ Parent node : 606 
+State: 
+1273
+5640
+9ab8
+defc  
+The 1964th index of nodes_list is 
+ Parent node : 607 
+State: 
+1623
+5074
+9ab8
+defc  
+The 1965th index of nodes_list is 
+ Parent node : 607 
+State: 
+0123
+5674
+9ab8
+defc  
+The 1966th index of nodes_list is 
+ Parent node : 607 
+State: 
+1203
+5674
+9ab8
+defc  
+The 1967th index of nodes_list is 
+ Parent node : 608 
+State: 
+1623
+5074
+9ab8
+defc  
+The 1968th index of nodes_list is 
+ Parent node : 608 
+State: 
+1623
+5a74
+9eb8
+d0fc  
+The 1969th index of nodes_list is 
+ Parent node : 608 
+State: 
+1623
+5a74
+09b8
+defc  
+The 1970th index of nodes_list is 
+ Parent node : 608 
+State: 
+1623
+5a74
+9b08
+defc  
+The 1971th index of nodes_list is 
+ Parent node : 609 
+State: 
+0623
+1574
+9ab8
+defc  
+The 1972th index of nodes_list is 
+ Parent node : 609 
+State: 
+1623
+9574
+0ab8
+defc  
+The 1973th index of nodes_list is 
+ Parent node : 609 
+State: 
+1623
+5074
+9ab8
+defc  
+The 1974th index of nodes_list is 
+ Parent node : 610 
+State: 
+1603
+5724
+9ab8
+defc  
+The 1975th index of nodes_list is 
+ Parent node : 610 
+State: 
+1623
+57b4
+9a08
+defc  
+The 1976th index of nodes_list is 
+ Parent node : 610 
+State: 
+1623
+5074
+9ab8
+defc  
+The 1977th index of nodes_list is 
+ Parent node : 610 
+State: 
+1623
+5740
+9ab8
+defc  
+The 1978th index of nodes_list is 
+ Parent node : 611 
+State: 
+0123
+5674
+9ab8
+defc  
+The 1979th index of nodes_list is 
+ Parent node : 611 
+State: 
+5123
+9674
+0ab8
+defc  
+The 1980th index of nodes_list is 
+ Parent node : 611 
+State: 
+5123
+6074
+9ab8
+defc  
+The 1981th index of nodes_list is 
+ Parent node : 612 
+State: 
+1623
+5074
+9ab8
+defc  
+The 1982th index of nodes_list is 
+ Parent node : 612 
+State: 
+0123
+5674
+9ab8
+defc  
+The 1983th index of nodes_list is 
+ Parent node : 612 
+State: 
+1203
+5674
+9ab8
+defc  
+The 1984th index of nodes_list is 
+ Parent node : 613 
+State: 
+1203
+5674
+9ab8
+defc  
+The 1985th index of nodes_list is 
+ Parent node : 613 
+State: 
+1273
+56b4
+9a08
+defc  
+The 1986th index of nodes_list is 
+ Parent node : 613 
+State: 
+1273
+5064
+9ab8
+defc  
+The 1987th index of nodes_list is 
+ Parent node : 613 
+State: 
+1273
+5640
+9ab8
+defc  
+The 1988th index of nodes_list is 
+ Parent node : 614 
+State: 
+1623
+5074
+9ab8
+defc  
+The 1989th index of nodes_list is 
+ Parent node : 614 
+State: 
+0123
+5674
+9ab8
+defc  
+The 1990th index of nodes_list is 
+ Parent node : 614 
+State: 
+1203
+5674
+9ab8
+defc  
+The 1991th index of nodes_list is 
+ Parent node : 615 
+State: 
+1234
+5670
+9ab8
+defc  
+The 1992th index of nodes_list is 
+ Parent node : 615 
+State: 
+1203
+5674
+9ab8
+defc  
+The 1993th index of nodes_list is 
+ Parent node : 616 
+State: 
+1234
+5670
+9ab8
+defc  
+The 1994th index of nodes_list is 
+ Parent node : 616 
+State: 
+1203
+5674
+9ab8
+defc  
+The 1995th index of nodes_list is 
+ Parent node : 617 
+State: 
+1234
+5670
+9ab8
+defc  
+The 1996th index of nodes_list is 
+ Parent node : 617 
+State: 
+1234
+5678
+9abc
+def0  
+Path to Goal is below:
+Parent node : None 
+State: 
+5123
+0674
+9ab8
+defc Parent node : 0 
+State: 
+0123
+5674
+9ab8
+defc Parent node : 1 
+State: 
+1023
+5674
+9ab8
+defc Parent node : 5 
+State: 
+1203
+5674
+9ab8
+defc Parent node : 18 
+State: 
+1230
+5674
+9ab8
+defc Parent node : 59 
+State: 
+1234
+5670
+9ab8
+defc Parent node : 191 
+State: 
+1234
+5678
+9ab0
+defc Parent node : 617 
+State: 
+1234
+5678
+9abc
+def0 
