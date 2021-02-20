@@ -1,7 +1,4 @@
-# This is a sample Python script.
-
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+# Data type class TreeNode () to store the parent and the state of the node
 
 class TreeNode:
     def __init__(self, parent=0, state='1234567890abcdef'):
@@ -12,7 +9,7 @@ class TreeNode:
     def __str__(self):
         return f"Parent node : {self.parent} \nState: \n{self.state[0:4]}\n{self.state[4:8]}\n{self.state[8:12]}\n{self.state[12:16]} "
 
-
+# Function possible_child_states takes the node as input and returns the possible childs for the input node
 def possible_child_states(tn=TreeNode()):
     zero_location = tn.blank_tile_location
     # Top action move
@@ -60,7 +57,7 @@ def possible_child_states(tn=TreeNode()):
 
     return [tpart, bpart, lpart, rpart]  # Order [top, bottom, left, right]
 
-
+# Function takes input from the user to create an input state
 def input_state():
     i = 1
     state = ''
@@ -85,7 +82,7 @@ def input_state():
 
     return state
 
-
+# Explores all the states until a goal state is reached. Prints the output to the text file
 def tree_builder():
     f = open('test.txt', 'w')
     nodes_list = [TreeNode(None, input_state())]
@@ -96,16 +93,17 @@ def tree_builder():
     while goal_not_found:
         x = nodes_list[iterator]
         if x.state == '123456789abcdef0':
-            # print(f'Goal State Found. The index is {iterator}')
+            # If finput state is goal
             f.write(f'Goal State Found. The index is {iterator} \n')
             break
         for child_state in possible_child_states(x):
             
             if child_state is not None and child_state not in nodes_list:
+                # If teh child state is valid or is not visited
                 nodes_list.append(TreeNode(iterator, child_state))
 
             if child_state == '123456789abcdef0':
-                # print(f'Goal State Found. The parent is {iterator}')
+                # If the child state is goal
                 f.write(f'Goal State Found. The parent is {iterator} \n')
                 goal_not_found = False
                 break
@@ -113,13 +111,14 @@ def tree_builder():
         iterator += 1
     i = 0
     for n in nodes_list:
-        # print(f"The {i}th index of nodes_list is \n {n} \n")
+        # printing all the nodes
         f.write(f"The {i}th index of nodes_list is \n {n} \n")
         i+=1
     
     f.write('Path to Goal is below:\n')
     a = -1
     path_list = []
+    # Backtracking to find the optimum state
     while True:
         path_list.append(nodes_list[a])
         
@@ -130,6 +129,7 @@ def tree_builder():
         
     path_list.reverse()
     for n in path_list:
+        # Prints to file
         f.write(f"{n}")
         
     f.close()
